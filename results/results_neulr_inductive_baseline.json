@@ -1,0 +1,7013 @@
+{
+  "dataset_name": "neulr_inductive",
+  "model_name": "gpt-5",
+  "total_samples": 1000,
+  "correct_count": 771,
+  "error_count": 219,
+  "refusal_count": 10,
+  "answer_correctness_rate": 0.771,
+  "answer_error_rate": 0.219,
+  "refusal_rate": 0.01,
+  "results": [
+    {
+      "id": 1,
+      "gold": "adpkmyw3e",
+      "prediction": "adpkmyw3e",
+      "raw_prediction": "ADPkMYw3e",
+      "status": "correct"
+    },
+    {
+      "id": 2,
+      "gold": "adpyw57pm",
+      "prediction": "adpyw57pm",
+      "raw_prediction": "ADPYW57pM",
+      "status": "correct"
+    },
+    {
+      "id": 3,
+      "gold": "adpzvoiqk",
+      "prediction": "spl2mv9p",
+      "raw_prediction": "SPL2mV9P",
+      "status": "error"
+    },
+    {
+      "id": 4,
+      "gold": "adpkpg8bw",
+      "prediction": "spetxpp8",
+      "raw_prediction": "SPeTxPp8",
+      "status": "error"
+    },
+    {
+      "id": 5,
+      "gold": "adpwby7rk",
+      "prediction": "adpwby7rk",
+      "raw_prediction": "ADPWbY7rk",
+      "status": "correct"
+    },
+    {
+      "id": 6,
+      "gold": "adphipy8s",
+      "prediction": "adphipy8s",
+      "raw_prediction": "ADPHIpy8S",
+      "status": "correct"
+    },
+    {
+      "id": 7,
+      "gold": "adp35qfd2",
+      "prediction": "adp35qfd2",
+      "raw_prediction": "ADP35QfD2",
+      "status": "correct"
+    },
+    {
+      "id": 8,
+      "gold": "adpvcvwgx",
+      "prediction": "adpvcvwgx",
+      "raw_prediction": "ADPVCVWGX",
+      "status": "correct"
+    },
+    {
+      "id": 9,
+      "gold": "adprvarei",
+      "prediction": "adprvarei",
+      "raw_prediction": "ADPRVaRei",
+      "status": "correct"
+    },
+    {
+      "id": 10,
+      "gold": "adpaqxctb",
+      "prediction": "adpaqxctb",
+      "raw_prediction": "ADPaQxCTb",
+      "status": "correct"
+    },
+    {
+      "id": 11,
+      "gold": "adpqsbpxr",
+      "prediction": "adpqsbpxr",
+      "raw_prediction": "ADPqSbpxr",
+      "status": "correct"
+    },
+    {
+      "id": 12,
+      "gold": "adp5xszmu",
+      "prediction": "sp7rf7nf",
+      "raw_prediction": "SP7rF7Nf",
+      "status": "error"
+    },
+    {
+      "id": 13,
+      "gold": "adp5g04gi",
+      "prediction": "spefamq3",
+      "raw_prediction": "SPefaMQ3",
+      "status": "error"
+    },
+    {
+      "id": 14,
+      "gold": "adpwbpa4e",
+      "prediction": "adpwbpa4e",
+      "raw_prediction": "ADPwbPA4E",
+      "status": "correct"
+    },
+    {
+      "id": 15,
+      "gold": "adpma8sie",
+      "prediction": "spgdaser",
+      "raw_prediction": "SPgdAser",
+      "status": "error"
+    },
+    {
+      "id": 16,
+      "gold": "adp3xwxxv",
+      "prediction": "adp3xwxxv",
+      "raw_prediction": "ADP3xWXXV",
+      "status": "correct"
+    },
+    {
+      "id": 17,
+      "gold": "adp0dgtqz",
+      "prediction": "adp0dgtqz",
+      "raw_prediction": "ADP0dGtqZ",
+      "status": "correct"
+    },
+    {
+      "id": 18,
+      "gold": "adpddavo4",
+      "prediction": "adpddavo4",
+      "raw_prediction": "ADPddAVO4",
+      "status": "correct"
+    },
+    {
+      "id": 19,
+      "gold": "adptvq8gt",
+      "prediction": "adptvq8gt",
+      "raw_prediction": "ADPtvQ8GT",
+      "status": "correct"
+    },
+    {
+      "id": 20,
+      "gold": "adpswk4sf",
+      "prediction": "adpswk4sf",
+      "raw_prediction": "ADPsWk4sf",
+      "status": "correct"
+    },
+    {
+      "id": 21,
+      "gold": "adpdl7fzh",
+      "prediction": "adpdl7fzh",
+      "raw_prediction": "ADPDl7fzH",
+      "status": "correct"
+    },
+    {
+      "id": 22,
+      "gold": "adpxrc2x8",
+      "prediction": "adpxrc2x8",
+      "raw_prediction": "ADPxrC2X8",
+      "status": "correct"
+    },
+    {
+      "id": 23,
+      "gold": "adpmv1a1r",
+      "prediction": "adpmv1a1r",
+      "raw_prediction": "ADPMv1A1R",
+      "status": "correct"
+    },
+    {
+      "id": 24,
+      "gold": "adppkemaw",
+      "prediction": "adppkemaw",
+      "raw_prediction": "ADPPKEmaw",
+      "status": "correct"
+    },
+    {
+      "id": 25,
+      "gold": "adprulv8i",
+      "prediction": "adprulv8i",
+      "raw_prediction": "ADPruLV8I",
+      "status": "correct"
+    },
+    {
+      "id": 26,
+      "gold": "adpqdhaof",
+      "prediction": "sp8rs1a5",
+      "raw_prediction": "SP8Rs1A5",
+      "status": "error"
+    },
+    {
+      "id": 27,
+      "gold": "adp5fitpi",
+      "prediction": "adp5fitpi",
+      "raw_prediction": "ADP5fITpI",
+      "status": "correct"
+    },
+    {
+      "id": 28,
+      "gold": "adprvavqc",
+      "prediction": "adprvavqc",
+      "raw_prediction": "ADPrvavqC",
+      "status": "correct"
+    },
+    {
+      "id": 29,
+      "gold": "adpb7kcsk",
+      "prediction": "adpb7kcsk",
+      "raw_prediction": "ADPb7kcsk",
+      "status": "correct"
+    },
+    {
+      "id": 30,
+      "gold": "adpahbxrz",
+      "prediction": "sp94b4n9",
+      "raw_prediction": "SP94b4n9",
+      "status": "error"
+    },
+    {
+      "id": 31,
+      "gold": "adpeol2we",
+      "prediction": "adpeol2we",
+      "raw_prediction": "ADPeOL2we",
+      "status": "correct"
+    },
+    {
+      "id": 32,
+      "gold": "adppsnsis",
+      "prediction": "adppsnsis",
+      "raw_prediction": "ADPPSnsis",
+      "status": "correct"
+    },
+    {
+      "id": 33,
+      "gold": "adpc6vlgo",
+      "prediction": "adpc6vlgo",
+      "raw_prediction": "ADPC6vlGO",
+      "status": "correct"
+    },
+    {
+      "id": 34,
+      "gold": "adp3vcsfq",
+      "prediction": "adp3vcsfq",
+      "raw_prediction": "ADP3vcsFq",
+      "status": "correct"
+    },
+    {
+      "id": 35,
+      "gold": "adpbkyrbn",
+      "prediction": "spsenzvt",
+      "raw_prediction": "SPSeNZVt",
+      "status": "error"
+    },
+    {
+      "id": 36,
+      "gold": "adp2aguwx",
+      "prediction": "adp2aguwx",
+      "raw_prediction": "ADP2aguwX",
+      "status": "correct"
+    },
+    {
+      "id": 37,
+      "gold": "adpxmatag",
+      "prediction": "adpxmatag",
+      "raw_prediction": "ADPXMatAg",
+      "status": "correct"
+    },
+    {
+      "id": 38,
+      "gold": "adpsvypid",
+      "prediction": "adpsvypid",
+      "raw_prediction": "ADPSvypiD",
+      "status": "correct"
+    },
+    {
+      "id": 39,
+      "gold": "adpg3zyxs",
+      "prediction": "adpg3zyxs",
+      "raw_prediction": "ADPG3ZYxs",
+      "status": "correct"
+    },
+    {
+      "id": 40,
+      "gold": "adpbgxefi",
+      "prediction": "spi12lqb",
+      "raw_prediction": "SPI12lQB",
+      "status": "error"
+    },
+    {
+      "id": 41,
+      "gold": "adpheemqf",
+      "prediction": "adpheemqf",
+      "raw_prediction": "ADPHEEMQf",
+      "status": "correct"
+    },
+    {
+      "id": 42,
+      "gold": "adpt9gm3k",
+      "prediction": "adpt9gm3k",
+      "raw_prediction": "ADPT9gm3k",
+      "status": "correct"
+    },
+    {
+      "id": 43,
+      "gold": "adp8kdzll",
+      "prediction": "adp8kdzll",
+      "raw_prediction": "ADP8KdZll",
+      "status": "correct"
+    },
+    {
+      "id": 44,
+      "gold": "adpl4ovz2",
+      "prediction": "adpl4ovz2",
+      "raw_prediction": "ADPL4oVz2",
+      "status": "correct"
+    },
+    {
+      "id": 45,
+      "gold": "adpd0iqnc",
+      "prediction": "adpd0iqnc",
+      "raw_prediction": "ADPD0iqNc",
+      "status": "correct"
+    },
+    {
+      "id": 46,
+      "gold": "adpasgmmy",
+      "prediction": "adpasgmmy",
+      "raw_prediction": "ADPasGmmY",
+      "status": "correct"
+    },
+    {
+      "id": 47,
+      "gold": "adpaoow29",
+      "prediction": "adpaoow29",
+      "raw_prediction": "ADPAOow29",
+      "status": "correct"
+    },
+    {
+      "id": 48,
+      "gold": "adpttm0pg",
+      "prediction": "adpttm0pg",
+      "raw_prediction": "ADPttm0PG",
+      "status": "correct"
+    },
+    {
+      "id": 49,
+      "gold": "adpeh6qhp",
+      "prediction": "adpeh6qhp",
+      "raw_prediction": "ADPeH6qHP",
+      "status": "correct"
+    },
+    {
+      "id": 50,
+      "gold": "adpkg0xak",
+      "prediction": "adpkg0xak",
+      "raw_prediction": "ADPkG0xak",
+      "status": "correct"
+    },
+    {
+      "id": 51,
+      "gold": "adp8em58h",
+      "prediction": "sp4qfmpg",
+      "raw_prediction": "SP4qFmPg",
+      "status": "error"
+    },
+    {
+      "id": 52,
+      "gold": "adpywyppk",
+      "prediction": "spdsproo",
+      "raw_prediction": "SPDsproO",
+      "status": "error"
+    },
+    {
+      "id": 53,
+      "gold": "adpazzvyb",
+      "prediction": "adpazzvyb",
+      "raw_prediction": "ADPaZzVyb",
+      "status": "correct"
+    },
+    {
+      "id": 54,
+      "gold": "adpcxotr3",
+      "prediction": "adpcxotr3",
+      "raw_prediction": "ADPcXotr3",
+      "status": "correct"
+    },
+    {
+      "id": 55,
+      "gold": "adppxsrlz",
+      "prediction": "adppxsrlz",
+      "raw_prediction": "ADPPxsRlZ",
+      "status": "correct"
+    },
+    {
+      "id": 56,
+      "gold": "adpeelgmn",
+      "prediction": "adpeelgmn",
+      "raw_prediction": "ADPeElgmN",
+      "status": "correct"
+    },
+    {
+      "id": 57,
+      "gold": "adpbeayng",
+      "prediction": "adpbeayng",
+      "raw_prediction": "ADPBeAyng",
+      "status": "correct"
+    },
+    {
+      "id": 58,
+      "gold": "adpgpetzt",
+      "prediction": "adpgpetzt",
+      "raw_prediction": "ADPGPetzt",
+      "status": "correct"
+    },
+    {
+      "id": 59,
+      "gold": "adpscx85n",
+      "prediction": "adpscx85n",
+      "raw_prediction": "ADPscX85n",
+      "status": "correct"
+    },
+    {
+      "id": 60,
+      "gold": "adpxpldxu",
+      "prediction": "adpxpldxu",
+      "raw_prediction": "ADPxpLDxu",
+      "status": "correct"
+    },
+    {
+      "id": 61,
+      "gold": "adpgoh7zl",
+      "prediction": "adpgoh7zl",
+      "raw_prediction": "ADPgOh7zl",
+      "status": "correct"
+    },
+    {
+      "id": 62,
+      "gold": "adplstchk",
+      "prediction": "adplstchk",
+      "raw_prediction": "ADPLstCHK",
+      "status": "correct"
+    },
+    {
+      "id": 63,
+      "gold": "adpcers8g",
+      "prediction": "adpcers8g",
+      "raw_prediction": "ADPcers8g",
+      "status": "correct"
+    },
+    {
+      "id": 64,
+      "gold": "adpfdvqom",
+      "prediction": "sp2exlhh",
+      "raw_prediction": "SP2EXlhh",
+      "status": "error"
+    },
+    {
+      "id": 65,
+      "gold": "adpqnvolg",
+      "prediction": "adpqnvolg",
+      "raw_prediction": "ADPQnVOLG",
+      "status": "correct"
+    },
+    {
+      "id": 66,
+      "gold": "adpkztucn",
+      "prediction": "adpkztucn",
+      "raw_prediction": "ADPKZTuCN",
+      "status": "correct"
+    },
+    {
+      "id": 67,
+      "gold": "adpd42zbp",
+      "prediction": "adpd42zbp",
+      "raw_prediction": "ADPD42ZbP",
+      "status": "correct"
+    },
+    {
+      "id": 68,
+      "gold": "adpagxfb7",
+      "prediction": "adpagxfb7",
+      "raw_prediction": "ADPaGxfb7",
+      "status": "correct"
+    },
+    {
+      "id": 69,
+      "gold": "adpfstdyg",
+      "prediction": "adpfstdyg",
+      "raw_prediction": "ADPfSTdyg",
+      "status": "correct"
+    },
+    {
+      "id": 70,
+      "gold": "adp69lzr3",
+      "prediction": "adp69lzr3",
+      "raw_prediction": "ADP69lZR3",
+      "status": "correct"
+    },
+    {
+      "id": 71,
+      "gold": "adpuemwp7",
+      "prediction": "spznhqoe",
+      "raw_prediction": "SPznhqoE",
+      "status": "error"
+    },
+    {
+      "id": 72,
+      "gold": "adpptaas9",
+      "prediction": "adpptaas9",
+      "raw_prediction": "ADPPTaas9",
+      "status": "correct"
+    },
+    {
+      "id": 73,
+      "gold": "adplihxrr",
+      "prediction": "adplihxrr",
+      "raw_prediction": "ADPlIhXrr",
+      "status": "correct"
+    },
+    {
+      "id": 74,
+      "gold": "adpgr3utq",
+      "prediction": "adpgr3utq",
+      "raw_prediction": "ADPGr3uTQ",
+      "status": "correct"
+    },
+    {
+      "id": 75,
+      "gold": "adpd4kway",
+      "prediction": "adpd4kway",
+      "raw_prediction": "ADPD4KwAy",
+      "status": "correct"
+    },
+    {
+      "id": 76,
+      "gold": "adpt1xd33",
+      "prediction": "sprs7rgf",
+      "raw_prediction": "SPRs7rGf",
+      "status": "error"
+    },
+    {
+      "id": 77,
+      "gold": "adp0ohaaq",
+      "prediction": "adp0ohaaq",
+      "raw_prediction": "ADP0OhAaQ",
+      "status": "correct"
+    },
+    {
+      "id": 78,
+      "gold": "adp3tygig",
+      "prediction": "adp3tygig",
+      "raw_prediction": "ADP3TYGiG",
+      "status": "correct"
+    },
+    {
+      "id": 79,
+      "gold": "adpcmmzfu",
+      "prediction": "adpcmmzfu",
+      "raw_prediction": "ADPCmMZFU",
+      "status": "correct"
+    },
+    {
+      "id": 80,
+      "gold": "adp89tcfd",
+      "prediction": "adp89tcfd",
+      "raw_prediction": "ADP89TCfD",
+      "status": "correct"
+    },
+    {
+      "id": 81,
+      "gold": "adpwurnvu",
+      "prediction": "adpwurnvu",
+      "raw_prediction": "ADPWURnVU",
+      "status": "correct"
+    },
+    {
+      "id": 82,
+      "gold": "adpmuron2",
+      "prediction": "adpmuron2",
+      "raw_prediction": "ADPMuroN2",
+      "status": "correct"
+    },
+    {
+      "id": 83,
+      "gold": "adpb7svaf",
+      "prediction": "sp2qrfzk",
+      "raw_prediction": "SP2QRFZK",
+      "status": "error"
+    },
+    {
+      "id": 84,
+      "gold": "adpspuwrq",
+      "prediction": "adpspuwrq",
+      "raw_prediction": "ADPSPuwrQ",
+      "status": "correct"
+    },
+    {
+      "id": 85,
+      "gold": "adpyoyl1c",
+      "prediction": "adpyoyl1c",
+      "raw_prediction": "ADPyoYl1c",
+      "status": "correct"
+    },
+    {
+      "id": 86,
+      "gold": "adp2tcazv",
+      "prediction": "adp2tcazv",
+      "raw_prediction": "ADP2tcazv",
+      "status": "correct"
+    },
+    {
+      "id": 87,
+      "gold": "adpibvfgb",
+      "prediction": "sppuwn3e",
+      "raw_prediction": "SPpuWN3e",
+      "status": "error"
+    },
+    {
+      "id": 88,
+      "gold": "adpdmoadq",
+      "prediction": "adpdmoadq",
+      "raw_prediction": "ADPdmOAdQ",
+      "status": "correct"
+    },
+    {
+      "id": 89,
+      "gold": "adpwaacy6",
+      "prediction": "adpwaacy6",
+      "raw_prediction": "ADPwaACY6",
+      "status": "correct"
+    },
+    {
+      "id": 90,
+      "gold": "adp9cq97k",
+      "prediction": "adp9cq97k",
+      "raw_prediction": "ADP9cq97k",
+      "status": "correct"
+    },
+    {
+      "id": 91,
+      "gold": "adp74glwl",
+      "prediction": "adp74glwl",
+      "raw_prediction": "ADP74glwl",
+      "status": "correct"
+    },
+    {
+      "id": 92,
+      "gold": "adpm4xkqc",
+      "prediction": "adpm4xkqc",
+      "raw_prediction": "ADPM4xkQc",
+      "status": "correct"
+    },
+    {
+      "id": 93,
+      "gold": "adpvqcpl6",
+      "prediction": "spfgz2cw",
+      "raw_prediction": "SPfgZ2CW",
+      "status": "error"
+    },
+    {
+      "id": 94,
+      "gold": "adpva7bq8",
+      "prediction": "adpva7bq8",
+      "raw_prediction": "ADPvA7bq8",
+      "status": "correct"
+    },
+    {
+      "id": 95,
+      "gold": "adpesmgph",
+      "prediction": "adpesmgph",
+      "raw_prediction": "ADPESMGPH",
+      "status": "correct"
+    },
+    {
+      "id": 96,
+      "gold": "adpgg4oa8",
+      "prediction": "adpgg4oa8",
+      "raw_prediction": "ADPGg4oa8",
+      "status": "correct"
+    },
+    {
+      "id": 97,
+      "gold": "adptzkgyp",
+      "prediction": "adptzkgyp",
+      "raw_prediction": "ADPTzKgyP",
+      "status": "correct"
+    },
+    {
+      "id": 98,
+      "gold": "adpz3vwym",
+      "prediction": "adpz3vwym",
+      "raw_prediction": "ADPz3vWym",
+      "status": "correct"
+    },
+    {
+      "id": 99,
+      "gold": "adp15gplw",
+      "prediction": "spsd9f0a",
+      "raw_prediction": "SPsd9f0A",
+      "status": "error"
+    },
+    {
+      "id": 100,
+      "gold": "adpaexngh",
+      "prediction": "adpaexngh",
+      "raw_prediction": "ADPAeXNGh",
+      "status": "correct"
+    },
+    {
+      "id": 101,
+      "gold": "adpbxngsd",
+      "prediction": "spop4uxe",
+      "raw_prediction": "SPoP4uXE",
+      "status": "error"
+    },
+    {
+      "id": 102,
+      "gold": "adp661zsb",
+      "prediction": "adp661zsb",
+      "raw_prediction": "ADP661ZSB",
+      "status": "correct"
+    },
+    {
+      "id": 103,
+      "gold": "adpeu9h4g",
+      "prediction": "adpeu9h4g",
+      "raw_prediction": "ADPeU9h4g",
+      "status": "correct"
+    },
+    {
+      "id": 104,
+      "gold": "adpplzmoi",
+      "prediction": "spoeikwb",
+      "raw_prediction": "SPOeikWB",
+      "status": "error"
+    },
+    {
+      "id": 105,
+      "gold": "adpxn3w6h",
+      "prediction": "adpxn3w6h",
+      "raw_prediction": "ADPXN3W6h",
+      "status": "correct"
+    },
+    {
+      "id": 106,
+      "gold": "adpv8xvgo",
+      "prediction": "adpv8xvgo",
+      "raw_prediction": "ADPV8XvGo",
+      "status": "correct"
+    },
+    {
+      "id": 107,
+      "gold": "adppadlfh",
+      "prediction": "adppadlfh",
+      "raw_prediction": "ADPPaDLfH",
+      "status": "correct"
+    },
+    {
+      "id": 108,
+      "gold": "adpva435a",
+      "prediction": "spwsmreo",
+      "raw_prediction": "SPwSmrEo",
+      "status": "error"
+    },
+    {
+      "id": 109,
+      "gold": "adpwnlpqt",
+      "prediction": "adpwnlpqt",
+      "raw_prediction": "ADPWNlPqT",
+      "status": "correct"
+    },
+    {
+      "id": 110,
+      "gold": "adpg2rcub",
+      "prediction": "adpg2rcub",
+      "raw_prediction": "ADPg2rcUB",
+      "status": "correct"
+    },
+    {
+      "id": 111,
+      "gold": "adprgt1q5",
+      "prediction": "spf5z4fc",
+      "raw_prediction": "SPF5z4FC",
+      "status": "error"
+    },
+    {
+      "id": 112,
+      "gold": "adpdmvsyw",
+      "prediction": "adpdmvsyw",
+      "raw_prediction": "ADPDMVSyW",
+      "status": "correct"
+    },
+    {
+      "id": 113,
+      "gold": "adpxznfiq",
+      "prediction": "adpxznfiq",
+      "raw_prediction": "ADPXZnfiq",
+      "status": "correct"
+    },
+    {
+      "id": 114,
+      "gold": "adp4de7yv",
+      "prediction": "adp4de7yv",
+      "raw_prediction": "ADP4dE7Yv",
+      "status": "correct"
+    },
+    {
+      "id": 115,
+      "gold": "adpxn1iwd",
+      "prediction": "spdpvbcr",
+      "raw_prediction": "SPdpvbcr",
+      "status": "error"
+    },
+    {
+      "id": 116,
+      "gold": "adpbbfrpp",
+      "prediction": "adpbbfrpp",
+      "raw_prediction": "ADPBBfrPP",
+      "status": "correct"
+    },
+    {
+      "id": 117,
+      "gold": "adpbnziim",
+      "prediction": "adpbnziim",
+      "raw_prediction": "ADPBnZiIM",
+      "status": "correct"
+    },
+    {
+      "id": 118,
+      "gold": "adplwehrk",
+      "prediction": "adplwehrk",
+      "raw_prediction": "ADPlwEhrk",
+      "status": "correct"
+    },
+    {
+      "id": 119,
+      "gold": "adpkaeaeg",
+      "prediction": "adpkaeaeg",
+      "raw_prediction": "ADPKAEaeg",
+      "status": "correct"
+    },
+    {
+      "id": 120,
+      "gold": "adpdowln6",
+      "prediction": "adpdowln6",
+      "raw_prediction": "ADPdOWLn6",
+      "status": "correct"
+    },
+    {
+      "id": 121,
+      "gold": "adpc3evvm",
+      "prediction": "spsvkccg",
+      "raw_prediction": "SPsVkcCg",
+      "status": "error"
+    },
+    {
+      "id": 122,
+      "gold": "adpcoxfuv",
+      "prediction": "spax7x4e",
+      "raw_prediction": "SPAx7x4E",
+      "status": "error"
+    },
+    {
+      "id": 123,
+      "gold": "adpmkakkg",
+      "prediction": "spqs03sl",
+      "raw_prediction": "SPQS03sl",
+      "status": "error"
+    },
+    {
+      "id": 124,
+      "gold": "adplm1znf",
+      "prediction": "adplm1znf",
+      "raw_prediction": "ADPlm1znF",
+      "status": "correct"
+    },
+    {
+      "id": 125,
+      "gold": "adphxbagq",
+      "prediction": "spo8kqfn",
+      "raw_prediction": "SPo8KQFN",
+      "status": "error"
+    },
+    {
+      "id": 126,
+      "gold": "adp2u3xfe",
+      "prediction": "adp2u3xfe",
+      "raw_prediction": "ADP2U3XfE",
+      "status": "correct"
+    },
+    {
+      "id": 127,
+      "gold": "adpxrwug9",
+      "prediction": "sp6cnpu5",
+      "raw_prediction": "SP6cNPU5",
+      "status": "error"
+    },
+    {
+      "id": 128,
+      "gold": "adpzcscgy",
+      "prediction": "adpzcscgy",
+      "raw_prediction": "ADPZCsCgY",
+      "status": "correct"
+    },
+    {
+      "id": 129,
+      "gold": "adpklcwmq",
+      "prediction": "adpklcwmq",
+      "raw_prediction": "ADPkLcwmQ",
+      "status": "correct"
+    },
+    {
+      "id": 130,
+      "gold": "adpnmomma",
+      "prediction": "adpnmomma",
+      "raw_prediction": "ADPnMOmMA",
+      "status": "correct"
+    },
+    {
+      "id": 131,
+      "gold": "adp4cylke",
+      "prediction": "adp4cylke",
+      "raw_prediction": "ADP4CyLKe",
+      "status": "correct"
+    },
+    {
+      "id": 132,
+      "gold": "adp0eldvz",
+      "prediction": "adp0eldvz",
+      "raw_prediction": "ADP0EldVZ",
+      "status": "correct"
+    },
+    {
+      "id": 133,
+      "gold": "adpli7mgp",
+      "prediction": "adpli7mgp",
+      "raw_prediction": "ADPli7mgp",
+      "status": "correct"
+    },
+    {
+      "id": 134,
+      "gold": "adpxwp3yw",
+      "prediction": "adpxwp3yw",
+      "raw_prediction": "ADPXwP3Yw",
+      "status": "correct"
+    },
+    {
+      "id": 135,
+      "gold": "adpodonsb",
+      "prediction": "adpodonsb",
+      "raw_prediction": "ADPOdonSb",
+      "status": "correct"
+    },
+    {
+      "id": 136,
+      "gold": "adp0tmz5q",
+      "prediction": "adp0tmz5q",
+      "raw_prediction": "ADP0TMZ5q",
+      "status": "correct"
+    },
+    {
+      "id": 137,
+      "gold": "adprtpf9v",
+      "prediction": "spp0qvn0",
+      "raw_prediction": "SPP0qvn0",
+      "status": "error"
+    },
+    {
+      "id": 138,
+      "gold": "adpr2ohtl",
+      "prediction": "adpr2ohtl",
+      "raw_prediction": "ADPR2OHTl",
+      "status": "correct"
+    },
+    {
+      "id": 139,
+      "gold": "adprfgzhq",
+      "prediction": "adprfgzhq",
+      "raw_prediction": "ADPRfgzHq",
+      "status": "correct"
+    },
+    {
+      "id": 140,
+      "gold": "adp7utb2m",
+      "prediction": "adp7utb2m",
+      "raw_prediction": "ADP7UTb2m",
+      "status": "correct"
+    },
+    {
+      "id": 141,
+      "gold": "adpu4rpdl",
+      "prediction": "adpu4rpdl",
+      "raw_prediction": "ADPU4RPdl",
+      "status": "correct"
+    },
+    {
+      "id": 142,
+      "gold": "adpolwwlg",
+      "prediction": "adpolwwlg",
+      "raw_prediction": "ADPOlWWLg",
+      "status": "correct"
+    },
+    {
+      "id": 143,
+      "gold": "adpaq5rsh",
+      "prediction": "adpaq5rsh",
+      "raw_prediction": "ADPaq5rsH",
+      "status": "correct"
+    },
+    {
+      "id": 144,
+      "gold": "adpkpbx07",
+      "prediction": "spmubbs5",
+      "raw_prediction": "SPmubBS5",
+      "status": "error"
+    },
+    {
+      "id": 145,
+      "gold": "adpzuvnff",
+      "prediction": "adpzuvnff",
+      "raw_prediction": "ADPZUvnFF",
+      "status": "correct"
+    },
+    {
+      "id": 146,
+      "gold": "adpgarrbx",
+      "prediction": "adpgarrbx",
+      "raw_prediction": "ADPGarRbx",
+      "status": "correct"
+    },
+    {
+      "id": 147,
+      "gold": "adpptyclq",
+      "prediction": "adpptyclq",
+      "raw_prediction": "ADPPTyclQ",
+      "status": "correct"
+    },
+    {
+      "id": 148,
+      "gold": "adpftsds4",
+      "prediction": "adpftsds4",
+      "raw_prediction": "ADPfTsDS4",
+      "status": "correct"
+    },
+    {
+      "id": 149,
+      "gold": "adpcdgwhb",
+      "prediction": "adpcdgwhb",
+      "raw_prediction": "ADPCDGWhB",
+      "status": "correct"
+    },
+    {
+      "id": 150,
+      "gold": "adplwn7hg",
+      "prediction": "adplwn7hg",
+      "raw_prediction": "ADPlWN7hg",
+      "status": "correct"
+    },
+    {
+      "id": 151,
+      "gold": "adpxqk8gg",
+      "prediction": "spycswhs",
+      "raw_prediction": "SPYCSwHS",
+      "status": "error"
+    },
+    {
+      "id": 152,
+      "gold": "adpdx2uwp",
+      "prediction": "adpdx2uwp",
+      "raw_prediction": "ADPDx2Uwp",
+      "status": "correct"
+    },
+    {
+      "id": 153,
+      "gold": "adpt60dzc",
+      "prediction": "spkkpeqf",
+      "raw_prediction": "SPkKPEqF",
+      "status": "error"
+    },
+    {
+      "id": 154,
+      "gold": "adp6fccgu",
+      "prediction": "adp6fccgu",
+      "raw_prediction": "ADP6FccgU",
+      "status": "correct"
+    },
+    {
+      "id": 155,
+      "gold": "adpbsekmv",
+      "prediction": "adpbsekmv",
+      "raw_prediction": "ADPBsEkMv",
+      "status": "correct"
+    },
+    {
+      "id": 156,
+      "gold": "adpyq9tza",
+      "prediction": "sp8w0ddh",
+      "raw_prediction": "SP8W0DDh",
+      "status": "error"
+    },
+    {
+      "id": 157,
+      "gold": "adpurkusl",
+      "prediction": "adpurkusl",
+      "raw_prediction": "ADPurKuSl",
+      "status": "correct"
+    },
+    {
+      "id": 158,
+      "gold": "adpsodrha",
+      "prediction": "adpsodrha",
+      "raw_prediction": "ADPSODrHA",
+      "status": "correct"
+    },
+    {
+      "id": 159,
+      "gold": "adpsiqikg",
+      "prediction": "adpsiqikg",
+      "raw_prediction": "ADPSIQIkG",
+      "status": "correct"
+    },
+    {
+      "id": 160,
+      "gold": "adppz8ugg",
+      "prediction": "adppz8ugg",
+      "raw_prediction": "ADPPZ8uGG",
+      "status": "correct"
+    },
+    {
+      "id": 161,
+      "gold": "adpst2xwy",
+      "prediction": "spf3esdm",
+      "raw_prediction": "SPf3esDm",
+      "status": "error"
+    },
+    {
+      "id": 162,
+      "gold": "adpebl3sy",
+      "prediction": "spvrtg9u",
+      "raw_prediction": "SPvrTg9U",
+      "status": "error"
+    },
+    {
+      "id": 163,
+      "gold": "adpn70ksz",
+      "prediction": "adpn70ksz",
+      "raw_prediction": "ADPN70kSz",
+      "status": "correct"
+    },
+    {
+      "id": 164,
+      "gold": "adp4ln1wm",
+      "prediction": "spvk4tfy",
+      "raw_prediction": "SPVK4tFY",
+      "status": "error"
+    },
+    {
+      "id": 165,
+      "gold": "adpvze1gv",
+      "prediction": "adpvze1gv",
+      "raw_prediction": "ADPvZE1gV",
+      "status": "correct"
+    },
+    {
+      "id": 166,
+      "gold": "adp9bp0wg",
+      "prediction": "adp9bp0wg",
+      "raw_prediction": "ADP9Bp0wg",
+      "status": "correct"
+    },
+    {
+      "id": 167,
+      "gold": "adpglfewm",
+      "prediction": "adpglfewm",
+      "raw_prediction": "ADPglfeWM",
+      "status": "correct"
+    },
+    {
+      "id": 168,
+      "gold": "adpmffeih",
+      "prediction": "adpmffeih",
+      "raw_prediction": "ADPMffeIh",
+      "status": "correct"
+    },
+    {
+      "id": 169,
+      "gold": "adplwfv75",
+      "prediction": "spz4zpor",
+      "raw_prediction": "SPZ4zpoR",
+      "status": "error"
+    },
+    {
+      "id": 170,
+      "gold": "adpa9urwc",
+      "prediction": "adpa9urwc",
+      "raw_prediction": "ADPa9URwC",
+      "status": "correct"
+    },
+    {
+      "id": 171,
+      "gold": "adpoolnct",
+      "prediction": "adpoolnct",
+      "raw_prediction": "ADPoOLnCT",
+      "status": "correct"
+    },
+    {
+      "id": 172,
+      "gold": "adp9ybyar",
+      "prediction": "spu1hry3",
+      "raw_prediction": "SPu1hrY3",
+      "status": "error"
+    },
+    {
+      "id": 173,
+      "gold": "adpqfov6u",
+      "prediction": "adpqfov6u",
+      "raw_prediction": "ADPqfOv6U",
+      "status": "correct"
+    },
+    {
+      "id": 174,
+      "gold": "adpbgmeo4",
+      "prediction": "speqmdoc",
+      "raw_prediction": "SPeqMDoC",
+      "status": "error"
+    },
+    {
+      "id": 175,
+      "gold": "adpcbki9v",
+      "prediction": "adpcbki9v",
+      "raw_prediction": "ADPcbKI9v",
+      "status": "correct"
+    },
+    {
+      "id": 176,
+      "gold": "adphixgta",
+      "prediction": "spefeiet",
+      "raw_prediction": "SPEFeIeT",
+      "status": "error"
+    },
+    {
+      "id": 177,
+      "gold": "adpohrkd4",
+      "prediction": "sphegptm",
+      "raw_prediction": "SPHEGpTM",
+      "status": "error"
+    },
+    {
+      "id": 178,
+      "gold": "adpdc1zs2",
+      "prediction": "spuggwvf",
+      "raw_prediction": "SPUgGwvF",
+      "status": "error"
+    },
+    {
+      "id": 179,
+      "gold": "adp7gnirp",
+      "prediction": "adp7gnirp",
+      "raw_prediction": "ADP7gnirP",
+      "status": "correct"
+    },
+    {
+      "id": 180,
+      "gold": "adpgtql3w",
+      "prediction": "spfp89mo",
+      "raw_prediction": "SPFp89Mo",
+      "status": "error"
+    },
+    {
+      "id": 181,
+      "gold": "adparhusl",
+      "prediction": "adparhusl",
+      "raw_prediction": "ADPARhusL",
+      "status": "correct"
+    },
+    {
+      "id": 182,
+      "gold": "adpkmgr8y",
+      "prediction": "adpkmgr8y",
+      "raw_prediction": "ADPkmgR8y",
+      "status": "correct"
+    },
+    {
+      "id": 183,
+      "gold": "adpol4xsx",
+      "prediction": "adpol4xsx",
+      "raw_prediction": "ADPOl4XSX",
+      "status": "correct"
+    },
+    {
+      "id": 184,
+      "gold": "adpizgmin",
+      "prediction": "adpizgmin",
+      "raw_prediction": "ADPiZGMIn",
+      "status": "correct"
+    },
+    {
+      "id": 185,
+      "gold": "adpwn0sdk",
+      "prediction": "adpwn0sdk",
+      "raw_prediction": "ADPWn0SDk",
+      "status": "correct"
+    },
+    {
+      "id": 186,
+      "gold": "adpvymgur",
+      "prediction": "spfpv9lx",
+      "raw_prediction": "SPfpv9LX",
+      "status": "error"
+    },
+    {
+      "id": 187,
+      "gold": "adpk1wv0h",
+      "prediction": "adpk1wv0h",
+      "raw_prediction": "ADPk1wv0h",
+      "status": "correct"
+    },
+    {
+      "id": 188,
+      "gold": "adpoucmwn",
+      "prediction": "adpoucmwn",
+      "raw_prediction": "ADPoUCmWn",
+      "status": "correct"
+    },
+    {
+      "id": 189,
+      "gold": "adpt0ce8y",
+      "prediction": "adpt0ce8y",
+      "raw_prediction": "ADPT0ce8y",
+      "status": "correct"
+    },
+    {
+      "id": 190,
+      "gold": "adp9gaggs",
+      "prediction": "adp9gaggs",
+      "raw_prediction": "ADP9GAgGs",
+      "status": "correct"
+    },
+    {
+      "id": 191,
+      "gold": "adpgahevk",
+      "prediction": "adpgahevk",
+      "raw_prediction": "ADPGAhevK",
+      "status": "correct"
+    },
+    {
+      "id": 192,
+      "gold": "adppwzy0z",
+      "prediction": "adppwzy0z",
+      "raw_prediction": "ADPpwZY0z",
+      "status": "correct"
+    },
+    {
+      "id": 193,
+      "gold": "adpxmxbwn",
+      "prediction": "adp19ll5t",
+      "raw_prediction": "ADP19lL5t",
+      "status": "error"
+    },
+    {
+      "id": 194,
+      "gold": "adp8bd04a",
+      "prediction": "adp8bd04a",
+      "raw_prediction": "ADP8bd04A",
+      "status": "correct"
+    },
+    {
+      "id": 195,
+      "gold": "adpca0sgu",
+      "prediction": "adpca0sgu",
+      "raw_prediction": "ADPCA0Sgu",
+      "status": "correct"
+    },
+    {
+      "id": 196,
+      "gold": "adp74g8kq",
+      "prediction": "adp74g8kq",
+      "raw_prediction": "ADP74G8kq",
+      "status": "correct"
+    },
+    {
+      "id": 197,
+      "gold": "adpylqe8o",
+      "prediction": "adpylqe8o",
+      "raw_prediction": "ADPYlqe8O",
+      "status": "correct"
+    },
+    {
+      "id": 198,
+      "gold": "adp14grdd",
+      "prediction": "spiy1wbt",
+      "raw_prediction": "SPIy1wBT",
+      "status": "error"
+    },
+    {
+      "id": 199,
+      "gold": "adpdvbfiu",
+      "prediction": "adpdvbfiu",
+      "raw_prediction": "ADPDvbFIu",
+      "status": "correct"
+    },
+    {
+      "id": 200,
+      "gold": "adpug099v",
+      "prediction": "adpug099v",
+      "raw_prediction": "ADPug099v",
+      "status": "correct"
+    },
+    {
+      "id": 201,
+      "gold": "adpgtgnp7",
+      "prediction": "adpgtgnp7",
+      "raw_prediction": "ADPGTgnp7",
+      "status": "correct"
+    },
+    {
+      "id": 202,
+      "gold": "adp7sqg5x",
+      "prediction": "adp7sqg5x",
+      "raw_prediction": "ADP7sqg5x",
+      "status": "correct"
+    },
+    {
+      "id": 203,
+      "gold": "adpgegxew",
+      "prediction": "adpgegxew",
+      "raw_prediction": "ADPgEGxew",
+      "status": "correct"
+    },
+    {
+      "id": 204,
+      "gold": "adpatg98u",
+      "prediction": "adpatg98u",
+      "raw_prediction": "ADPaTg98U",
+      "status": "correct"
+    },
+    {
+      "id": 205,
+      "gold": "adpz0dlak",
+      "prediction": "adpz0dlak",
+      "raw_prediction": "ADPz0DLaK",
+      "status": "correct"
+    },
+    {
+      "id": 206,
+      "gold": "adpgde0v3",
+      "prediction": "spgipfkf",
+      "raw_prediction": "SPGipFkf",
+      "status": "error"
+    },
+    {
+      "id": 207,
+      "gold": "adp9zkvyn",
+      "prediction": "adp9zkvyn",
+      "raw_prediction": "ADP9zKvyN",
+      "status": "correct"
+    },
+    {
+      "id": 208,
+      "gold": "adp5ln6uw",
+      "prediction": "adp5ln6uw",
+      "raw_prediction": "ADP5LN6Uw",
+      "status": "correct"
+    },
+    {
+      "id": 209,
+      "gold": "adpr87lpe",
+      "prediction": "adpr87lpe",
+      "raw_prediction": "ADPr87lPE",
+      "status": "correct"
+    },
+    {
+      "id": 210,
+      "gold": "adpsgvvwn",
+      "prediction": "adpsgvvwn",
+      "raw_prediction": "ADPSgvvwN",
+      "status": "correct"
+    },
+    {
+      "id": 211,
+      "gold": "adp28gor7",
+      "prediction": "adp28gor7",
+      "raw_prediction": "ADP28GOR7",
+      "status": "correct"
+    },
+    {
+      "id": 212,
+      "gold": "adper427g",
+      "prediction": "adper427g",
+      "raw_prediction": "ADPEr427g",
+      "status": "correct"
+    },
+    {
+      "id": 213,
+      "gold": "adpxoio11",
+      "prediction": "spcfwcng",
+      "raw_prediction": "SPcFwCnG",
+      "status": "error"
+    },
+    {
+      "id": 214,
+      "gold": "adp5xshbb",
+      "prediction": "adp5xshbb",
+      "raw_prediction": "ADP5xSHBb",
+      "status": "correct"
+    },
+    {
+      "id": 215,
+      "gold": "adpwqdbbe",
+      "prediction": "adp9mfrbi",
+      "raw_prediction": "ADP9MFrbI",
+      "status": "error"
+    },
+    {
+      "id": 216,
+      "gold": "adpeldpin",
+      "prediction": "adpeldpin",
+      "raw_prediction": "ADPeLDpin",
+      "status": "correct"
+    },
+    {
+      "id": 217,
+      "gold": "adpkyvgmy",
+      "prediction": "adpkyvgmy",
+      "raw_prediction": "ADPKYVGMy",
+      "status": "correct"
+    },
+    {
+      "id": 218,
+      "gold": "adpa6dx0m",
+      "prediction": "adpa6dx0m",
+      "raw_prediction": "ADPA6Dx0M",
+      "status": "correct"
+    },
+    {
+      "id": 219,
+      "gold": "adpkgosbs",
+      "prediction": "adpkgosbs",
+      "raw_prediction": "ADPKgosbS",
+      "status": "correct"
+    },
+    {
+      "id": 220,
+      "gold": "adpxqhkbf",
+      "prediction": "adpxqhkbf",
+      "raw_prediction": "ADPXqHKbf",
+      "status": "correct"
+    },
+    {
+      "id": 221,
+      "gold": "adpyhfkbo",
+      "prediction": "adpyhfkbo",
+      "raw_prediction": "ADPYhfKBo",
+      "status": "correct"
+    },
+    {
+      "id": 222,
+      "gold": "adpirxg9i",
+      "prediction": "adpirxg9i",
+      "raw_prediction": "ADPirxg9I",
+      "status": "correct"
+    },
+    {
+      "id": 223,
+      "gold": "adpkpzgmc",
+      "prediction": "adpkpzgmc",
+      "raw_prediction": "ADPKPzgMc",
+      "status": "correct"
+    },
+    {
+      "id": 224,
+      "gold": "adptv6v20",
+      "prediction": "adptv6v20",
+      "raw_prediction": "ADPtV6v20",
+      "status": "correct"
+    },
+    {
+      "id": 225,
+      "gold": "adpnaruzs",
+      "prediction": "adpnaruzs",
+      "raw_prediction": "ADPnarUzS",
+      "status": "correct"
+    },
+    {
+      "id": 226,
+      "gold": "adpn9mfak",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 227,
+      "gold": "adpddcxgd",
+      "prediction": "adpddcxgd",
+      "raw_prediction": "ADPDdCXgD",
+      "status": "correct"
+    },
+    {
+      "id": 228,
+      "gold": "adplyk1er",
+      "prediction": "adplyk1er",
+      "raw_prediction": "ADPLYK1eR",
+      "status": "correct"
+    },
+    {
+      "id": 229,
+      "gold": "adpkhfpg5",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 230,
+      "gold": "adpf2gg3o",
+      "prediction": "adpf2gg3o",
+      "raw_prediction": "ADPf2gG3o",
+      "status": "correct"
+    },
+    {
+      "id": 231,
+      "gold": "adpo3oeed",
+      "prediction": "spy3pcnn",
+      "raw_prediction": "SPy3pCnn",
+      "status": "error"
+    },
+    {
+      "id": 232,
+      "gold": "adps4vge8",
+      "prediction": "adps4vge8",
+      "raw_prediction": "ADPS4vge8",
+      "status": "correct"
+    },
+    {
+      "id": 233,
+      "gold": "adptdyw2g",
+      "prediction": "adptdyw2g",
+      "raw_prediction": "ADPTdYw2g",
+      "status": "correct"
+    },
+    {
+      "id": 234,
+      "gold": "adp6i294a",
+      "prediction": "adp6i294a",
+      "raw_prediction": "ADP6I294A",
+      "status": "correct"
+    },
+    {
+      "id": 235,
+      "gold": "adpcx3xgp",
+      "prediction": "adpcx3xgp",
+      "raw_prediction": "ADPCX3Xgp",
+      "status": "correct"
+    },
+    {
+      "id": 236,
+      "gold": "adptuwzep",
+      "prediction": "spcms2mx",
+      "raw_prediction": "SPcms2mX",
+      "status": "error"
+    },
+    {
+      "id": 237,
+      "gold": "adp8o5cn8",
+      "prediction": "adp8o5cn8",
+      "raw_prediction": "ADP8O5cN8",
+      "status": "correct"
+    },
+    {
+      "id": 238,
+      "gold": "adpugvyem",
+      "prediction": "adpugvyem",
+      "raw_prediction": "ADPUgVYEm",
+      "status": "correct"
+    },
+    {
+      "id": 239,
+      "gold": "adprstlks",
+      "prediction": "spxvepgd",
+      "raw_prediction": "SPXVePgd",
+      "status": "error"
+    },
+    {
+      "id": 240,
+      "gold": "adpqxlpym",
+      "prediction": "adpqxlpym",
+      "raw_prediction": "ADPQxLpYM",
+      "status": "correct"
+    },
+    {
+      "id": 241,
+      "gold": "adpnnbtzz",
+      "prediction": "adpnnbtzz",
+      "raw_prediction": "ADPNNbTzz",
+      "status": "correct"
+    },
+    {
+      "id": 242,
+      "gold": "adpz6qtvd",
+      "prediction": "spympgh2",
+      "raw_prediction": "SPympGh2",
+      "status": "error"
+    },
+    {
+      "id": 243,
+      "gold": "adpqfgcqq",
+      "prediction": "adpqfgcqq",
+      "raw_prediction": "ADPQFgcQq",
+      "status": "correct"
+    },
+    {
+      "id": 244,
+      "gold": "adpiwaxab",
+      "prediction": "adpiwaxab",
+      "raw_prediction": "ADPiWaxAb",
+      "status": "correct"
+    },
+    {
+      "id": 245,
+      "gold": "adpb0bfzb",
+      "prediction": "adpb0bfzb",
+      "raw_prediction": "ADPB0bfzb",
+      "status": "correct"
+    },
+    {
+      "id": 246,
+      "gold": "adprem8fa",
+      "prediction": "adprem8fa",
+      "raw_prediction": "ADPRem8fa",
+      "status": "correct"
+    },
+    {
+      "id": 247,
+      "gold": "adpp2rdin",
+      "prediction": "adpp2rdin",
+      "raw_prediction": "ADPP2RDIN",
+      "status": "correct"
+    },
+    {
+      "id": 248,
+      "gold": "adpagpf9k",
+      "prediction": "spz7ttio",
+      "raw_prediction": "SPZ7ttio",
+      "status": "error"
+    },
+    {
+      "id": 249,
+      "gold": "adp14mgbs",
+      "prediction": "speryv60",
+      "raw_prediction": "SPeryv60",
+      "status": "error"
+    },
+    {
+      "id": 250,
+      "gold": "adpztpngn",
+      "prediction": "spmvyqls",
+      "raw_prediction": "SPmVyqls",
+      "status": "error"
+    },
+    {
+      "id": 251,
+      "gold": "adpem6swm",
+      "prediction": "adpem6swm",
+      "raw_prediction": "ADPEM6swm",
+      "status": "correct"
+    },
+    {
+      "id": 252,
+      "gold": "adpg4fqnc",
+      "prediction": "spnohigk",
+      "raw_prediction": "SPnOHiGk",
+      "status": "error"
+    },
+    {
+      "id": 253,
+      "gold": "adpskveri",
+      "prediction": "spiwcerx",
+      "raw_prediction": "SPIWCerX",
+      "status": "error"
+    },
+    {
+      "id": 254,
+      "gold": "adphlk1r0",
+      "prediction": "adphlk1r0",
+      "raw_prediction": "ADPHlk1R0",
+      "status": "correct"
+    },
+    {
+      "id": 255,
+      "gold": "adpy1mio6",
+      "prediction": "adpy1mio6",
+      "raw_prediction": "ADPy1mio6",
+      "status": "correct"
+    },
+    {
+      "id": 256,
+      "gold": "adp9kvaad",
+      "prediction": "adp9kvaad",
+      "raw_prediction": "ADP9KvaaD",
+      "status": "correct"
+    },
+    {
+      "id": 257,
+      "gold": "adpebk6cp",
+      "prediction": "adpebk6cp",
+      "raw_prediction": "ADPeBK6cP",
+      "status": "correct"
+    },
+    {
+      "id": 258,
+      "gold": "adpazhogl",
+      "prediction": "adpazhogl",
+      "raw_prediction": "ADPAzhoGL",
+      "status": "correct"
+    },
+    {
+      "id": 259,
+      "gold": "adppnhfbp",
+      "prediction": "spgqygtc",
+      "raw_prediction": "SPgQYgtc",
+      "status": "error"
+    },
+    {
+      "id": 260,
+      "gold": "adp25xa65",
+      "prediction": "adp25xa65",
+      "raw_prediction": "ADP25XA65",
+      "status": "correct"
+    },
+    {
+      "id": 261,
+      "gold": "adpvdh6rr",
+      "prediction": "adpvdh6rr",
+      "raw_prediction": "ADPVdh6RR",
+      "status": "correct"
+    },
+    {
+      "id": 262,
+      "gold": "adpucsc7r",
+      "prediction": "adpucsc7r",
+      "raw_prediction": "ADPuCsc7r",
+      "status": "correct"
+    },
+    {
+      "id": 263,
+      "gold": "adpbetpgx",
+      "prediction": "adpbetpgx",
+      "raw_prediction": "ADPbEtPgX",
+      "status": "correct"
+    },
+    {
+      "id": 264,
+      "gold": "adpk7f3ub",
+      "prediction": "adpk7f3ub",
+      "raw_prediction": "ADPk7f3ub",
+      "status": "correct"
+    },
+    {
+      "id": 265,
+      "gold": "adpkr0mzg",
+      "prediction": "spky1bkr",
+      "raw_prediction": "SPKY1BkR",
+      "status": "error"
+    },
+    {
+      "id": 266,
+      "gold": "adpoiawwe",
+      "prediction": "adpoiawwe",
+      "raw_prediction": "ADPoIAWWe",
+      "status": "correct"
+    },
+    {
+      "id": 267,
+      "gold": "adpcksigf",
+      "prediction": "spbdfifo",
+      "raw_prediction": "SPbdfIFo",
+      "status": "error"
+    },
+    {
+      "id": 268,
+      "gold": "adpnrzpfk",
+      "prediction": "adpnrzpfk",
+      "raw_prediction": "ADPNrzpfK",
+      "status": "correct"
+    },
+    {
+      "id": 269,
+      "gold": "adplzykvu",
+      "prediction": "adplzykvu",
+      "raw_prediction": "ADPlzYKvu",
+      "status": "correct"
+    },
+    {
+      "id": 270,
+      "gold": "adp2zivqk",
+      "prediction": "adp2zivqk",
+      "raw_prediction": "ADP2ziVqK",
+      "status": "correct"
+    },
+    {
+      "id": 271,
+      "gold": "adpk8iun6",
+      "prediction": "adpk8iun6",
+      "raw_prediction": "ADPk8iuN6",
+      "status": "correct"
+    },
+    {
+      "id": 272,
+      "gold": "adpturrve",
+      "prediction": "adpturrve",
+      "raw_prediction": "ADPtuRrVe",
+      "status": "correct"
+    },
+    {
+      "id": 273,
+      "gold": "adpxgxmud",
+      "prediction": "adpxgxmud",
+      "raw_prediction": "ADPXgxmud",
+      "status": "correct"
+    },
+    {
+      "id": 274,
+      "gold": "adp0pz9es",
+      "prediction": "adp0pz9es",
+      "raw_prediction": "ADP0pz9eS",
+      "status": "correct"
+    },
+    {
+      "id": 275,
+      "gold": "adpwtesct",
+      "prediction": "spprmd5q",
+      "raw_prediction": "SPPrMD5Q",
+      "status": "error"
+    },
+    {
+      "id": 276,
+      "gold": "adpefwmxt",
+      "prediction": "adpefwmxt",
+      "raw_prediction": "ADPEFWMXt",
+      "status": "correct"
+    },
+    {
+      "id": 277,
+      "gold": "adplgpd6m",
+      "prediction": "adplgpd6m",
+      "raw_prediction": "ADPLgPD6m",
+      "status": "correct"
+    },
+    {
+      "id": 278,
+      "gold": "adpxd14zr",
+      "prediction": "adpxd14zr",
+      "raw_prediction": "ADPXD14ZR",
+      "status": "correct"
+    },
+    {
+      "id": 279,
+      "gold": "adpwpx0yr",
+      "prediction": "spl3ttwg",
+      "raw_prediction": "SPl3TtWG",
+      "status": "error"
+    },
+    {
+      "id": 280,
+      "gold": "adpymqg4k",
+      "prediction": "adpymqg4k",
+      "raw_prediction": "ADPyMqg4K",
+      "status": "correct"
+    },
+    {
+      "id": 281,
+      "gold": "adp7qdxip",
+      "prediction": "adp7qdxip",
+      "raw_prediction": "ADP7qDXip",
+      "status": "correct"
+    },
+    {
+      "id": 282,
+      "gold": "adpfgafnv",
+      "prediction": "adpfgafnv",
+      "raw_prediction": "ADPfGAfnV",
+      "status": "correct"
+    },
+    {
+      "id": 283,
+      "gold": "adpfarc3q",
+      "prediction": "adpfarc3q",
+      "raw_prediction": "ADPFARc3q",
+      "status": "correct"
+    },
+    {
+      "id": 284,
+      "gold": "adpgprpy5",
+      "prediction": "adpgprpy5",
+      "raw_prediction": "ADPGpRPY5",
+      "status": "correct"
+    },
+    {
+      "id": 285,
+      "gold": "adpwxhk5f",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 286,
+      "gold": "adpixhmvo",
+      "prediction": "adpixhmvo",
+      "raw_prediction": "ADPixHMvo",
+      "status": "correct"
+    },
+    {
+      "id": 287,
+      "gold": "adpol5doy",
+      "prediction": "adpol5doy",
+      "raw_prediction": "ADPOL5doy",
+      "status": "correct"
+    },
+    {
+      "id": 288,
+      "gold": "adptu9pgm",
+      "prediction": "adptu9pgm",
+      "raw_prediction": "ADPtU9PgM",
+      "status": "correct"
+    },
+    {
+      "id": 289,
+      "gold": "adpa4uxwz",
+      "prediction": "adpa4uxwz",
+      "raw_prediction": "ADPa4UXwz",
+      "status": "correct"
+    },
+    {
+      "id": 290,
+      "gold": "adpb5gfon",
+      "prediction": "spydvw67",
+      "raw_prediction": "SPydvw67",
+      "status": "error"
+    },
+    {
+      "id": 291,
+      "gold": "adpbo3ftn",
+      "prediction": "adpbo3ftn",
+      "raw_prediction": "ADPbO3fTn",
+      "status": "correct"
+    },
+    {
+      "id": 292,
+      "gold": "adpaz8ma2",
+      "prediction": "adpaz8ma2",
+      "raw_prediction": "ADPAZ8mA2",
+      "status": "correct"
+    },
+    {
+      "id": 293,
+      "gold": "adpbqsez6",
+      "prediction": "adpbqsez6",
+      "raw_prediction": "ADPbQsez6",
+      "status": "correct"
+    },
+    {
+      "id": 294,
+      "gold": "adp0g5hcp",
+      "prediction": "adp0g5hcp",
+      "raw_prediction": "ADP0g5hcp",
+      "status": "correct"
+    },
+    {
+      "id": 295,
+      "gold": "adpsqhzgm",
+      "prediction": "adpsqhzgm",
+      "raw_prediction": "ADPSQhZGm",
+      "status": "correct"
+    },
+    {
+      "id": 296,
+      "gold": "adp2eibgh",
+      "prediction": "adp2eibgh",
+      "raw_prediction": "ADP2EIBGH",
+      "status": "correct"
+    },
+    {
+      "id": 297,
+      "gold": "adp9r3tw9",
+      "prediction": "adp9r3tw9",
+      "raw_prediction": "ADP9r3tW9",
+      "status": "correct"
+    },
+    {
+      "id": 298,
+      "gold": "adpgawmt1",
+      "prediction": "adpgawmt1",
+      "raw_prediction": "ADPGAwMT1",
+      "status": "correct"
+    },
+    {
+      "id": 299,
+      "gold": "adpulghoa",
+      "prediction": "adpulghoa",
+      "raw_prediction": "ADPULgHoA",
+      "status": "correct"
+    },
+    {
+      "id": 300,
+      "gold": "adpp9ohgb",
+      "prediction": "spk5tgwl",
+      "raw_prediction": "SPK5TgwL",
+      "status": "error"
+    },
+    {
+      "id": 301,
+      "gold": "adp2mm7vl",
+      "prediction": "adp2mm7vl",
+      "raw_prediction": "ADP2mM7vl",
+      "status": "correct"
+    },
+    {
+      "id": 302,
+      "gold": "adpcudmxq",
+      "prediction": "adpcudmxq",
+      "raw_prediction": "ADPcUdMXQ",
+      "status": "correct"
+    },
+    {
+      "id": 303,
+      "gold": "adpphcvuv",
+      "prediction": "adpphcvuv",
+      "raw_prediction": "ADPPhcVUv",
+      "status": "correct"
+    },
+    {
+      "id": 304,
+      "gold": "adpcabwft",
+      "prediction": "adpcabwft",
+      "raw_prediction": "ADPCABWFT",
+      "status": "correct"
+    },
+    {
+      "id": 305,
+      "gold": "adpka1z6a",
+      "prediction": "adpka1z6a",
+      "raw_prediction": "ADPka1Z6A",
+      "status": "correct"
+    },
+    {
+      "id": 306,
+      "gold": "adpqvbaw7",
+      "prediction": "adpqvbaw7",
+      "raw_prediction": "ADPQVbaW7",
+      "status": "correct"
+    },
+    {
+      "id": 307,
+      "gold": "adprzpcqz",
+      "prediction": "sps0ptll",
+      "raw_prediction": "SPs0Ptll",
+      "status": "error"
+    },
+    {
+      "id": 308,
+      "gold": "adpggnmgq",
+      "prediction": "spp3wsue",
+      "raw_prediction": "SPp3wSue",
+      "status": "error"
+    },
+    {
+      "id": 309,
+      "gold": "adpiqf2uk",
+      "prediction": "adpiqf2uk",
+      "raw_prediction": "ADPiQf2uK",
+      "status": "correct"
+    },
+    {
+      "id": 310,
+      "gold": "adpe4mdza",
+      "prediction": "sps4qycd",
+      "raw_prediction": "SPs4QYCD",
+      "status": "error"
+    },
+    {
+      "id": 311,
+      "gold": "adprgdmpe",
+      "prediction": "adprgdmpe",
+      "raw_prediction": "ADPRGdmpe",
+      "status": "correct"
+    },
+    {
+      "id": 312,
+      "gold": "adpdkqyqk",
+      "prediction": "adpdkqyqk",
+      "raw_prediction": "ADPDKQYqK",
+      "status": "correct"
+    },
+    {
+      "id": 313,
+      "gold": "adpm8ien1",
+      "prediction": "adpm8ien1",
+      "raw_prediction": "ADPM8IEN1",
+      "status": "correct"
+    },
+    {
+      "id": 314,
+      "gold": "adp5g4gfl",
+      "prediction": "adpf6oplk",
+      "raw_prediction": "ADPf6oplK",
+      "status": "error"
+    },
+    {
+      "id": 315,
+      "gold": "adplodafs",
+      "prediction": "adplodafs",
+      "raw_prediction": "ADPlodafS",
+      "status": "correct"
+    },
+    {
+      "id": 316,
+      "gold": "adpumsg6y",
+      "prediction": "adpumsg6y",
+      "raw_prediction": "ADPuMSG6Y",
+      "status": "correct"
+    },
+    {
+      "id": 317,
+      "gold": "adptimiac",
+      "prediction": "adptimiac",
+      "raw_prediction": "ADPTImIAC",
+      "status": "correct"
+    },
+    {
+      "id": 318,
+      "gold": "adpn2daek",
+      "prediction": "spitqblx",
+      "raw_prediction": "SPITqbLx",
+      "status": "error"
+    },
+    {
+      "id": 319,
+      "gold": "adpafucwm",
+      "prediction": "adpafucwm",
+      "raw_prediction": "ADPAfUcWm",
+      "status": "correct"
+    },
+    {
+      "id": 320,
+      "gold": "adpplgmhv",
+      "prediction": "adpplgmhv",
+      "raw_prediction": "ADPpLGMhv",
+      "status": "correct"
+    },
+    {
+      "id": 321,
+      "gold": "adpqeiglm",
+      "prediction": "adpqeiglm",
+      "raw_prediction": "ADPQeIglm",
+      "status": "correct"
+    },
+    {
+      "id": 322,
+      "gold": "adp4qlqvh",
+      "prediction": "spsecgph",
+      "raw_prediction": "SPSEcgph",
+      "status": "error"
+    },
+    {
+      "id": 323,
+      "gold": "adpgtgff1",
+      "prediction": "sp4ie5an",
+      "raw_prediction": "SP4iE5aN",
+      "status": "error"
+    },
+    {
+      "id": 324,
+      "gold": "adpsrh8bw",
+      "prediction": "adpsrh8bw",
+      "raw_prediction": "ADPsRH8bw",
+      "status": "correct"
+    },
+    {
+      "id": 325,
+      "gold": "adpmcbyik",
+      "prediction": "adpmcbyik",
+      "raw_prediction": "ADPmcBYIK",
+      "status": "correct"
+    },
+    {
+      "id": 326,
+      "gold": "adphcglax",
+      "prediction": "adphcglax",
+      "raw_prediction": "ADPhcGlAx",
+      "status": "correct"
+    },
+    {
+      "id": 327,
+      "gold": "adpt5ga5g",
+      "prediction": "adpt5ga5g",
+      "raw_prediction": "ADPt5ga5g",
+      "status": "correct"
+    },
+    {
+      "id": 328,
+      "gold": "adpk4cigw",
+      "prediction": "adpk4cigw",
+      "raw_prediction": "ADPk4cIGW",
+      "status": "correct"
+    },
+    {
+      "id": 329,
+      "gold": "adp2tcpal",
+      "prediction": "sper7wt5",
+      "raw_prediction": "SPEr7wT5",
+      "status": "error"
+    },
+    {
+      "id": 330,
+      "gold": "adp48pmhy",
+      "prediction": "adp48pmhy",
+      "raw_prediction": "ADP48pmHY",
+      "status": "correct"
+    },
+    {
+      "id": 331,
+      "gold": "adp1198hg",
+      "prediction": "adp1198hg",
+      "raw_prediction": "ADP1198Hg",
+      "status": "correct"
+    },
+    {
+      "id": 332,
+      "gold": "adpld8iht",
+      "prediction": "adpld8iht",
+      "raw_prediction": "ADPLD8Iht",
+      "status": "correct"
+    },
+    {
+      "id": 333,
+      "gold": "adpd5fg0v",
+      "prediction": "adpd5fg0v",
+      "raw_prediction": "ADPd5fG0v",
+      "status": "correct"
+    },
+    {
+      "id": 334,
+      "gold": "adptt7ipu",
+      "prediction": "spaazd4t",
+      "raw_prediction": "SPAAzD4T",
+      "status": "error"
+    },
+    {
+      "id": 335,
+      "gold": "adpgvebnc",
+      "prediction": "adpgvebnc",
+      "raw_prediction": "ADPgveBnc",
+      "status": "correct"
+    },
+    {
+      "id": 336,
+      "gold": "adpqrpfwg",
+      "prediction": "spnicy1a",
+      "raw_prediction": "SPNICy1A",
+      "status": "error"
+    },
+    {
+      "id": 337,
+      "gold": "adp4bceuy",
+      "prediction": "sp4ntqks",
+      "raw_prediction": "SP4NtQKs",
+      "status": "error"
+    },
+    {
+      "id": 338,
+      "gold": "adpduitsq",
+      "prediction": "spbfizgb",
+      "raw_prediction": "SPBfIzGB",
+      "status": "error"
+    },
+    {
+      "id": 339,
+      "gold": "adpo2ehag",
+      "prediction": "adpo2ehag",
+      "raw_prediction": "ADPO2eHAG",
+      "status": "correct"
+    },
+    {
+      "id": 340,
+      "gold": "adp2g3rli",
+      "prediction": "adp2g3rli",
+      "raw_prediction": "ADP2g3rLi",
+      "status": "correct"
+    },
+    {
+      "id": 341,
+      "gold": "adp0uklkl",
+      "prediction": "spbcownk",
+      "raw_prediction": "SPBCownk",
+      "status": "error"
+    },
+    {
+      "id": 342,
+      "gold": "adpelmfl9",
+      "prediction": "adpelmfl9",
+      "raw_prediction": "ADPelMfl9",
+      "status": "correct"
+    },
+    {
+      "id": 343,
+      "gold": "adpy7y3gu",
+      "prediction": "spmgqvx6",
+      "raw_prediction": "SPMGQvX6",
+      "status": "error"
+    },
+    {
+      "id": 344,
+      "gold": "adpocodgp",
+      "prediction": "adpocodgp",
+      "raw_prediction": "ADPOCODgP",
+      "status": "correct"
+    },
+    {
+      "id": 345,
+      "gold": "adp1yleuw",
+      "prediction": "adp1yleuw",
+      "raw_prediction": "ADP1YleuW",
+      "status": "correct"
+    },
+    {
+      "id": 346,
+      "gold": "adpr17ahc",
+      "prediction": "adpr17ahc",
+      "raw_prediction": "ADPr17ahc",
+      "status": "correct"
+    },
+    {
+      "id": 347,
+      "gold": "adpedm7yw",
+      "prediction": "adpedm7yw",
+      "raw_prediction": "ADPedM7yw",
+      "status": "correct"
+    },
+    {
+      "id": 348,
+      "gold": "adpaiaawg",
+      "prediction": "adpaiaawg",
+      "raw_prediction": "ADPaiaAwG",
+      "status": "correct"
+    },
+    {
+      "id": 349,
+      "gold": "adp73savk",
+      "prediction": "spacnqx9",
+      "raw_prediction": "SPACnqx9",
+      "status": "error"
+    },
+    {
+      "id": 350,
+      "gold": "adpzyqpaq",
+      "prediction": "adpzyqpaq",
+      "raw_prediction": "ADPZYqpaQ",
+      "status": "correct"
+    },
+    {
+      "id": 351,
+      "gold": "adp0ri59w",
+      "prediction": "spqfyx7i",
+      "raw_prediction": "SPQFyx7i",
+      "status": "error"
+    },
+    {
+      "id": 352,
+      "gold": "adpr7tf1a",
+      "prediction": "adpr7tf1a",
+      "raw_prediction": "ADPr7tF1a",
+      "status": "correct"
+    },
+    {
+      "id": 353,
+      "gold": "adpuftbtz",
+      "prediction": "adpuftbtz",
+      "raw_prediction": "ADPUfTBtZ",
+      "status": "correct"
+    },
+    {
+      "id": 354,
+      "gold": "adphpbwve",
+      "prediction": "adphpbwve",
+      "raw_prediction": "ADPhpBwVe",
+      "status": "correct"
+    },
+    {
+      "id": 355,
+      "gold": "adpegnadz",
+      "prediction": "adpegnadz",
+      "raw_prediction": "ADPeGNadz",
+      "status": "correct"
+    },
+    {
+      "id": 356,
+      "gold": "adpq9or0h",
+      "prediction": "adpq9or0h",
+      "raw_prediction": "ADPQ9Or0h",
+      "status": "correct"
+    },
+    {
+      "id": 357,
+      "gold": "adpzsinis",
+      "prediction": "adpzsinis",
+      "raw_prediction": "ADPzSIniS",
+      "status": "correct"
+    },
+    {
+      "id": 358,
+      "gold": "adp0pfgyq",
+      "prediction": "adp0pfgyq",
+      "raw_prediction": "ADP0PFgYq",
+      "status": "correct"
+    },
+    {
+      "id": 359,
+      "gold": "adplq6zef",
+      "prediction": "adplq6zef",
+      "raw_prediction": "ADPlQ6zEF",
+      "status": "correct"
+    },
+    {
+      "id": 360,
+      "gold": "adpt11xyz",
+      "prediction": "adpt11xyz",
+      "raw_prediction": "ADPt11xYZ",
+      "status": "correct"
+    },
+    {
+      "id": 361,
+      "gold": "adpeegud8",
+      "prediction": "adpeegud8",
+      "raw_prediction": "ADPeegUD8",
+      "status": "correct"
+    },
+    {
+      "id": 362,
+      "gold": "adpvvudzs",
+      "prediction": "spfncntx",
+      "raw_prediction": "SPFncntx",
+      "status": "error"
+    },
+    {
+      "id": 363,
+      "gold": "adp85nece",
+      "prediction": "adp85nece",
+      "raw_prediction": "ADP85nECE",
+      "status": "correct"
+    },
+    {
+      "id": 364,
+      "gold": "adpgvofb6",
+      "prediction": "adpgvofb6",
+      "raw_prediction": "ADPgVoFb6",
+      "status": "correct"
+    },
+    {
+      "id": 365,
+      "gold": "adpdfgncd",
+      "prediction": "adpdfgncd",
+      "raw_prediction": "ADPdFGNcD",
+      "status": "correct"
+    },
+    {
+      "id": 366,
+      "gold": "adppzpdck",
+      "prediction": "adppzpdck",
+      "raw_prediction": "ADPpZPDcK",
+      "status": "correct"
+    },
+    {
+      "id": 367,
+      "gold": "adp54lvtw",
+      "prediction": "adp54lvtw",
+      "raw_prediction": "ADP54LvtW",
+      "status": "correct"
+    },
+    {
+      "id": 368,
+      "gold": "adpnxu8bu",
+      "prediction": "adpnxu8bu",
+      "raw_prediction": "ADPnxU8Bu",
+      "status": "correct"
+    },
+    {
+      "id": 369,
+      "gold": "adpgwgugi",
+      "prediction": "adpgwgugi",
+      "raw_prediction": "ADPgwgugI",
+      "status": "correct"
+    },
+    {
+      "id": 370,
+      "gold": "adpm7hctn",
+      "prediction": "spnzl6bi",
+      "raw_prediction": "SPnZl6Bi",
+      "status": "error"
+    },
+    {
+      "id": 371,
+      "gold": "adpp22ogy",
+      "prediction": "adpp22ogy",
+      "raw_prediction": "ADPp22oGY",
+      "status": "correct"
+    },
+    {
+      "id": 372,
+      "gold": "adphi3w5q",
+      "prediction": "adphi3w5q",
+      "raw_prediction": "ADPHI3W5q",
+      "status": "correct"
+    },
+    {
+      "id": 373,
+      "gold": "adpmsgdyw",
+      "prediction": "adpmsgdyw",
+      "raw_prediction": "ADPmSGdyW",
+      "status": "correct"
+    },
+    {
+      "id": 374,
+      "gold": "adpbqnsk7",
+      "prediction": "adpbqnsk7",
+      "raw_prediction": "ADPBQNsk7",
+      "status": "correct"
+    },
+    {
+      "id": 375,
+      "gold": "adpnqvgbx",
+      "prediction": "adpnqvgbx",
+      "raw_prediction": "ADPNqVgBX",
+      "status": "correct"
+    },
+    {
+      "id": 376,
+      "gold": "adpu6ntw9",
+      "prediction": "adpu6ntw9",
+      "raw_prediction": "ADPU6Ntw9",
+      "status": "correct"
+    },
+    {
+      "id": 377,
+      "gold": "adpqwovdv",
+      "prediction": "adpqwovdv",
+      "raw_prediction": "ADPQwovDV",
+      "status": "correct"
+    },
+    {
+      "id": 378,
+      "gold": "adpb4oi7x",
+      "prediction": "adpb4oi7x",
+      "raw_prediction": "ADPB4OI7X",
+      "status": "correct"
+    },
+    {
+      "id": 379,
+      "gold": "adp6r9xrl",
+      "prediction": "adp6r9xrl",
+      "raw_prediction": "ADP6r9XRL",
+      "status": "correct"
+    },
+    {
+      "id": 380,
+      "gold": "adphdognk",
+      "prediction": "speesqk4",
+      "raw_prediction": "SPeeSqk4",
+      "status": "error"
+    },
+    {
+      "id": 381,
+      "gold": "adpg29gnm",
+      "prediction": "spg5fcui",
+      "raw_prediction": "SPG5fCUi",
+      "status": "error"
+    },
+    {
+      "id": 382,
+      "gold": "adplbap3i",
+      "prediction": "adplbap3i",
+      "raw_prediction": "ADPlBAp3I",
+      "status": "correct"
+    },
+    {
+      "id": 383,
+      "gold": "adplk4wug",
+      "prediction": "adplk4wug",
+      "raw_prediction": "ADPlk4wug",
+      "status": "correct"
+    },
+    {
+      "id": 384,
+      "gold": "adpaxc8w5",
+      "prediction": "adpaxc8w5",
+      "raw_prediction": "ADPAXC8w5",
+      "status": "correct"
+    },
+    {
+      "id": 385,
+      "gold": "adpibtfqi",
+      "prediction": "spn7pkb1",
+      "raw_prediction": "SPN7PKb1",
+      "status": "error"
+    },
+    {
+      "id": 386,
+      "gold": "adpqi30cv",
+      "prediction": "adpqi30cv",
+      "raw_prediction": "ADPQi30CV",
+      "status": "correct"
+    },
+    {
+      "id": 387,
+      "gold": "adppwexb5",
+      "prediction": "adppwexb5",
+      "raw_prediction": "ADPPweXB5",
+      "status": "correct"
+    },
+    {
+      "id": 388,
+      "gold": "adplcdgd1",
+      "prediction": "adplcdgd1",
+      "raw_prediction": "ADPLCdgd1",
+      "status": "correct"
+    },
+    {
+      "id": 389,
+      "gold": "adpnzbhfm",
+      "prediction": "adpnzbhfm",
+      "raw_prediction": "ADPnzbHfM",
+      "status": "correct"
+    },
+    {
+      "id": 390,
+      "gold": "adpk4v55s",
+      "prediction": "adpk4v55s",
+      "raw_prediction": "ADPK4V55S",
+      "status": "correct"
+    },
+    {
+      "id": 391,
+      "gold": "adpdioyeq",
+      "prediction": "adpdioyeq",
+      "raw_prediction": "ADPdiOYeq",
+      "status": "correct"
+    },
+    {
+      "id": 392,
+      "gold": "adpuziwp6",
+      "prediction": "adpuziwp6",
+      "raw_prediction": "ADPuZiWP6",
+      "status": "correct"
+    },
+    {
+      "id": 393,
+      "gold": "adp5dhrxx",
+      "prediction": "spdtrdm0",
+      "raw_prediction": "SPdTrDm0",
+      "status": "error"
+    },
+    {
+      "id": 394,
+      "gold": "adpynlb0i",
+      "prediction": "adpynlb0i",
+      "raw_prediction": "ADPYNlB0i",
+      "status": "correct"
+    },
+    {
+      "id": 395,
+      "gold": "adp3mtll1",
+      "prediction": "adp3mtll1",
+      "raw_prediction": "ADP3mtLL1",
+      "status": "correct"
+    },
+    {
+      "id": 396,
+      "gold": "adptkmwzl",
+      "prediction": "adptkmwzl",
+      "raw_prediction": "ADPTKMwzL",
+      "status": "correct"
+    },
+    {
+      "id": 397,
+      "gold": "adpsr6w5n",
+      "prediction": "adpsr6w5n",
+      "raw_prediction": "ADPsR6w5n",
+      "status": "correct"
+    },
+    {
+      "id": 398,
+      "gold": "adpczvn4b",
+      "prediction": "spso5dgs",
+      "raw_prediction": "SPSO5Dgs",
+      "status": "error"
+    },
+    {
+      "id": 399,
+      "gold": "adpfgn2xl",
+      "prediction": "sp0dgaef",
+      "raw_prediction": "SP0DgaEf",
+      "status": "error"
+    },
+    {
+      "id": 400,
+      "gold": "adpg32ixk",
+      "prediction": "spbkyk2v",
+      "raw_prediction": "SPBkYK2V",
+      "status": "error"
+    },
+    {
+      "id": 401,
+      "gold": "adpovip6z",
+      "prediction": "adpovip6z",
+      "raw_prediction": "ADPOvIp6Z",
+      "status": "correct"
+    },
+    {
+      "id": 402,
+      "gold": "adpiq068x",
+      "prediction": "adpiq068x",
+      "raw_prediction": "ADPiQ068X",
+      "status": "correct"
+    },
+    {
+      "id": 403,
+      "gold": "adpcffgpk",
+      "prediction": "adpcffgpk",
+      "raw_prediction": "ADPcfFgpk",
+      "status": "correct"
+    },
+    {
+      "id": 404,
+      "gold": "adpg7tbpu",
+      "prediction": "adpg7tbpu",
+      "raw_prediction": "ADPg7TbPU",
+      "status": "correct"
+    },
+    {
+      "id": 405,
+      "gold": "adpcuyycg",
+      "prediction": "adpcuyycg",
+      "raw_prediction": "ADPcuYYCG",
+      "status": "correct"
+    },
+    {
+      "id": 406,
+      "gold": "adpgln7lc",
+      "prediction": "adpgln7lc",
+      "raw_prediction": "ADPgLn7Lc",
+      "status": "correct"
+    },
+    {
+      "id": 407,
+      "gold": "adpgycmvp",
+      "prediction": "spe963sn",
+      "raw_prediction": "SPE963sn",
+      "status": "error"
+    },
+    {
+      "id": 408,
+      "gold": "adpgehygi",
+      "prediction": "adpgehygi",
+      "raw_prediction": "ADPGEHygI",
+      "status": "correct"
+    },
+    {
+      "id": 409,
+      "gold": "adpliiluh",
+      "prediction": "spu2hp6k",
+      "raw_prediction": "SPu2HP6k",
+      "status": "error"
+    },
+    {
+      "id": 410,
+      "gold": "adpcpbub0",
+      "prediction": "adpcpbub0",
+      "raw_prediction": "ADPcPBuB0",
+      "status": "correct"
+    },
+    {
+      "id": 411,
+      "gold": "adplesu4r",
+      "prediction": "adplesu4r",
+      "raw_prediction": "ADPlEsu4R",
+      "status": "correct"
+    },
+    {
+      "id": 412,
+      "gold": "adpy53ucp",
+      "prediction": "adpy53ucp",
+      "raw_prediction": "ADPy53uCp",
+      "status": "correct"
+    },
+    {
+      "id": 413,
+      "gold": "adpptcnin",
+      "prediction": "adpptcnin",
+      "raw_prediction": "ADPptCnIN",
+      "status": "correct"
+    },
+    {
+      "id": 414,
+      "gold": "adpxzqgbr",
+      "prediction": "adpxzqgbr",
+      "raw_prediction": "ADPXzQgBr",
+      "status": "correct"
+    },
+    {
+      "id": 415,
+      "gold": "adpfwhpfv",
+      "prediction": "spvevcll",
+      "raw_prediction": "SPVevClL",
+      "status": "error"
+    },
+    {
+      "id": 416,
+      "gold": "adpeiykgt",
+      "prediction": "sp0apxue",
+      "raw_prediction": "SP0apxuE",
+      "status": "error"
+    },
+    {
+      "id": 417,
+      "gold": "adpxzdb0l",
+      "prediction": "adpxzdb0l",
+      "raw_prediction": "ADPxzDb0l",
+      "status": "correct"
+    },
+    {
+      "id": 418,
+      "gold": "adpacm5f8",
+      "prediction": "spcfiqdl",
+      "raw_prediction": "SPcFIqDL",
+      "status": "error"
+    },
+    {
+      "id": 419,
+      "gold": "adponwdbz",
+      "prediction": "adponwdbz",
+      "raw_prediction": "ADPOnWDbZ",
+      "status": "correct"
+    },
+    {
+      "id": 420,
+      "gold": "adpzqxwru",
+      "prediction": "adpzqxwru",
+      "raw_prediction": "ADPZqXWrU",
+      "status": "correct"
+    },
+    {
+      "id": 421,
+      "gold": "adp73ck7u",
+      "prediction": "adp73ck7u",
+      "raw_prediction": "ADP73CK7U",
+      "status": "correct"
+    },
+    {
+      "id": 422,
+      "gold": "adpapybge",
+      "prediction": "adpapybge",
+      "raw_prediction": "ADPAPybge",
+      "status": "correct"
+    },
+    {
+      "id": 423,
+      "gold": "adp5e3gmt",
+      "prediction": "adp5e3gmt",
+      "raw_prediction": "ADP5E3gMT",
+      "status": "correct"
+    },
+    {
+      "id": 424,
+      "gold": "adpzrfkqm",
+      "prediction": "adpzrfkqm",
+      "raw_prediction": "ADPzRFKQm",
+      "status": "correct"
+    },
+    {
+      "id": 425,
+      "gold": "adpg8orwp",
+      "prediction": "adpg8orwp",
+      "raw_prediction": "ADPg8OrwP",
+      "status": "correct"
+    },
+    {
+      "id": 426,
+      "gold": "adpuoa8wh",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 427,
+      "gold": "adpvbhvfw",
+      "prediction": "adpvbhvfw",
+      "raw_prediction": "ADPvbhvFw",
+      "status": "correct"
+    },
+    {
+      "id": 428,
+      "gold": "adpfeoytm",
+      "prediction": "adpfeoytm",
+      "raw_prediction": "ADPFEOytm",
+      "status": "correct"
+    },
+    {
+      "id": 429,
+      "gold": "adpuodehu",
+      "prediction": "sp2d5zyf",
+      "raw_prediction": "SP2D5Zyf",
+      "status": "error"
+    },
+    {
+      "id": 430,
+      "gold": "adpssh76w",
+      "prediction": "adpssh76w",
+      "raw_prediction": "ADPSSh76w",
+      "status": "correct"
+    },
+    {
+      "id": 431,
+      "gold": "adpxlvek1",
+      "prediction": "adpxlvek1",
+      "raw_prediction": "ADPxLVek1",
+      "status": "correct"
+    },
+    {
+      "id": 432,
+      "gold": "adpcbmail",
+      "prediction": "adpcbmail",
+      "raw_prediction": "ADPCBmaIL",
+      "status": "correct"
+    },
+    {
+      "id": 433,
+      "gold": "adp7v1mk8",
+      "prediction": "splp4a8i",
+      "raw_prediction": "SPLP4a8i",
+      "status": "error"
+    },
+    {
+      "id": 434,
+      "gold": "adpuvca5g",
+      "prediction": "adpuvca5g",
+      "raw_prediction": "ADPuVcA5g",
+      "status": "correct"
+    },
+    {
+      "id": 435,
+      "gold": "adpdh6pzg",
+      "prediction": "spdt1xed",
+      "raw_prediction": "SPDt1xed",
+      "status": "error"
+    },
+    {
+      "id": 436,
+      "gold": "adpmgdgsk",
+      "prediction": "adpmgdgsk",
+      "raw_prediction": "ADPmGDgsK",
+      "status": "correct"
+    },
+    {
+      "id": 437,
+      "gold": "adpb85dwp",
+      "prediction": "adpb85dwp",
+      "raw_prediction": "ADPb85dWP",
+      "status": "correct"
+    },
+    {
+      "id": 438,
+      "gold": "adpagcvgq",
+      "prediction": "adpagcvgq",
+      "raw_prediction": "ADPagCVGq",
+      "status": "correct"
+    },
+    {
+      "id": 439,
+      "gold": "adpevrgaw",
+      "prediction": "adpevrgaw",
+      "raw_prediction": "ADPEvrgaw",
+      "status": "correct"
+    },
+    {
+      "id": 440,
+      "gold": "adpsgysgz",
+      "prediction": "adpsgysgz",
+      "raw_prediction": "ADPSGySgZ",
+      "status": "correct"
+    },
+    {
+      "id": 441,
+      "gold": "adpcqxeby",
+      "prediction": "adpcqxeby",
+      "raw_prediction": "ADPCqXebY",
+      "status": "correct"
+    },
+    {
+      "id": 442,
+      "gold": "adp6h37w0",
+      "prediction": "adp6h37w0",
+      "raw_prediction": "ADP6H37W0",
+      "status": "correct"
+    },
+    {
+      "id": 443,
+      "gold": "adph9vpic",
+      "prediction": "adph9vpic",
+      "raw_prediction": "ADPh9vPIc",
+      "status": "correct"
+    },
+    {
+      "id": 444,
+      "gold": "adpiwfnk8",
+      "prediction": "adpiwfnk8",
+      "raw_prediction": "ADPIwfnk8",
+      "status": "correct"
+    },
+    {
+      "id": 445,
+      "gold": "adpvqinkt",
+      "prediction": "adpvqinkt",
+      "raw_prediction": "ADPVQINkt",
+      "status": "correct"
+    },
+    {
+      "id": 446,
+      "gold": "adpm1wylx",
+      "prediction": "adpm1wylx",
+      "raw_prediction": "ADPM1WYLX",
+      "status": "correct"
+    },
+    {
+      "id": 447,
+      "gold": "adpy8omt3",
+      "prediction": "adpy8omt3",
+      "raw_prediction": "ADPy8Omt3",
+      "status": "correct"
+    },
+    {
+      "id": 448,
+      "gold": "adpzlggoo",
+      "prediction": "adpzlggoo",
+      "raw_prediction": "ADPzLgGoO",
+      "status": "correct"
+    },
+    {
+      "id": 449,
+      "gold": "adpbobb86",
+      "prediction": "adpbobb86",
+      "raw_prediction": "ADPBObB86",
+      "status": "correct"
+    },
+    {
+      "id": 450,
+      "gold": "adpnvdqog",
+      "prediction": "sp28qxkh",
+      "raw_prediction": "SP28qXkH",
+      "status": "error"
+    },
+    {
+      "id": 451,
+      "gold": "adpfhztml",
+      "prediction": "adpfhztml",
+      "raw_prediction": "ADPFhZTML",
+      "status": "correct"
+    },
+    {
+      "id": 452,
+      "gold": "adpq4ix5h",
+      "prediction": "sp6dc2b9",
+      "raw_prediction": "SP6dc2b9",
+      "status": "error"
+    },
+    {
+      "id": 453,
+      "gold": "adppna7o9",
+      "prediction": "adppna7o9",
+      "raw_prediction": "ADPpna7O9",
+      "status": "correct"
+    },
+    {
+      "id": 454,
+      "gold": "adpgvhgo0",
+      "prediction": "adpgvhgo0",
+      "raw_prediction": "ADPGvHGo0",
+      "status": "correct"
+    },
+    {
+      "id": 455,
+      "gold": "adpdxirow",
+      "prediction": "adpdxirow",
+      "raw_prediction": "ADPdXiRow",
+      "status": "correct"
+    },
+    {
+      "id": 456,
+      "gold": "adp92739l",
+      "prediction": "sphgn4ro",
+      "raw_prediction": "SPHgn4Ro",
+      "status": "error"
+    },
+    {
+      "id": 457,
+      "gold": "adpzof2ud",
+      "prediction": "spad36e1",
+      "raw_prediction": "SPaD36E1",
+      "status": "error"
+    },
+    {
+      "id": 458,
+      "gold": "adpydr7lt",
+      "prediction": "adpydr7lt",
+      "raw_prediction": "ADPydR7lt",
+      "status": "correct"
+    },
+    {
+      "id": 459,
+      "gold": "adppx0dog",
+      "prediction": "adppx0dog",
+      "raw_prediction": "ADPpX0DOG",
+      "status": "correct"
+    },
+    {
+      "id": 460,
+      "gold": "adpgoncss",
+      "prediction": "spq31gfd",
+      "raw_prediction": "SPQ31GFd",
+      "status": "error"
+    },
+    {
+      "id": 461,
+      "gold": "adpylxizu",
+      "prediction": "adpylxizu",
+      "raw_prediction": "ADPYLXiZu",
+      "status": "correct"
+    },
+    {
+      "id": 462,
+      "gold": "adpvw6ptm",
+      "prediction": "adpvw6ptm",
+      "raw_prediction": "ADPvw6PTM",
+      "status": "correct"
+    },
+    {
+      "id": 463,
+      "gold": "adpccaud0",
+      "prediction": "adpccaud0",
+      "raw_prediction": "ADPCcAuD0",
+      "status": "correct"
+    },
+    {
+      "id": 464,
+      "gold": "adpelvbnf",
+      "prediction": "adpelvbnf",
+      "raw_prediction": "ADPelvBNF",
+      "status": "correct"
+    },
+    {
+      "id": 465,
+      "gold": "adpwywide",
+      "prediction": "adpwywide",
+      "raw_prediction": "ADPwYwidE",
+      "status": "correct"
+    },
+    {
+      "id": 466,
+      "gold": "adp13rt6p",
+      "prediction": "adp13rt6p",
+      "raw_prediction": "ADP13rt6p",
+      "status": "correct"
+    },
+    {
+      "id": 467,
+      "gold": "adpeixtvg",
+      "prediction": "adpeixtvg",
+      "raw_prediction": "ADPeixTVG",
+      "status": "correct"
+    },
+    {
+      "id": 468,
+      "gold": "adp4ob08b",
+      "prediction": "spcyrxyt",
+      "raw_prediction": "SPcYRXyt",
+      "status": "error"
+    },
+    {
+      "id": 469,
+      "gold": "adp4q9zih",
+      "prediction": "spkgel5f",
+      "raw_prediction": "SPKGeL5f",
+      "status": "error"
+    },
+    {
+      "id": 470,
+      "gold": "adpzp4nao",
+      "prediction": "spi7b6pg",
+      "raw_prediction": "SPi7B6pg",
+      "status": "error"
+    },
+    {
+      "id": 471,
+      "gold": "adpskhm0m",
+      "prediction": "sp6yglgx",
+      "raw_prediction": "SP6yglgx",
+      "status": "error"
+    },
+    {
+      "id": 472,
+      "gold": "adpylesrg",
+      "prediction": "adpylesrg",
+      "raw_prediction": "ADPYlESrG",
+      "status": "correct"
+    },
+    {
+      "id": 473,
+      "gold": "adpfm48gg",
+      "prediction": "adpfm48gg",
+      "raw_prediction": "ADPfM48gG",
+      "status": "correct"
+    },
+    {
+      "id": 474,
+      "gold": "adpgn78ig",
+      "prediction": "spfohund",
+      "raw_prediction": "SPFOHUnd",
+      "status": "error"
+    },
+    {
+      "id": 475,
+      "gold": "adpduwwqy",
+      "prediction": "adpduwwqy",
+      "raw_prediction": "ADPdUwWQy",
+      "status": "correct"
+    },
+    {
+      "id": 476,
+      "gold": "adpx79bfn",
+      "prediction": "adpx79bfn",
+      "raw_prediction": "ADPx79BfN",
+      "status": "correct"
+    },
+    {
+      "id": 477,
+      "gold": "adp5eernq",
+      "prediction": "adpexomgn",
+      "raw_prediction": "ADPeXOmgN",
+      "status": "error"
+    },
+    {
+      "id": 478,
+      "gold": "adpdzbg0x",
+      "prediction": "adpdzbg0x",
+      "raw_prediction": "ADPDzBg0X",
+      "status": "correct"
+    },
+    {
+      "id": 479,
+      "gold": "adpqzovbu",
+      "prediction": "spuru1pf",
+      "raw_prediction": "SPuRu1pF",
+      "status": "error"
+    },
+    {
+      "id": 480,
+      "gold": "adpofw4qk",
+      "prediction": "adpofw4qk",
+      "raw_prediction": "ADPoFw4qk",
+      "status": "correct"
+    },
+    {
+      "id": 481,
+      "gold": "adpmyirs9",
+      "prediction": "adpmyirs9",
+      "raw_prediction": "ADPmYiRS9",
+      "status": "correct"
+    },
+    {
+      "id": 482,
+      "gold": "adpee3znp",
+      "prediction": "adpee3znp",
+      "raw_prediction": "ADPEe3znp",
+      "status": "correct"
+    },
+    {
+      "id": 483,
+      "gold": "adpqitgwb",
+      "prediction": "adpqitgwb",
+      "raw_prediction": "ADPqiTgWb",
+      "status": "correct"
+    },
+    {
+      "id": 484,
+      "gold": "adpunr5cn",
+      "prediction": "adpunr5cn",
+      "raw_prediction": "ADPuNR5Cn",
+      "status": "correct"
+    },
+    {
+      "id": 485,
+      "gold": "adpd5qqpp",
+      "prediction": "adpd5qqpp",
+      "raw_prediction": "ADPD5qQPp",
+      "status": "correct"
+    },
+    {
+      "id": 486,
+      "gold": "adpklzda5",
+      "prediction": "adpklzda5",
+      "raw_prediction": "ADPkLZDa5",
+      "status": "correct"
+    },
+    {
+      "id": 487,
+      "gold": "adpbqevz9",
+      "prediction": "spldyu5n",
+      "raw_prediction": "SPLdyU5n",
+      "status": "error"
+    },
+    {
+      "id": 488,
+      "gold": "adplr3zoh",
+      "prediction": "adplr3zoh",
+      "raw_prediction": "ADPLR3Zoh",
+      "status": "correct"
+    },
+    {
+      "id": 489,
+      "gold": "adpqg1v2u",
+      "prediction": "adpqg1v2u",
+      "raw_prediction": "ADPQG1V2u",
+      "status": "correct"
+    },
+    {
+      "id": 490,
+      "gold": "adpbbeany",
+      "prediction": "adpbbeany",
+      "raw_prediction": "ADPbBEanY",
+      "status": "correct"
+    },
+    {
+      "id": 491,
+      "gold": "adpysl7yg",
+      "prediction": "spbwswqf",
+      "raw_prediction": "SPBwswqF",
+      "status": "error"
+    },
+    {
+      "id": 492,
+      "gold": "adp6qzrnp",
+      "prediction": "adp6qzrnp",
+      "raw_prediction": "ADP6QzrNP",
+      "status": "correct"
+    },
+    {
+      "id": 493,
+      "gold": "adptvem9f",
+      "prediction": "adptvem9f",
+      "raw_prediction": "ADPtvem9F",
+      "status": "correct"
+    },
+    {
+      "id": 494,
+      "gold": "adpacraak",
+      "prediction": "adpacraak",
+      "raw_prediction": "ADPACRaaK",
+      "status": "correct"
+    },
+    {
+      "id": 495,
+      "gold": "adpp7guii",
+      "prediction": "spbynhbf",
+      "raw_prediction": "SPbynHBf",
+      "status": "error"
+    },
+    {
+      "id": 496,
+      "gold": "adpz8ntpe",
+      "prediction": "adpz8ntpe",
+      "raw_prediction": "ADPZ8NtpE",
+      "status": "correct"
+    },
+    {
+      "id": 497,
+      "gold": "adpzyggkv",
+      "prediction": "adpzyggkv",
+      "raw_prediction": "ADPzYGgKV",
+      "status": "correct"
+    },
+    {
+      "id": 498,
+      "gold": "adpz6soey",
+      "prediction": "adpz6soey",
+      "raw_prediction": "ADPz6soey",
+      "status": "correct"
+    },
+    {
+      "id": 499,
+      "gold": "adpasbdfa",
+      "prediction": "adpasbdfa",
+      "raw_prediction": "ADPaSbDFa",
+      "status": "correct"
+    },
+    {
+      "id": 500,
+      "gold": "adpfh5yr4",
+      "prediction": "adpfh5yr4",
+      "raw_prediction": "ADPFh5yR4",
+      "status": "correct"
+    },
+    {
+      "id": 501,
+      "gold": "adpfv0x0o",
+      "prediction": "adpfv0x0o",
+      "raw_prediction": "ADPFv0X0o",
+      "status": "correct"
+    },
+    {
+      "id": 502,
+      "gold": "adpeuwdi4",
+      "prediction": "adpeuwdi4",
+      "raw_prediction": "ADPeUwDI4",
+      "status": "correct"
+    },
+    {
+      "id": 503,
+      "gold": "adpf47ekc",
+      "prediction": "adpoxtbkr",
+      "raw_prediction": "ADPoxtBKR",
+      "status": "error"
+    },
+    {
+      "id": 504,
+      "gold": "adpuryiuv",
+      "prediction": "adpuryiuv",
+      "raw_prediction": "ADPUryiUv",
+      "status": "correct"
+    },
+    {
+      "id": 505,
+      "gold": "adps4yopb",
+      "prediction": "adps4yopb",
+      "raw_prediction": "ADPs4Yopb",
+      "status": "correct"
+    },
+    {
+      "id": 506,
+      "gold": "adp8rvqiy",
+      "prediction": "adp8rvqiy",
+      "raw_prediction": "ADP8RvQIy",
+      "status": "correct"
+    },
+    {
+      "id": 507,
+      "gold": "adpcl8lrm",
+      "prediction": "sptrrggi",
+      "raw_prediction": "SPTrRGGi",
+      "status": "error"
+    },
+    {
+      "id": 508,
+      "gold": "adpm3mqsg",
+      "prediction": "adpm3mqsg",
+      "raw_prediction": "ADPM3mQsg",
+      "status": "correct"
+    },
+    {
+      "id": 509,
+      "gold": "adpqg1t8g",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 510,
+      "gold": "adpvftogg",
+      "prediction": "adpvftogg",
+      "raw_prediction": "ADPvftoGG",
+      "status": "correct"
+    },
+    {
+      "id": 511,
+      "gold": "adps77xag",
+      "prediction": "spgedbd3",
+      "raw_prediction": "SPgEDbd3",
+      "status": "error"
+    },
+    {
+      "id": 512,
+      "gold": "adpzuryhn",
+      "prediction": "adpzuryhn",
+      "raw_prediction": "ADPzUrYHN",
+      "status": "correct"
+    },
+    {
+      "id": 513,
+      "gold": "adpvfk9as",
+      "prediction": "adpvfk9as",
+      "raw_prediction": "ADPVfk9As",
+      "status": "correct"
+    },
+    {
+      "id": 514,
+      "gold": "adpqkrgud",
+      "prediction": "adpqkrgud",
+      "raw_prediction": "ADPqkrGud",
+      "status": "correct"
+    },
+    {
+      "id": 515,
+      "gold": "adp9ncdpd",
+      "prediction": "adp9ncdpd",
+      "raw_prediction": "ADP9nCDpD",
+      "status": "correct"
+    },
+    {
+      "id": 516,
+      "gold": "adp7ix9k5",
+      "prediction": "adp7ix9k5",
+      "raw_prediction": "ADP7Ix9K5",
+      "status": "correct"
+    },
+    {
+      "id": 517,
+      "gold": "adpro6cho",
+      "prediction": "adpro6cho",
+      "raw_prediction": "ADPRO6CHo",
+      "status": "correct"
+    },
+    {
+      "id": 518,
+      "gold": "adpaqlnv6",
+      "prediction": "adpaqlnv6",
+      "raw_prediction": "ADPAqlnV6",
+      "status": "correct"
+    },
+    {
+      "id": 519,
+      "gold": "adpg9etg7",
+      "prediction": "spso4w4i",
+      "raw_prediction": "SPSo4w4i",
+      "status": "error"
+    },
+    {
+      "id": 520,
+      "gold": "adprm4wrr",
+      "prediction": "adprm4wrr",
+      "raw_prediction": "ADPrm4WRR",
+      "status": "correct"
+    },
+    {
+      "id": 521,
+      "gold": "adp75igru",
+      "prediction": "adp75igru",
+      "raw_prediction": "ADP75igRu",
+      "status": "correct"
+    },
+    {
+      "id": 522,
+      "gold": "adpmfobp0",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 523,
+      "gold": "adpirq5rz",
+      "prediction": "adpirq5rz",
+      "raw_prediction": "ADPiRq5Rz",
+      "status": "correct"
+    },
+    {
+      "id": 524,
+      "gold": "adpuv9u9f",
+      "prediction": "adpuv9u9f",
+      "raw_prediction": "ADPUV9u9F",
+      "status": "correct"
+    },
+    {
+      "id": 525,
+      "gold": "adpcpvvmh",
+      "prediction": "adpcpvvmh",
+      "raw_prediction": "ADPcpvvmH",
+      "status": "correct"
+    },
+    {
+      "id": 526,
+      "gold": "adpsvs1zm",
+      "prediction": "spnsuvz5",
+      "raw_prediction": "SPNSUVz5",
+      "status": "error"
+    },
+    {
+      "id": 527,
+      "gold": "adprezn4s",
+      "prediction": "spwcv8ec",
+      "raw_prediction": "SPwcv8Ec",
+      "status": "error"
+    },
+    {
+      "id": 528,
+      "gold": "adpsug0px",
+      "prediction": "spnpxpou",
+      "raw_prediction": "SPnPXPOU",
+      "status": "error"
+    },
+    {
+      "id": 529,
+      "gold": "adpgzcniq",
+      "prediction": "adpgzcniq",
+      "raw_prediction": "ADPGZcnIq",
+      "status": "correct"
+    },
+    {
+      "id": 530,
+      "gold": "adpbrip8v",
+      "prediction": "spfefoct",
+      "raw_prediction": "SPFEfoct",
+      "status": "error"
+    },
+    {
+      "id": 531,
+      "gold": "adpo6otgc",
+      "prediction": "adpo6otgc",
+      "raw_prediction": "ADPO6OTGc",
+      "status": "correct"
+    },
+    {
+      "id": 532,
+      "gold": "adpblhtst",
+      "prediction": "adpblhtst",
+      "raw_prediction": "ADPbLhTST",
+      "status": "correct"
+    },
+    {
+      "id": 533,
+      "gold": "adpw7frnb",
+      "prediction": "adpw7frnb",
+      "raw_prediction": "ADPW7fRNB",
+      "status": "correct"
+    },
+    {
+      "id": 534,
+      "gold": "adpk32kze",
+      "prediction": "adpk32kze",
+      "raw_prediction": "ADPk32KZE",
+      "status": "correct"
+    },
+    {
+      "id": 535,
+      "gold": "adp5cy2lf",
+      "prediction": "adp5cy2lf",
+      "raw_prediction": "ADP5Cy2Lf",
+      "status": "correct"
+    },
+    {
+      "id": 536,
+      "gold": "adp5rg8z3",
+      "prediction": "adp5rg8z3",
+      "raw_prediction": "ADP5rg8z3",
+      "status": "correct"
+    },
+    {
+      "id": 537,
+      "gold": "adpwpg5pc",
+      "prediction": "adpwpg5pc",
+      "raw_prediction": "ADPwpg5pC",
+      "status": "correct"
+    },
+    {
+      "id": 538,
+      "gold": "adpisoerm",
+      "prediction": "adpisoerm",
+      "raw_prediction": "ADPiSoErM",
+      "status": "correct"
+    },
+    {
+      "id": 539,
+      "gold": "adp3vxuam",
+      "prediction": "adp3vxuam",
+      "raw_prediction": "ADP3VxuaM",
+      "status": "correct"
+    },
+    {
+      "id": 540,
+      "gold": "adpsa5yzl",
+      "prediction": "adpsa5yzl",
+      "raw_prediction": "ADPSa5Yzl",
+      "status": "correct"
+    },
+    {
+      "id": 541,
+      "gold": "adptfodbl",
+      "prediction": "adptfodbl",
+      "raw_prediction": "ADPTFOdBL",
+      "status": "correct"
+    },
+    {
+      "id": 542,
+      "gold": "adpvluhpi",
+      "prediction": "adpvluhpi",
+      "raw_prediction": "ADPvluhPi",
+      "status": "correct"
+    },
+    {
+      "id": 543,
+      "gold": "adp82hpbz",
+      "prediction": "sp1fmue7",
+      "raw_prediction": "SP1FmUE7",
+      "status": "error"
+    },
+    {
+      "id": 544,
+      "gold": "adpprpltf",
+      "prediction": "adpprpltf",
+      "raw_prediction": "ADPpRPLtf",
+      "status": "correct"
+    },
+    {
+      "id": 545,
+      "gold": "adprda0dp",
+      "prediction": "adprda0dp",
+      "raw_prediction": "ADPrDA0DP",
+      "status": "correct"
+    },
+    {
+      "id": 546,
+      "gold": "adpkegs6t",
+      "prediction": "adpkegs6t",
+      "raw_prediction": "ADPkEgs6T",
+      "status": "correct"
+    },
+    {
+      "id": 547,
+      "gold": "adparguiy",
+      "prediction": "adparguiy",
+      "raw_prediction": "ADPArgUiY",
+      "status": "correct"
+    },
+    {
+      "id": 548,
+      "gold": "adpennrnl",
+      "prediction": "adpennrnl",
+      "raw_prediction": "ADPEnNRnl",
+      "status": "correct"
+    },
+    {
+      "id": 549,
+      "gold": "adpl1tgsn",
+      "prediction": "adpl1tgsn",
+      "raw_prediction": "ADPL1tgsn",
+      "status": "correct"
+    },
+    {
+      "id": 550,
+      "gold": "adp9wetbz",
+      "prediction": "adp9wetbz",
+      "raw_prediction": "ADP9wETBz",
+      "status": "correct"
+    },
+    {
+      "id": 551,
+      "gold": "adpng9ong",
+      "prediction": "adpng9ong",
+      "raw_prediction": "ADPnG9ong",
+      "status": "correct"
+    },
+    {
+      "id": 552,
+      "gold": "adp7agtce",
+      "prediction": "adp7agtce",
+      "raw_prediction": "ADP7AgtcE",
+      "status": "correct"
+    },
+    {
+      "id": 553,
+      "gold": "adp7tdiz4",
+      "prediction": "adp7tdiz4",
+      "raw_prediction": "ADP7tDiz4",
+      "status": "correct"
+    },
+    {
+      "id": 554,
+      "gold": "adpmugkis",
+      "prediction": "adpmugkis",
+      "raw_prediction": "ADPmuGkIs",
+      "status": "correct"
+    },
+    {
+      "id": 555,
+      "gold": "adpvuhao0",
+      "prediction": "adpvuhao0",
+      "raw_prediction": "ADPVuhaO0",
+      "status": "correct"
+    },
+    {
+      "id": 556,
+      "gold": "adpdzf3gm",
+      "prediction": "adpdzf3gm",
+      "raw_prediction": "ADPDzF3Gm",
+      "status": "correct"
+    },
+    {
+      "id": 557,
+      "gold": "adpbz7pn0",
+      "prediction": "adpbz7pn0",
+      "raw_prediction": "ADPbZ7PN0",
+      "status": "correct"
+    },
+    {
+      "id": 558,
+      "gold": "adpmgfucf",
+      "prediction": "spyu6v5v",
+      "raw_prediction": "SPYu6v5V",
+      "status": "error"
+    },
+    {
+      "id": 559,
+      "gold": "adpqo1xi6",
+      "prediction": "adpqo1xi6",
+      "raw_prediction": "ADPqo1xI6",
+      "status": "correct"
+    },
+    {
+      "id": 560,
+      "gold": "adpw4mkro",
+      "prediction": "spvtxtsy",
+      "raw_prediction": "SPVTxtSy",
+      "status": "error"
+    },
+    {
+      "id": 561,
+      "gold": "adpfpmgzx",
+      "prediction": "adpfpmgzx",
+      "raw_prediction": "ADPFpMgzX",
+      "status": "correct"
+    },
+    {
+      "id": 562,
+      "gold": "adp10nhdq",
+      "prediction": "adp10nhdq",
+      "raw_prediction": "ADP10NHdQ",
+      "status": "correct"
+    },
+    {
+      "id": 563,
+      "gold": "adpw3bprr",
+      "prediction": "spxzmody",
+      "raw_prediction": "SPXzmoDy",
+      "status": "error"
+    },
+    {
+      "id": 564,
+      "gold": "adppogcqb",
+      "prediction": "adppogcqb",
+      "raw_prediction": "ADPPoGcqB",
+      "status": "correct"
+    },
+    {
+      "id": 565,
+      "gold": "adp3dxwcp",
+      "prediction": "spwuv75n",
+      "raw_prediction": "SPwuv75N",
+      "status": "error"
+    },
+    {
+      "id": 566,
+      "gold": "adpcimzrp",
+      "prediction": "sphkqgbd",
+      "raw_prediction": "SPHkqgBd",
+      "status": "error"
+    },
+    {
+      "id": 567,
+      "gold": "adpwwa1k2",
+      "prediction": "sp66bhc8",
+      "raw_prediction": "SP66BhC8",
+      "status": "error"
+    },
+    {
+      "id": 568,
+      "gold": "adptqclux",
+      "prediction": "sp5kcnrv",
+      "raw_prediction": "SP5kcnrv",
+      "status": "error"
+    },
+    {
+      "id": 569,
+      "gold": "adptnogcu",
+      "prediction": "adptnogcu",
+      "raw_prediction": "ADPTnOgcu",
+      "status": "correct"
+    },
+    {
+      "id": 570,
+      "gold": "adpc3aey6",
+      "prediction": "adpc3aey6",
+      "raw_prediction": "ADPC3Aey6",
+      "status": "correct"
+    },
+    {
+      "id": 571,
+      "gold": "adptg4fpu",
+      "prediction": "adptg4fpu",
+      "raw_prediction": "ADPtg4Fpu",
+      "status": "correct"
+    },
+    {
+      "id": 572,
+      "gold": "adptfycee",
+      "prediction": "adptfycee",
+      "raw_prediction": "ADPtFyCEE",
+      "status": "correct"
+    },
+    {
+      "id": 573,
+      "gold": "adpgdpggb",
+      "prediction": "spmtosty",
+      "raw_prediction": "SPmTosTy",
+      "status": "error"
+    },
+    {
+      "id": 574,
+      "gold": "adprhe2t5",
+      "prediction": "adprhe2t5",
+      "raw_prediction": "ADPRHE2t5",
+      "status": "correct"
+    },
+    {
+      "id": 575,
+      "gold": "adpazirea",
+      "prediction": "spgyabrm",
+      "raw_prediction": "SPGYAbRM",
+      "status": "error"
+    },
+    {
+      "id": 576,
+      "gold": "adpsdplgx",
+      "prediction": "adpsdplgx",
+      "raw_prediction": "ADPsdplGX",
+      "status": "correct"
+    },
+    {
+      "id": 577,
+      "gold": "adpbgsyvg",
+      "prediction": "adpbgsyvg",
+      "raw_prediction": "ADPbgsyvg",
+      "status": "correct"
+    },
+    {
+      "id": 578,
+      "gold": "adpm9phsh",
+      "prediction": "adpm9phsh",
+      "raw_prediction": "ADPm9pHsH",
+      "status": "correct"
+    },
+    {
+      "id": 579,
+      "gold": "adpuzpltq",
+      "prediction": "adpuzpltq",
+      "raw_prediction": "ADPUZplTq",
+      "status": "correct"
+    },
+    {
+      "id": 580,
+      "gold": "adpimouxc",
+      "prediction": "spdxk0xh",
+      "raw_prediction": "SPdxk0xH",
+      "status": "error"
+    },
+    {
+      "id": 581,
+      "gold": "adp35sikl",
+      "prediction": "adp35sikl",
+      "raw_prediction": "ADP35sikl",
+      "status": "correct"
+    },
+    {
+      "id": 582,
+      "gold": "adpkgqed6",
+      "prediction": "adpkgqed6",
+      "raw_prediction": "ADPKgQED6",
+      "status": "correct"
+    },
+    {
+      "id": 583,
+      "gold": "adpw3y1cv",
+      "prediction": "adpw3y1cv",
+      "raw_prediction": "ADPW3Y1cv",
+      "status": "correct"
+    },
+    {
+      "id": 584,
+      "gold": "adpydbcls",
+      "prediction": "spvsq9yx",
+      "raw_prediction": "SPVsQ9yX",
+      "status": "error"
+    },
+    {
+      "id": 585,
+      "gold": "adpzauqgh",
+      "prediction": "adpzauqgh",
+      "raw_prediction": "ADPZAuQGh",
+      "status": "correct"
+    },
+    {
+      "id": 586,
+      "gold": "adper54su",
+      "prediction": "adper54su",
+      "raw_prediction": "ADPEr54sU",
+      "status": "correct"
+    },
+    {
+      "id": 587,
+      "gold": "adpxe7gyg",
+      "prediction": "adpxe7gyg",
+      "raw_prediction": "ADPXe7gyG",
+      "status": "correct"
+    },
+    {
+      "id": 588,
+      "gold": "adp5nm4b5",
+      "prediction": "adp5nm4b5",
+      "raw_prediction": "ADP5nm4b5",
+      "status": "correct"
+    },
+    {
+      "id": 589,
+      "gold": "adp93125g",
+      "prediction": "adp93125g",
+      "raw_prediction": "ADP93125G",
+      "status": "correct"
+    },
+    {
+      "id": 590,
+      "gold": "adp1us7an",
+      "prediction": "adp1us7an",
+      "raw_prediction": "ADP1US7AN",
+      "status": "correct"
+    },
+    {
+      "id": 591,
+      "gold": "adpygcos0",
+      "prediction": "spamulgb",
+      "raw_prediction": "SPamUlgb",
+      "status": "error"
+    },
+    {
+      "id": 592,
+      "gold": "adpuitz9i",
+      "prediction": "adpuitz9i",
+      "raw_prediction": "ADPUiTZ9I",
+      "status": "correct"
+    },
+    {
+      "id": 593,
+      "gold": "adpsxgyuo",
+      "prediction": "adpsxgyuo",
+      "raw_prediction": "ADPsxgYuo",
+      "status": "correct"
+    },
+    {
+      "id": 594,
+      "gold": "adpbu83wr",
+      "prediction": "adpbu83wr",
+      "raw_prediction": "ADPbU83WR",
+      "status": "correct"
+    },
+    {
+      "id": 595,
+      "gold": "adpomphgk",
+      "prediction": "adpomphgk",
+      "raw_prediction": "ADPOMPHgK",
+      "status": "correct"
+    },
+    {
+      "id": 596,
+      "gold": "adpb94dof",
+      "prediction": "adpb94dof",
+      "raw_prediction": "ADPb94DoF",
+      "status": "correct"
+    },
+    {
+      "id": 597,
+      "gold": "adpqaofzc",
+      "prediction": "adpqaofzc",
+      "raw_prediction": "ADPqAoFzc",
+      "status": "correct"
+    },
+    {
+      "id": 598,
+      "gold": "adptwepx9",
+      "prediction": "adptwepx9",
+      "raw_prediction": "ADPtWEpX9",
+      "status": "correct"
+    },
+    {
+      "id": 599,
+      "gold": "adp4kyg4p",
+      "prediction": "adp4kyg4p",
+      "raw_prediction": "ADP4kyg4P",
+      "status": "correct"
+    },
+    {
+      "id": 600,
+      "gold": "adpog1c3o",
+      "prediction": "adpog1c3o",
+      "raw_prediction": "ADPOG1C3o",
+      "status": "correct"
+    },
+    {
+      "id": 601,
+      "gold": "adpih5pkv",
+      "prediction": "adpih5pkv",
+      "raw_prediction": "ADPIh5Pkv",
+      "status": "correct"
+    },
+    {
+      "id": 602,
+      "gold": "adpiq95xn",
+      "prediction": "adpiq95xn",
+      "raw_prediction": "ADPIq95XN",
+      "status": "correct"
+    },
+    {
+      "id": 603,
+      "gold": "adpupdwrg",
+      "prediction": "adpupdwrg",
+      "raw_prediction": "ADPuPDWRg",
+      "status": "correct"
+    },
+    {
+      "id": 604,
+      "gold": "adpnmub8e",
+      "prediction": "adpnmub8e",
+      "raw_prediction": "ADPNMub8e",
+      "status": "correct"
+    },
+    {
+      "id": 605,
+      "gold": "adpndht4g",
+      "prediction": "adpndht4g",
+      "raw_prediction": "ADPndHT4G",
+      "status": "correct"
+    },
+    {
+      "id": 606,
+      "gold": "adpgixu5p",
+      "prediction": "adpgixu5p",
+      "raw_prediction": "ADPgIxu5P",
+      "status": "correct"
+    },
+    {
+      "id": 607,
+      "gold": "adpwkgt39",
+      "prediction": "adpwkgt39",
+      "raw_prediction": "ADPwkGT39",
+      "status": "correct"
+    },
+    {
+      "id": 608,
+      "gold": "adpiu8zek",
+      "prediction": "adpiu8zek",
+      "raw_prediction": "ADPiU8ZeK",
+      "status": "correct"
+    },
+    {
+      "id": 609,
+      "gold": "adpm4qvgq",
+      "prediction": "adpm4qvgq",
+      "raw_prediction": "ADPm4qVgQ",
+      "status": "correct"
+    },
+    {
+      "id": 610,
+      "gold": "adpvvyspw",
+      "prediction": "spxlv2ip",
+      "raw_prediction": "SPXlv2Ip",
+      "status": "error"
+    },
+    {
+      "id": 611,
+      "gold": "adpy92ks0",
+      "prediction": "adpy92ks0",
+      "raw_prediction": "ADPY92KS0",
+      "status": "correct"
+    },
+    {
+      "id": 612,
+      "gold": "adpg1akzf",
+      "prediction": "adpg1akzf",
+      "raw_prediction": "ADPg1aKzF",
+      "status": "correct"
+    },
+    {
+      "id": 613,
+      "gold": "adpdstinz",
+      "prediction": "adpdstinz",
+      "raw_prediction": "ADPDstinZ",
+      "status": "correct"
+    },
+    {
+      "id": 614,
+      "gold": "adpic0c4e",
+      "prediction": "adpic0c4e",
+      "raw_prediction": "ADPiC0C4e",
+      "status": "correct"
+    },
+    {
+      "id": 615,
+      "gold": "adphi8bnp",
+      "prediction": "adphi8bnp",
+      "raw_prediction": "ADPHI8BNP",
+      "status": "correct"
+    },
+    {
+      "id": 616,
+      "gold": "adph82vlf",
+      "prediction": "spsamrbk",
+      "raw_prediction": "SPsamrBk",
+      "status": "error"
+    },
+    {
+      "id": 617,
+      "gold": "adpoxloit",
+      "prediction": "adpoxloit",
+      "raw_prediction": "ADPOXLoIT",
+      "status": "correct"
+    },
+    {
+      "id": 618,
+      "gold": "adpzsva4m",
+      "prediction": "spzwywpk",
+      "raw_prediction": "SPzwywPk",
+      "status": "error"
+    },
+    {
+      "id": 619,
+      "gold": "adpddr1g0",
+      "prediction": "spimgrau",
+      "raw_prediction": "SPIMGRaU",
+      "status": "error"
+    },
+    {
+      "id": 620,
+      "gold": "adpoakxlw",
+      "prediction": "adpoakxlw",
+      "raw_prediction": "ADPoaKXLw",
+      "status": "correct"
+    },
+    {
+      "id": 621,
+      "gold": "adp3sqdil",
+      "prediction": "adp3sqdil",
+      "raw_prediction": "ADP3sQDiL",
+      "status": "correct"
+    },
+    {
+      "id": 622,
+      "gold": "adpiog3uk",
+      "prediction": "adpiog3uk",
+      "raw_prediction": "ADPIOg3uK",
+      "status": "correct"
+    },
+    {
+      "id": 623,
+      "gold": "adpto3cio",
+      "prediction": "adpto3cio",
+      "raw_prediction": "ADPTo3Cio",
+      "status": "correct"
+    },
+    {
+      "id": 624,
+      "gold": "adpgqwgid",
+      "prediction": "spxpxlpw",
+      "raw_prediction": "SPxPxLPw",
+      "status": "error"
+    },
+    {
+      "id": 625,
+      "gold": "adpagzgbx",
+      "prediction": "adpagzgbx",
+      "raw_prediction": "ADPAGzGbx",
+      "status": "correct"
+    },
+    {
+      "id": 626,
+      "gold": "adpauro1p",
+      "prediction": "adpauro1p",
+      "raw_prediction": "ADPAURO1P",
+      "status": "correct"
+    },
+    {
+      "id": 627,
+      "gold": "adpi8plvu",
+      "prediction": "spkv1upx",
+      "raw_prediction": "SPKv1UpX",
+      "status": "error"
+    },
+    {
+      "id": 628,
+      "gold": "adpig1x98",
+      "prediction": "adpig1x98",
+      "raw_prediction": "ADPIg1x98",
+      "status": "correct"
+    },
+    {
+      "id": 629,
+      "gold": "adpp6uoxa",
+      "prediction": "adpp6uoxa",
+      "raw_prediction": "ADPP6uOxa",
+      "status": "correct"
+    },
+    {
+      "id": 630,
+      "gold": "adp9rknmk",
+      "prediction": "spthmfsh",
+      "raw_prediction": "SPthMfSH",
+      "status": "error"
+    },
+    {
+      "id": 631,
+      "gold": "adpiog9g8",
+      "prediction": "adpiog9g8",
+      "raw_prediction": "ADPiog9G8",
+      "status": "correct"
+    },
+    {
+      "id": 632,
+      "gold": "adp90pn3t",
+      "prediction": "adp90pn3t",
+      "raw_prediction": "ADP90PN3t",
+      "status": "correct"
+    },
+    {
+      "id": 633,
+      "gold": "adpytgsqg",
+      "prediction": "adpytgsqg",
+      "raw_prediction": "ADPytgSqg",
+      "status": "correct"
+    },
+    {
+      "id": 634,
+      "gold": "adpk7hsms",
+      "prediction": "adpk7hsms",
+      "raw_prediction": "ADPK7HsmS",
+      "status": "correct"
+    },
+    {
+      "id": 635,
+      "gold": "adpdugqau",
+      "prediction": "spgkxqvr",
+      "raw_prediction": "SPgKXQvR",
+      "status": "error"
+    },
+    {
+      "id": 636,
+      "gold": "adpmog32e",
+      "prediction": "adpg3l18r",
+      "raw_prediction": "ADPg3L18r",
+      "status": "error"
+    },
+    {
+      "id": 637,
+      "gold": "adpebbere",
+      "prediction": "adpebbere",
+      "raw_prediction": "ADPeBberE",
+      "status": "correct"
+    },
+    {
+      "id": 638,
+      "gold": "adpgucbrq",
+      "prediction": "adpgucbrq",
+      "raw_prediction": "ADPGuCbrQ",
+      "status": "correct"
+    },
+    {
+      "id": 639,
+      "gold": "adp3llg4u",
+      "prediction": "adp3llg4u",
+      "raw_prediction": "ADP3llg4u",
+      "status": "correct"
+    },
+    {
+      "id": 640,
+      "gold": "adpgzcfd3",
+      "prediction": "adpgzcfd3",
+      "raw_prediction": "ADPgzcFD3",
+      "status": "correct"
+    },
+    {
+      "id": 641,
+      "gold": "adpbnc20e",
+      "prediction": "adpbnc20e",
+      "raw_prediction": "ADPBNC20e",
+      "status": "correct"
+    },
+    {
+      "id": 642,
+      "gold": "adpndnbbd",
+      "prediction": "spyvtyap",
+      "raw_prediction": "SPYVtYAP",
+      "status": "error"
+    },
+    {
+      "id": 643,
+      "gold": "adpugwl3u",
+      "prediction": "adpugwl3u",
+      "raw_prediction": "ADPUgwL3u",
+      "status": "correct"
+    },
+    {
+      "id": 644,
+      "gold": "adpgahplg",
+      "prediction": "adpgahplg",
+      "raw_prediction": "ADPgaHpLG",
+      "status": "correct"
+    },
+    {
+      "id": 645,
+      "gold": "adp02en7h",
+      "prediction": "adp02en7h",
+      "raw_prediction": "ADP02EN7h",
+      "status": "correct"
+    },
+    {
+      "id": 646,
+      "gold": "adpgn91al",
+      "prediction": "adpgn91al",
+      "raw_prediction": "ADPGN91AL",
+      "status": "correct"
+    },
+    {
+      "id": 647,
+      "gold": "adpbzig8r",
+      "prediction": "adpbzig8r",
+      "raw_prediction": "ADPbzIg8R",
+      "status": "correct"
+    },
+    {
+      "id": 648,
+      "gold": "adpvpdntx",
+      "prediction": "spqgu1eo",
+      "raw_prediction": "SPqGu1eO",
+      "status": "error"
+    },
+    {
+      "id": 649,
+      "gold": "adpfo2cak",
+      "prediction": "adpfo2cak",
+      "raw_prediction": "ADPFO2CAk",
+      "status": "correct"
+    },
+    {
+      "id": 650,
+      "gold": "adp9bxgai",
+      "prediction": "adp9bxgai",
+      "raw_prediction": "ADP9BXgai",
+      "status": "correct"
+    },
+    {
+      "id": 651,
+      "gold": "adp6rbtid",
+      "prediction": "adp6rbtid",
+      "raw_prediction": "ADP6RbTid",
+      "status": "correct"
+    },
+    {
+      "id": 652,
+      "gold": "adpznsg93",
+      "prediction": "adpznsg93",
+      "raw_prediction": "ADPznsG93",
+      "status": "correct"
+    },
+    {
+      "id": 653,
+      "gold": "adpbvlpiz",
+      "prediction": "spolzddt",
+      "raw_prediction": "SPoLZDdT",
+      "status": "error"
+    },
+    {
+      "id": 654,
+      "gold": "adpnw4mkk",
+      "prediction": "adp6gegid",
+      "raw_prediction": "ADP6GegID",
+      "status": "error"
+    },
+    {
+      "id": 655,
+      "gold": "adpvcd0yg",
+      "prediction": "adpvcd0yg",
+      "raw_prediction": "ADPVcD0YG",
+      "status": "correct"
+    },
+    {
+      "id": 656,
+      "gold": "adpvbhil0",
+      "prediction": "adpvbhil0",
+      "raw_prediction": "ADPVbhiL0",
+      "status": "correct"
+    },
+    {
+      "id": 657,
+      "gold": "adpmmxuu0",
+      "prediction": "spk8ylkk",
+      "raw_prediction": "SPk8YlkK",
+      "status": "error"
+    },
+    {
+      "id": 658,
+      "gold": "adppq6leu",
+      "prediction": "adppq6leu",
+      "raw_prediction": "ADPpq6leu",
+      "status": "correct"
+    },
+    {
+      "id": 659,
+      "gold": "adpgkgqqm",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 660,
+      "gold": "adpeqiy8l",
+      "prediction": "adpeqiy8l",
+      "raw_prediction": "ADPeqIy8l",
+      "status": "correct"
+    },
+    {
+      "id": 661,
+      "gold": "adpwhcbce",
+      "prediction": "adpwhcbce",
+      "raw_prediction": "ADPwhCBcE",
+      "status": "correct"
+    },
+    {
+      "id": 662,
+      "gold": "adp6us614",
+      "prediction": "adp6us614",
+      "raw_prediction": "ADP6Us614",
+      "status": "correct"
+    },
+    {
+      "id": 663,
+      "gold": "adpq0uaga",
+      "prediction": "adpq0uaga",
+      "raw_prediction": "ADPq0Uaga",
+      "status": "correct"
+    },
+    {
+      "id": 664,
+      "gold": "adpqqanyr",
+      "prediction": "spxaimqs",
+      "raw_prediction": "SPXaIMQS",
+      "status": "error"
+    },
+    {
+      "id": 665,
+      "gold": "adp3hvfwi",
+      "prediction": "adp3hvfwi",
+      "raw_prediction": "ADP3Hvfwi",
+      "status": "correct"
+    },
+    {
+      "id": 666,
+      "gold": "adplcgmfd",
+      "prediction": "sp0eud6e",
+      "raw_prediction": "SP0eUD6e",
+      "status": "error"
+    },
+    {
+      "id": 667,
+      "gold": "adpgo6na7",
+      "prediction": "spsee2na",
+      "raw_prediction": "SPSEE2na",
+      "status": "error"
+    },
+    {
+      "id": 668,
+      "gold": "adpz2g8tm",
+      "prediction": "spltsdui",
+      "raw_prediction": "SPlTsDUI",
+      "status": "error"
+    },
+    {
+      "id": 669,
+      "gold": "adp5e9crh",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 670,
+      "gold": "adpksbnt8",
+      "prediction": "sp2yl3pc",
+      "raw_prediction": "SP2yl3Pc",
+      "status": "error"
+    },
+    {
+      "id": 671,
+      "gold": "adpgl3yra",
+      "prediction": "adpgl3yra",
+      "raw_prediction": "ADPGl3yRA",
+      "status": "correct"
+    },
+    {
+      "id": 672,
+      "gold": "adppmhbgz",
+      "prediction": "adppmhbgz",
+      "raw_prediction": "ADPpMHBgz",
+      "status": "correct"
+    },
+    {
+      "id": 673,
+      "gold": "adpe7olk9",
+      "prediction": "adpe7olk9",
+      "raw_prediction": "ADPe7oLK9",
+      "status": "correct"
+    },
+    {
+      "id": 674,
+      "gold": "adpquqrgr",
+      "prediction": "adpquqrgr",
+      "raw_prediction": "ADPQuQrgr",
+      "status": "correct"
+    },
+    {
+      "id": 675,
+      "gold": "adp74hadb",
+      "prediction": "adp74hadb",
+      "raw_prediction": "ADP74hadB",
+      "status": "correct"
+    },
+    {
+      "id": 676,
+      "gold": "adpvnrmk9",
+      "prediction": "adpvnrmk9",
+      "raw_prediction": "ADPVnrMK9",
+      "status": "correct"
+    },
+    {
+      "id": 677,
+      "gold": "adpr709e4",
+      "prediction": "adpr709e4",
+      "raw_prediction": "ADPr709E4",
+      "status": "correct"
+    },
+    {
+      "id": 678,
+      "gold": "adphd9grs",
+      "prediction": "adphd9grs",
+      "raw_prediction": "ADPHD9GRs",
+      "status": "correct"
+    },
+    {
+      "id": 679,
+      "gold": "adpi1zfgu",
+      "prediction": "adpi1zfgu",
+      "raw_prediction": "ADPi1zFGU",
+      "status": "correct"
+    },
+    {
+      "id": 680,
+      "gold": "adpgs9dyp",
+      "prediction": "adpgs9dyp",
+      "raw_prediction": "ADPGS9Dyp",
+      "status": "correct"
+    },
+    {
+      "id": 681,
+      "gold": "adpkpshe4",
+      "prediction": "adpkpshe4",
+      "raw_prediction": "ADPKpShe4",
+      "status": "correct"
+    },
+    {
+      "id": 682,
+      "gold": "adpgfpbix",
+      "prediction": "adpgfpbix",
+      "raw_prediction": "ADPGfPbIx",
+      "status": "correct"
+    },
+    {
+      "id": 683,
+      "gold": "adprc6ahx",
+      "prediction": "spkv5sny",
+      "raw_prediction": "SPKV5SNY",
+      "status": "error"
+    },
+    {
+      "id": 684,
+      "gold": "adp0pxzr4",
+      "prediction": "adp0pxzr4",
+      "raw_prediction": "ADP0PXZR4",
+      "status": "correct"
+    },
+    {
+      "id": 685,
+      "gold": "adptx2dgm",
+      "prediction": "adptx2dgm",
+      "raw_prediction": "ADPtx2Dgm",
+      "status": "correct"
+    },
+    {
+      "id": 686,
+      "gold": "adpwmiyx6",
+      "prediction": "adpwmiyx6",
+      "raw_prediction": "ADPWMIyx6",
+      "status": "correct"
+    },
+    {
+      "id": 687,
+      "gold": "adp3ges0n",
+      "prediction": "adp3ges0n",
+      "raw_prediction": "ADP3geS0n",
+      "status": "correct"
+    },
+    {
+      "id": 688,
+      "gold": "adpdmhydw",
+      "prediction": "adpdmhydw",
+      "raw_prediction": "ADPdMhyDW",
+      "status": "correct"
+    },
+    {
+      "id": 689,
+      "gold": "adpvl6pwk",
+      "prediction": "adpvl6pwk",
+      "raw_prediction": "ADPvl6pwK",
+      "status": "correct"
+    },
+    {
+      "id": 690,
+      "gold": "adpkrac96",
+      "prediction": "spyc22b7",
+      "raw_prediction": "SPYC22b7",
+      "status": "error"
+    },
+    {
+      "id": 691,
+      "gold": "adpafudbt",
+      "prediction": "adpafudbt",
+      "raw_prediction": "ADPAfUdbt",
+      "status": "correct"
+    },
+    {
+      "id": 692,
+      "gold": "adpgsiqrn",
+      "prediction": "adpgsiqrn",
+      "raw_prediction": "ADPGSIQrn",
+      "status": "correct"
+    },
+    {
+      "id": 693,
+      "gold": "adps1hynl",
+      "prediction": "sp4begn9",
+      "raw_prediction": "SP4BeGn9",
+      "status": "error"
+    },
+    {
+      "id": 694,
+      "gold": "adp3gfspq",
+      "prediction": "adp3gfspq",
+      "raw_prediction": "ADP3gFSpq",
+      "status": "correct"
+    },
+    {
+      "id": 695,
+      "gold": "adpgx0e5s",
+      "prediction": "adpgx0e5s",
+      "raw_prediction": "ADPgx0e5S",
+      "status": "correct"
+    },
+    {
+      "id": 696,
+      "gold": "adplukfrk",
+      "prediction": "adplukfrk",
+      "raw_prediction": "ADPlukfRk",
+      "status": "correct"
+    },
+    {
+      "id": 697,
+      "gold": "adpbvz7x7",
+      "prediction": "adpbvz7x7",
+      "raw_prediction": "ADPBVZ7x7",
+      "status": "correct"
+    },
+    {
+      "id": 698,
+      "gold": "adpmzsnug",
+      "prediction": "spkir4lx",
+      "raw_prediction": "SPkIr4lX",
+      "status": "error"
+    },
+    {
+      "id": 699,
+      "gold": "adpkqdlff",
+      "prediction": "adpkqdlff",
+      "raw_prediction": "ADPkqdLFF",
+      "status": "correct"
+    },
+    {
+      "id": 700,
+      "gold": "adpnzucgh",
+      "prediction": "adpnzucgh",
+      "raw_prediction": "ADPnZucGh",
+      "status": "correct"
+    },
+    {
+      "id": 701,
+      "gold": "adplmqeya",
+      "prediction": "adplmqeya",
+      "raw_prediction": "ADPlMQEYA",
+      "status": "correct"
+    },
+    {
+      "id": 702,
+      "gold": "adpxqnhkf",
+      "prediction": "adpxqnhkf",
+      "raw_prediction": "ADPxQNhkf",
+      "status": "correct"
+    },
+    {
+      "id": 703,
+      "gold": "adpsfeeuv",
+      "prediction": "adpsfeeuv",
+      "raw_prediction": "ADPsfEEuv",
+      "status": "correct"
+    },
+    {
+      "id": 704,
+      "gold": "adpqgezb4",
+      "prediction": "adpqgezb4",
+      "raw_prediction": "ADPqGezB4",
+      "status": "correct"
+    },
+    {
+      "id": 705,
+      "gold": "adpa1lvbx",
+      "prediction": "adpa1lvbx",
+      "raw_prediction": "ADPA1lVbx",
+      "status": "correct"
+    },
+    {
+      "id": 706,
+      "gold": "adpl6yusw",
+      "prediction": "adpl6yusw",
+      "raw_prediction": "ADPL6yuSw",
+      "status": "correct"
+    },
+    {
+      "id": 707,
+      "gold": "adp8237rb",
+      "prediction": "spgxvef2",
+      "raw_prediction": "SPGxVEF2",
+      "status": "error"
+    },
+    {
+      "id": 708,
+      "gold": "adpg4ckao",
+      "prediction": "adpg4ckao",
+      "raw_prediction": "ADPg4cKao",
+      "status": "correct"
+    },
+    {
+      "id": 709,
+      "gold": "adpxhpovn",
+      "prediction": "adpxhpovn",
+      "raw_prediction": "ADPxHPovN",
+      "status": "correct"
+    },
+    {
+      "id": 710,
+      "gold": "adptswg5y",
+      "prediction": "adptswg5y",
+      "raw_prediction": "ADPTsWG5y",
+      "status": "correct"
+    },
+    {
+      "id": 711,
+      "gold": "adpkytquo",
+      "prediction": "adpkytquo",
+      "raw_prediction": "ADPkYTqUO",
+      "status": "correct"
+    },
+    {
+      "id": 712,
+      "gold": "adp8lcpkn",
+      "prediction": "spoc0hvn",
+      "raw_prediction": "SPOc0hvn",
+      "status": "error"
+    },
+    {
+      "id": 713,
+      "gold": "adpnkev0v",
+      "prediction": "adpnkev0v",
+      "raw_prediction": "ADPNkEV0v",
+      "status": "correct"
+    },
+    {
+      "id": 714,
+      "gold": "adpfmkq2k",
+      "prediction": "adpfmkq2k",
+      "raw_prediction": "ADPfmkQ2K",
+      "status": "correct"
+    },
+    {
+      "id": 715,
+      "gold": "adp7hnvcv",
+      "prediction": "sp0vdpxp",
+      "raw_prediction": "SP0vDPXp",
+      "status": "error"
+    },
+    {
+      "id": 716,
+      "gold": "adpzriczf",
+      "prediction": "adpzriczf",
+      "raw_prediction": "ADPzriczF",
+      "status": "correct"
+    },
+    {
+      "id": 717,
+      "gold": "adpps8kit",
+      "prediction": "spo57kh8",
+      "raw_prediction": "SPo57Kh8",
+      "status": "error"
+    },
+    {
+      "id": 718,
+      "gold": "adpc9axou",
+      "prediction": "adpc9axou",
+      "raw_prediction": "ADPC9aXoU",
+      "status": "correct"
+    },
+    {
+      "id": 719,
+      "gold": "adpgpkc6r",
+      "prediction": "adpgpkc6r",
+      "raw_prediction": "ADPGpKc6R",
+      "status": "correct"
+    },
+    {
+      "id": 720,
+      "gold": "adpqhtgsg",
+      "prediction": "adpqhtgsg",
+      "raw_prediction": "ADPQHtgSG",
+      "status": "correct"
+    },
+    {
+      "id": 721,
+      "gold": "adpzgbdpw",
+      "prediction": "adpzgbdpw",
+      "raw_prediction": "ADPzGBdpw",
+      "status": "correct"
+    },
+    {
+      "id": 722,
+      "gold": "adpvvgfpd",
+      "prediction": "adpvvgfpd",
+      "raw_prediction": "ADPVvGfpD",
+      "status": "correct"
+    },
+    {
+      "id": 723,
+      "gold": "adpkatiaw",
+      "prediction": "adpkatiaw",
+      "raw_prediction": "ADPKaTIaW",
+      "status": "correct"
+    },
+    {
+      "id": 724,
+      "gold": "adplgchke",
+      "prediction": "adplgchke",
+      "raw_prediction": "ADPlgchkE",
+      "status": "correct"
+    },
+    {
+      "id": 725,
+      "gold": "adpav1hph",
+      "prediction": "spu2zfht",
+      "raw_prediction": "SPu2ZfhT",
+      "status": "error"
+    },
+    {
+      "id": 726,
+      "gold": "adpadr4sg",
+      "prediction": "adpadr4sg",
+      "raw_prediction": "ADPadR4Sg",
+      "status": "correct"
+    },
+    {
+      "id": 727,
+      "gold": "adpbwx9ll",
+      "prediction": "adpbwx9ll",
+      "raw_prediction": "ADPbwx9LL",
+      "status": "correct"
+    },
+    {
+      "id": 728,
+      "gold": "adp74e2w5",
+      "prediction": "spfhirvz",
+      "raw_prediction": "SPFHIRVz",
+      "status": "error"
+    },
+    {
+      "id": 729,
+      "gold": "adpiqsrdt",
+      "prediction": "adpiqsrdt",
+      "raw_prediction": "ADPIQsRDt",
+      "status": "correct"
+    },
+    {
+      "id": 730,
+      "gold": "adpwc8ewz",
+      "prediction": "adpwc8ewz",
+      "raw_prediction": "ADPwc8Ewz",
+      "status": "correct"
+    },
+    {
+      "id": 731,
+      "gold": "adpdzz8v8",
+      "prediction": "sp0lip01",
+      "raw_prediction": "SP0liP01",
+      "status": "error"
+    },
+    {
+      "id": 732,
+      "gold": "adpfkitp2",
+      "prediction": "adpfkitp2",
+      "raw_prediction": "ADPFKiTp2",
+      "status": "correct"
+    },
+    {
+      "id": 733,
+      "gold": "adpavwl2u",
+      "prediction": "adpavwl2u",
+      "raw_prediction": "ADPAvWL2U",
+      "status": "correct"
+    },
+    {
+      "id": 734,
+      "gold": "adplg6egp",
+      "prediction": "spwmalui",
+      "raw_prediction": "SPWmAluI",
+      "status": "error"
+    },
+    {
+      "id": 735,
+      "gold": "adphcalae",
+      "prediction": "adphcalae",
+      "raw_prediction": "ADPhcAlaE",
+      "status": "correct"
+    },
+    {
+      "id": 736,
+      "gold": "adpb397xl",
+      "prediction": "adpb397xl",
+      "raw_prediction": "ADPb397Xl",
+      "status": "correct"
+    },
+    {
+      "id": 737,
+      "gold": "adp8leef1",
+      "prediction": "adp8leef1",
+      "raw_prediction": "ADP8LeEf1",
+      "status": "correct"
+    },
+    {
+      "id": 738,
+      "gold": "adpvngdy3",
+      "prediction": "adpvngdy3",
+      "raw_prediction": "ADPVngdy3",
+      "status": "correct"
+    },
+    {
+      "id": 739,
+      "gold": "adpszg6gu",
+      "prediction": "spcann9q",
+      "raw_prediction": "SPCANN9Q",
+      "status": "error"
+    },
+    {
+      "id": 740,
+      "gold": "adpaxsu3a",
+      "prediction": "adpaxsu3a",
+      "raw_prediction": "ADPaXsu3a",
+      "status": "correct"
+    },
+    {
+      "id": 741,
+      "gold": "adpovxmlw",
+      "prediction": "adpovxmlw",
+      "raw_prediction": "ADPOvxMlw",
+      "status": "correct"
+    },
+    {
+      "id": 742,
+      "gold": "adpvzhcyf",
+      "prediction": "spp9saqm",
+      "raw_prediction": "SPp9SaqM",
+      "status": "error"
+    },
+    {
+      "id": 743,
+      "gold": "adpoqgqcn",
+      "prediction": "adpoqgqcn",
+      "raw_prediction": "ADPOqGqcn",
+      "status": "correct"
+    },
+    {
+      "id": 744,
+      "gold": "adpg5f4gk",
+      "prediction": "spplzaeu",
+      "raw_prediction": "SPpLZAeU",
+      "status": "error"
+    },
+    {
+      "id": 745,
+      "gold": "adpnyyiru",
+      "prediction": "adpnyyiru",
+      "raw_prediction": "ADPnyyirU",
+      "status": "correct"
+    },
+    {
+      "id": 746,
+      "gold": "adpgfcsg1",
+      "prediction": "adpgfcsg1",
+      "raw_prediction": "ADPGfCsg1",
+      "status": "correct"
+    },
+    {
+      "id": 747,
+      "gold": "adpoa24wg",
+      "prediction": "adpoa24wg",
+      "raw_prediction": "ADPOa24wg",
+      "status": "correct"
+    },
+    {
+      "id": 748,
+      "gold": "adp8byxdp",
+      "prediction": "adp8byxdp",
+      "raw_prediction": "ADP8bYXdp",
+      "status": "correct"
+    },
+    {
+      "id": 749,
+      "gold": "adpupfvgz",
+      "prediction": "adpupfvgz",
+      "raw_prediction": "ADPuPfVGz",
+      "status": "correct"
+    },
+    {
+      "id": 750,
+      "gold": "adpaugsug",
+      "prediction": "adpaugsug",
+      "raw_prediction": "ADPauGsug",
+      "status": "correct"
+    },
+    {
+      "id": 751,
+      "gold": "adpba7ezv",
+      "prediction": "adpba7ezv",
+      "raw_prediction": "ADPbA7eZv",
+      "status": "correct"
+    },
+    {
+      "id": 752,
+      "gold": "adp9dwxzm",
+      "prediction": "adp9dwxzm",
+      "raw_prediction": "ADP9dWxZm",
+      "status": "correct"
+    },
+    {
+      "id": 753,
+      "gold": "adpbyfg0i",
+      "prediction": "adpbyfg0i",
+      "raw_prediction": "ADPByfG0I",
+      "status": "correct"
+    },
+    {
+      "id": 754,
+      "gold": "adpidgt0e",
+      "prediction": "adpidgt0e",
+      "raw_prediction": "ADPiDgT0e",
+      "status": "correct"
+    },
+    {
+      "id": 755,
+      "gold": "adpktoxg6",
+      "prediction": "adpktoxg6",
+      "raw_prediction": "ADPKtOXg6",
+      "status": "correct"
+    },
+    {
+      "id": 756,
+      "gold": "adpqyxbvr",
+      "prediction": "adpqyxbvr",
+      "raw_prediction": "ADPQYxbVr",
+      "status": "correct"
+    },
+    {
+      "id": 757,
+      "gold": "adpamq86l",
+      "prediction": "adpamq86l",
+      "raw_prediction": "ADPaMq86L",
+      "status": "correct"
+    },
+    {
+      "id": 758,
+      "gold": "adp7zlut9",
+      "prediction": "adp7zlut9",
+      "raw_prediction": "ADP7zlUT9",
+      "status": "correct"
+    },
+    {
+      "id": 759,
+      "gold": "adpuq1hks",
+      "prediction": "adpuq1hks",
+      "raw_prediction": "ADPUQ1Hks",
+      "status": "correct"
+    },
+    {
+      "id": 760,
+      "gold": "adpl0h4bm",
+      "prediction": "spp98db2",
+      "raw_prediction": "SPP98Db2",
+      "status": "error"
+    },
+    {
+      "id": 761,
+      "gold": "adp7imskv",
+      "prediction": "adp7imskv",
+      "raw_prediction": "ADP7IMSKv",
+      "status": "correct"
+    },
+    {
+      "id": 762,
+      "gold": "adp9rvdwa",
+      "prediction": "adp9rvdwa",
+      "raw_prediction": "ADP9rvDwa",
+      "status": "correct"
+    },
+    {
+      "id": 763,
+      "gold": "adpigzg8d",
+      "prediction": "adpigzg8d",
+      "raw_prediction": "ADPIgZG8D",
+      "status": "correct"
+    },
+    {
+      "id": 764,
+      "gold": "adpxt8xqm",
+      "prediction": "adpxt8xqm",
+      "raw_prediction": "ADPXt8XQM",
+      "status": "correct"
+    },
+    {
+      "id": 765,
+      "gold": "adpgvfcbz",
+      "prediction": "adpgvfcbz",
+      "raw_prediction": "ADPGvFcbz",
+      "status": "correct"
+    },
+    {
+      "id": 766,
+      "gold": "adpukpp6p",
+      "prediction": "adpukpp6p",
+      "raw_prediction": "ADPUkpp6p",
+      "status": "correct"
+    },
+    {
+      "id": 767,
+      "gold": "adpgqnpx8",
+      "prediction": "adpgqnpx8",
+      "raw_prediction": "ADPgqnpx8",
+      "status": "correct"
+    },
+    {
+      "id": 768,
+      "gold": "adprgcdlg",
+      "prediction": "adprgcdlg",
+      "raw_prediction": "ADPRGcdlg",
+      "status": "correct"
+    },
+    {
+      "id": 769,
+      "gold": "adpputizz",
+      "prediction": "adpputizz",
+      "raw_prediction": "ADPPUtizZ",
+      "status": "correct"
+    },
+    {
+      "id": 770,
+      "gold": "adprxdicf",
+      "prediction": "adprxdicf",
+      "raw_prediction": "ADPrXDIcf",
+      "status": "correct"
+    },
+    {
+      "id": 771,
+      "gold": "adpqw893k",
+      "prediction": "adpqw893k",
+      "raw_prediction": "ADPQW893k",
+      "status": "correct"
+    },
+    {
+      "id": 772,
+      "gold": "adpwkweva",
+      "prediction": "adpwkweva",
+      "raw_prediction": "ADPwKWEvA",
+      "status": "correct"
+    },
+    {
+      "id": 773,
+      "gold": "adpaf3f6y",
+      "prediction": "adpaf3f6y",
+      "raw_prediction": "ADPAF3f6Y",
+      "status": "correct"
+    },
+    {
+      "id": 774,
+      "gold": "adpwgatvm",
+      "prediction": "adpwgatvm",
+      "raw_prediction": "ADPWgatvm",
+      "status": "correct"
+    },
+    {
+      "id": 775,
+      "gold": "adpucn3gs",
+      "prediction": "adpucn3gs",
+      "raw_prediction": "ADPUCn3GS",
+      "status": "correct"
+    },
+    {
+      "id": 776,
+      "gold": "adpdutsc3",
+      "prediction": "adpdutsc3",
+      "raw_prediction": "ADPdutSc3",
+      "status": "correct"
+    },
+    {
+      "id": 777,
+      "gold": "adpxgkzxm",
+      "prediction": "adpxgkzxm",
+      "raw_prediction": "ADPxGkZXM",
+      "status": "correct"
+    },
+    {
+      "id": 778,
+      "gold": "adppcuotw",
+      "prediction": "adppcuotw",
+      "raw_prediction": "ADPpCuotw",
+      "status": "correct"
+    },
+    {
+      "id": 779,
+      "gold": "adpyig3bi",
+      "prediction": "adpyig3bi",
+      "raw_prediction": "ADPyiG3BI",
+      "status": "correct"
+    },
+    {
+      "id": 780,
+      "gold": "adpu7swlt",
+      "prediction": "adpu7swlt",
+      "raw_prediction": "ADPU7Swlt",
+      "status": "correct"
+    },
+    {
+      "id": 781,
+      "gold": "adptmfclg",
+      "prediction": "adptmfclg",
+      "raw_prediction": "ADPtmfClg",
+      "status": "correct"
+    },
+    {
+      "id": 782,
+      "gold": "adpzcoqfa",
+      "prediction": "adpzcoqfa",
+      "raw_prediction": "ADPZcOqFA",
+      "status": "correct"
+    },
+    {
+      "id": 783,
+      "gold": "adpc9lnyu",
+      "prediction": "adpc9lnyu",
+      "raw_prediction": "ADPC9lnyU",
+      "status": "correct"
+    },
+    {
+      "id": 784,
+      "gold": "adpuhyvuu",
+      "prediction": "adpuhyvuu",
+      "raw_prediction": "ADPuhyvUu",
+      "status": "correct"
+    },
+    {
+      "id": 785,
+      "gold": "adpae2med",
+      "prediction": "spkn1vuk",
+      "raw_prediction": "SPKN1VUK",
+      "status": "error"
+    },
+    {
+      "id": 786,
+      "gold": "adpozl8ft",
+      "prediction": "adpozl8ft",
+      "raw_prediction": "ADPOzL8fT",
+      "status": "correct"
+    },
+    {
+      "id": 787,
+      "gold": "adpoxdg2u",
+      "prediction": "adpoxdg2u",
+      "raw_prediction": "ADPOxdG2u",
+      "status": "correct"
+    },
+    {
+      "id": 788,
+      "gold": "adpippngf",
+      "prediction": "adpippngf",
+      "raw_prediction": "ADPippnGF",
+      "status": "correct"
+    },
+    {
+      "id": 789,
+      "gold": "adplo2ux2",
+      "prediction": "spdxalyy",
+      "raw_prediction": "SPdXalyy",
+      "status": "error"
+    },
+    {
+      "id": 790,
+      "gold": "adpttydwh",
+      "prediction": "adpttydwh",
+      "raw_prediction": "ADPTtYDWH",
+      "status": "correct"
+    },
+    {
+      "id": 791,
+      "gold": "adp6n3mnd",
+      "prediction": "adp6n3mnd",
+      "raw_prediction": "ADP6n3MnD",
+      "status": "correct"
+    },
+    {
+      "id": 792,
+      "gold": "adpngaxmq",
+      "prediction": "spy6nx1q",
+      "raw_prediction": "SPy6Nx1Q",
+      "status": "error"
+    },
+    {
+      "id": 793,
+      "gold": "adpkxzyci",
+      "prediction": "spvvkz9g",
+      "raw_prediction": "SPVvKz9g",
+      "status": "error"
+    },
+    {
+      "id": 794,
+      "gold": "adphczpeu",
+      "prediction": "adphczpeu",
+      "raw_prediction": "ADPHCzpEU",
+      "status": "correct"
+    },
+    {
+      "id": 795,
+      "gold": "adpuapcds",
+      "prediction": "adpuapcds",
+      "raw_prediction": "ADPUapCds",
+      "status": "correct"
+    },
+    {
+      "id": 796,
+      "gold": "adp2govra",
+      "prediction": "adp2govra",
+      "raw_prediction": "ADP2goVra",
+      "status": "correct"
+    },
+    {
+      "id": 797,
+      "gold": "adpkhs938",
+      "prediction": "adpkhs938",
+      "raw_prediction": "ADPkHS938",
+      "status": "correct"
+    },
+    {
+      "id": 798,
+      "gold": "adppqmauz",
+      "prediction": "adppqmauz",
+      "raw_prediction": "ADPPqMaUz",
+      "status": "correct"
+    },
+    {
+      "id": 799,
+      "gold": "adpgpxot4",
+      "prediction": "adpgpxot4",
+      "raw_prediction": "ADPgpxot4",
+      "status": "correct"
+    },
+    {
+      "id": 800,
+      "gold": "adplf1dvg",
+      "prediction": "adplf1dvg",
+      "raw_prediction": "ADPlf1DvG",
+      "status": "correct"
+    },
+    {
+      "id": 801,
+      "gold": "adpbxlcpq",
+      "prediction": "adpbxlcpq",
+      "raw_prediction": "ADPBXLCPQ",
+      "status": "correct"
+    },
+    {
+      "id": 802,
+      "gold": "adpoidydh",
+      "prediction": "adpoidydh",
+      "raw_prediction": "ADPoiDYdH",
+      "status": "correct"
+    },
+    {
+      "id": 803,
+      "gold": "adpsbum1r",
+      "prediction": "adpsbum1r",
+      "raw_prediction": "ADPsbUM1R",
+      "status": "correct"
+    },
+    {
+      "id": 804,
+      "gold": "adp2aencv",
+      "prediction": "adp2aencv",
+      "raw_prediction": "ADP2aeNcv",
+      "status": "correct"
+    },
+    {
+      "id": 805,
+      "gold": "adpgipvmb",
+      "prediction": "sptidgnd",
+      "raw_prediction": "SPtIDGnd",
+      "status": "error"
+    },
+    {
+      "id": 806,
+      "gold": "adp2q4ks5",
+      "prediction": "spdgizic",
+      "raw_prediction": "SPdgIZIc",
+      "status": "error"
+    },
+    {
+      "id": 807,
+      "gold": "adpgngiu2",
+      "prediction": "adpgngiu2",
+      "raw_prediction": "ADPgnGiU2",
+      "status": "correct"
+    },
+    {
+      "id": 808,
+      "gold": "adpnfrqkn",
+      "prediction": "spew2rkc",
+      "raw_prediction": "SPew2rkc",
+      "status": "error"
+    },
+    {
+      "id": 809,
+      "gold": "adpnq6vme",
+      "prediction": "adpnq6vme",
+      "raw_prediction": "ADPNQ6vmE",
+      "status": "correct"
+    },
+    {
+      "id": 810,
+      "gold": "adpn5yhvx",
+      "prediction": "spqwgffc",
+      "raw_prediction": "SPqWGFfc",
+      "status": "error"
+    },
+    {
+      "id": 811,
+      "gold": "adphtuywc",
+      "prediction": "adphtuywc",
+      "raw_prediction": "ADPhTUywc",
+      "status": "correct"
+    },
+    {
+      "id": 812,
+      "gold": "adpbgnaxe",
+      "prediction": "adpbgnaxe",
+      "raw_prediction": "ADPbgnaxE",
+      "status": "correct"
+    },
+    {
+      "id": 813,
+      "gold": "adp6bzww0",
+      "prediction": "adp6bzww0",
+      "raw_prediction": "ADP6bzwW0",
+      "status": "correct"
+    },
+    {
+      "id": 814,
+      "gold": "adpt60idb",
+      "prediction": "spk2nee9",
+      "raw_prediction": "SPK2nee9",
+      "status": "error"
+    },
+    {
+      "id": 815,
+      "gold": "adp0b0gnc",
+      "prediction": "adp0b0gnc",
+      "raw_prediction": "ADP0B0Gnc",
+      "status": "correct"
+    },
+    {
+      "id": 816,
+      "gold": "adp9xdulg",
+      "prediction": "spiclb4z",
+      "raw_prediction": "SPICLb4Z",
+      "status": "error"
+    },
+    {
+      "id": 817,
+      "gold": "adpof6h0k",
+      "prediction": "adpof6h0k",
+      "raw_prediction": "ADPOf6H0K",
+      "status": "correct"
+    },
+    {
+      "id": 818,
+      "gold": "adpkncnb8",
+      "prediction": "adpkncnb8",
+      "raw_prediction": "ADPKNcnb8",
+      "status": "correct"
+    },
+    {
+      "id": 819,
+      "gold": "adpxy8h0k",
+      "prediction": "adpxy8h0k",
+      "raw_prediction": "ADPxy8H0K",
+      "status": "correct"
+    },
+    {
+      "id": 820,
+      "gold": "adp9o5qlo",
+      "prediction": "adp9o5qlo",
+      "raw_prediction": "ADP9o5QlO",
+      "status": "correct"
+    },
+    {
+      "id": 821,
+      "gold": "adpqp8z5g",
+      "prediction": "adpiryhhg",
+      "raw_prediction": "ADPiryHhG",
+      "status": "error"
+    },
+    {
+      "id": 822,
+      "gold": "adpfekciu",
+      "prediction": "adpfekciu",
+      "raw_prediction": "ADPfekciu",
+      "status": "correct"
+    },
+    {
+      "id": 823,
+      "gold": "adpzcsywr",
+      "prediction": "adpzcsywr",
+      "raw_prediction": "ADPZCSyWR",
+      "status": "correct"
+    },
+    {
+      "id": 824,
+      "gold": "adpcwwgd6",
+      "prediction": "adpcwwgd6",
+      "raw_prediction": "ADPCWWgd6",
+      "status": "correct"
+    },
+    {
+      "id": 825,
+      "gold": "adpcdipuy",
+      "prediction": "adpcdipuy",
+      "raw_prediction": "ADPcdIpUY",
+      "status": "correct"
+    },
+    {
+      "id": 826,
+      "gold": "adppwfnxs",
+      "prediction": "adppwfnxs",
+      "raw_prediction": "ADPpwfnXS",
+      "status": "correct"
+    },
+    {
+      "id": 827,
+      "gold": "adpybzygy",
+      "prediction": "spvccehp",
+      "raw_prediction": "SPVcceHP",
+      "status": "error"
+    },
+    {
+      "id": 828,
+      "gold": "adpcdy9pa",
+      "prediction": "spzkcqma",
+      "raw_prediction": "SPZkcQMA",
+      "status": "error"
+    },
+    {
+      "id": 829,
+      "gold": "adpetocn7",
+      "prediction": "adpetocn7",
+      "raw_prediction": "ADPETOCN7",
+      "status": "correct"
+    },
+    {
+      "id": 830,
+      "gold": "adpuctcqg",
+      "prediction": "spoiq5nt",
+      "raw_prediction": "SPoiQ5nT",
+      "status": "error"
+    },
+    {
+      "id": 831,
+      "gold": "adpua6ypm",
+      "prediction": "adpua6ypm",
+      "raw_prediction": "ADPUA6ypM",
+      "status": "correct"
+    },
+    {
+      "id": 832,
+      "gold": "adpyqrl8r",
+      "prediction": "adpyqrl8r",
+      "raw_prediction": "ADPyQRl8R",
+      "status": "correct"
+    },
+    {
+      "id": 833,
+      "gold": "adpqb3wgt",
+      "prediction": "adpqb3wgt",
+      "raw_prediction": "ADPQb3wGT",
+      "status": "correct"
+    },
+    {
+      "id": 834,
+      "gold": "adpd9eby0",
+      "prediction": "adpd9eby0",
+      "raw_prediction": "ADPd9EBy0",
+      "status": "correct"
+    },
+    {
+      "id": 835,
+      "gold": "adpqrmtnu",
+      "prediction": "sphyob0s",
+      "raw_prediction": "SPHyoB0S",
+      "status": "error"
+    },
+    {
+      "id": 836,
+      "gold": "adp9lq7xd",
+      "prediction": "adp9lq7xd",
+      "raw_prediction": "ADP9lq7xD",
+      "status": "correct"
+    },
+    {
+      "id": 837,
+      "gold": "adpckbrz7",
+      "prediction": "adpckbrz7",
+      "raw_prediction": "ADPCkbRz7",
+      "status": "correct"
+    },
+    {
+      "id": 838,
+      "gold": "adpkvsxfa",
+      "prediction": "adpkvsxfa",
+      "raw_prediction": "ADPkvSXfa",
+      "status": "correct"
+    },
+    {
+      "id": 839,
+      "gold": "adpu4amhz",
+      "prediction": "adpu4amhz",
+      "raw_prediction": "ADPu4AmhZ",
+      "status": "correct"
+    },
+    {
+      "id": 840,
+      "gold": "adpdli6uw",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 841,
+      "gold": "adpnuchix",
+      "prediction": "spmwsle3",
+      "raw_prediction": "SPMwslE3",
+      "status": "error"
+    },
+    {
+      "id": 842,
+      "gold": "adpcqsamx",
+      "prediction": "adpcqsamx",
+      "raw_prediction": "ADPCqsAMX",
+      "status": "correct"
+    },
+    {
+      "id": 843,
+      "gold": "adp5rvuba",
+      "prediction": "spwlsldo",
+      "raw_prediction": "SPwlslDo",
+      "status": "error"
+    },
+    {
+      "id": 844,
+      "gold": "adpczkkpx",
+      "prediction": "adpczkkpx",
+      "raw_prediction": "ADPCZkkpX",
+      "status": "correct"
+    },
+    {
+      "id": 845,
+      "gold": "adpew3ris",
+      "prediction": "adpew3ris",
+      "raw_prediction": "ADPeW3RIs",
+      "status": "correct"
+    },
+    {
+      "id": 846,
+      "gold": "adpkqmqlm",
+      "prediction": "adpkqmqlm",
+      "raw_prediction": "ADPKqmQLM",
+      "status": "correct"
+    },
+    {
+      "id": 847,
+      "gold": "adpskg3ge",
+      "prediction": "spsbp8or",
+      "raw_prediction": "SPsBp8or",
+      "status": "error"
+    },
+    {
+      "id": 848,
+      "gold": "adpdvvgch",
+      "prediction": "adpdvvgch",
+      "raw_prediction": "ADPDVvGcH",
+      "status": "correct"
+    },
+    {
+      "id": 849,
+      "gold": "adpxt9oo1",
+      "prediction": "adpxt9oo1",
+      "raw_prediction": "ADPxT9OO1",
+      "status": "correct"
+    },
+    {
+      "id": 850,
+      "gold": "adpfe6y83",
+      "prediction": "adpfe6y83",
+      "raw_prediction": "ADPFE6y83",
+      "status": "correct"
+    },
+    {
+      "id": 851,
+      "gold": "adp4etx8z",
+      "prediction": "adp4etx8z",
+      "raw_prediction": "ADP4eTx8z",
+      "status": "correct"
+    },
+    {
+      "id": 852,
+      "gold": "adphc5ffk",
+      "prediction": "adphc5ffk",
+      "raw_prediction": "ADPHc5fFk",
+      "status": "correct"
+    },
+    {
+      "id": 853,
+      "gold": "adpqrzawq",
+      "prediction": "adpqrzawq",
+      "raw_prediction": "ADPQRZaWQ",
+      "status": "correct"
+    },
+    {
+      "id": 854,
+      "gold": "adpto5vvb",
+      "prediction": "sp7wc7lt",
+      "raw_prediction": "SP7WC7Lt",
+      "status": "error"
+    },
+    {
+      "id": 855,
+      "gold": "adpa52whn",
+      "prediction": "adpa52whn",
+      "raw_prediction": "ADPa52WHN",
+      "status": "correct"
+    },
+    {
+      "id": 856,
+      "gold": "adpvggzrp",
+      "prediction": "spegqttt",
+      "raw_prediction": "SPegqTTT",
+      "status": "error"
+    },
+    {
+      "id": 857,
+      "gold": "adphtszvp",
+      "prediction": "spvk2aym",
+      "raw_prediction": "SPvK2AYM",
+      "status": "error"
+    },
+    {
+      "id": 858,
+      "gold": "adp5urcyn",
+      "prediction": "adp5urcyn",
+      "raw_prediction": "ADP5UrCYN",
+      "status": "correct"
+    },
+    {
+      "id": 859,
+      "gold": "adpgngsgn",
+      "prediction": "adpgngsgn",
+      "raw_prediction": "ADPGngsGN",
+      "status": "correct"
+    },
+    {
+      "id": 860,
+      "gold": "adphldwvv",
+      "prediction": "adphldwvv",
+      "raw_prediction": "ADPHlDwVv",
+      "status": "correct"
+    },
+    {
+      "id": 861,
+      "gold": "adpxcqaot",
+      "prediction": "adpxcqaot",
+      "raw_prediction": "ADPxCqAOT",
+      "status": "correct"
+    },
+    {
+      "id": 862,
+      "gold": "adpkpcnkh",
+      "prediction": "adpkpcnkh",
+      "raw_prediction": "ADPKPcNKh",
+      "status": "correct"
+    },
+    {
+      "id": 863,
+      "gold": "adpirksfc",
+      "prediction": "adpirksfc",
+      "raw_prediction": "ADPIRkSfc",
+      "status": "correct"
+    },
+    {
+      "id": 864,
+      "gold": "adp2p13tl",
+      "prediction": "adp2p13tl",
+      "raw_prediction": "ADP2p13tL",
+      "status": "correct"
+    },
+    {
+      "id": 865,
+      "gold": "adprkro8c",
+      "prediction": "adprkro8c",
+      "raw_prediction": "ADPrKRo8c",
+      "status": "correct"
+    },
+    {
+      "id": 866,
+      "gold": "adpfznvyf",
+      "prediction": "adpfznvyf",
+      "raw_prediction": "ADPFZnvYF",
+      "status": "correct"
+    },
+    {
+      "id": 867,
+      "gold": "adptqxgmx",
+      "prediction": "spgucgww",
+      "raw_prediction": "SPGUcgWw",
+      "status": "error"
+    },
+    {
+      "id": 868,
+      "gold": "adpybmb7n",
+      "prediction": "adpybmb7n",
+      "raw_prediction": "ADPybMb7N",
+      "status": "correct"
+    },
+    {
+      "id": 869,
+      "gold": "adpiaky5v",
+      "prediction": "adpiaky5v",
+      "raw_prediction": "ADPIaKy5v",
+      "status": "correct"
+    },
+    {
+      "id": 870,
+      "gold": "adpudybrc",
+      "prediction": "adpudybrc",
+      "raw_prediction": "ADPuDyBrC",
+      "status": "correct"
+    },
+    {
+      "id": 871,
+      "gold": "adpp9yuad",
+      "prediction": "spqhteyx",
+      "raw_prediction": "SPqHtEYX",
+      "status": "error"
+    },
+    {
+      "id": 872,
+      "gold": "adppeavna",
+      "prediction": "adppeavna",
+      "raw_prediction": "ADPpeavNa",
+      "status": "correct"
+    },
+    {
+      "id": 873,
+      "gold": "adp3ipdaw",
+      "prediction": "adp3ipdaw",
+      "raw_prediction": "ADP3ipdaW",
+      "status": "correct"
+    },
+    {
+      "id": 874,
+      "gold": "adphagmep",
+      "prediction": "splhsmox",
+      "raw_prediction": "SPLhSmox",
+      "status": "error"
+    },
+    {
+      "id": 875,
+      "gold": "adptegp3i",
+      "prediction": "spso6aka",
+      "raw_prediction": "SPso6akA",
+      "status": "error"
+    },
+    {
+      "id": 876,
+      "gold": "adpsaofbr",
+      "prediction": "adpsaofbr",
+      "raw_prediction": "ADPsAofbR",
+      "status": "correct"
+    },
+    {
+      "id": 877,
+      "gold": "adp3aqkkw",
+      "prediction": "adp3aqkkw",
+      "raw_prediction": "ADP3aQkkw",
+      "status": "correct"
+    },
+    {
+      "id": 878,
+      "gold": "adpmwluhx",
+      "prediction": "adpmwluhx",
+      "raw_prediction": "ADPMWLUHx",
+      "status": "correct"
+    },
+    {
+      "id": 879,
+      "gold": "adpqug8x6",
+      "prediction": "adpqug8x6",
+      "raw_prediction": "ADPQUg8x6",
+      "status": "correct"
+    },
+    {
+      "id": 880,
+      "gold": "adpxsbrqa",
+      "prediction": "adpxsbrqa",
+      "raw_prediction": "ADPXsBRQa",
+      "status": "correct"
+    },
+    {
+      "id": 881,
+      "gold": "adpacpnlb",
+      "prediction": "adpacpnlb",
+      "raw_prediction": "ADPaCpNLB",
+      "status": "correct"
+    },
+    {
+      "id": 882,
+      "gold": "adp519oxr",
+      "prediction": "adp519oxr",
+      "raw_prediction": "ADP519oXR",
+      "status": "correct"
+    },
+    {
+      "id": 883,
+      "gold": "adpymyzkx",
+      "prediction": "adpymyzkx",
+      "raw_prediction": "ADPYMyZKx",
+      "status": "correct"
+    },
+    {
+      "id": 884,
+      "gold": "adpbuxmnh",
+      "prediction": "adpbuxmnh",
+      "raw_prediction": "ADPbUXmnh",
+      "status": "correct"
+    },
+    {
+      "id": 885,
+      "gold": "adpcxqeak",
+      "prediction": "spf0xrn7",
+      "raw_prediction": "SPf0xrn7",
+      "status": "error"
+    },
+    {
+      "id": 886,
+      "gold": "adp9wpgl7",
+      "prediction": "adp9wpgl7",
+      "raw_prediction": "ADP9WPgL7",
+      "status": "correct"
+    },
+    {
+      "id": 887,
+      "gold": "adpvuksdg",
+      "prediction": "adpvuksdg",
+      "raw_prediction": "ADPVuksdG",
+      "status": "correct"
+    },
+    {
+      "id": 888,
+      "gold": "adpugq8i1",
+      "prediction": "spf4gxd9",
+      "raw_prediction": "SPf4gXD9",
+      "status": "error"
+    },
+    {
+      "id": 889,
+      "gold": "adptsd0gx",
+      "prediction": "spwmx56f",
+      "raw_prediction": "SPwMX56f",
+      "status": "error"
+    },
+    {
+      "id": 890,
+      "gold": "adp9utwn4",
+      "prediction": "adp9utwn4",
+      "raw_prediction": "ADP9UTWN4",
+      "status": "correct"
+    },
+    {
+      "id": 891,
+      "gold": "adphqcrwo",
+      "prediction": "adphqcrwo",
+      "raw_prediction": "ADPhQcrWO",
+      "status": "correct"
+    },
+    {
+      "id": 892,
+      "gold": "adpt6hmu0",
+      "prediction": "adpt6hmu0",
+      "raw_prediction": "ADPt6HmU0",
+      "status": "correct"
+    },
+    {
+      "id": 893,
+      "gold": "adpwkruib",
+      "prediction": "adpwkruib",
+      "raw_prediction": "ADPwKRUiB",
+      "status": "correct"
+    },
+    {
+      "id": 894,
+      "gold": "adp8rsmle",
+      "prediction": "adp8rsmle",
+      "raw_prediction": "ADP8rSMle",
+      "status": "correct"
+    },
+    {
+      "id": 895,
+      "gold": "adpi0vypo",
+      "prediction": "spkgvxfz",
+      "raw_prediction": "SPKgVxFz",
+      "status": "error"
+    },
+    {
+      "id": 896,
+      "gold": "adptfp14e",
+      "prediction": "adptfp14e",
+      "raw_prediction": "ADPTfp14E",
+      "status": "correct"
+    },
+    {
+      "id": 897,
+      "gold": "adpya9dnc",
+      "prediction": "adpya9dnc",
+      "raw_prediction": "ADPYa9dnC",
+      "status": "correct"
+    },
+    {
+      "id": 898,
+      "gold": "adpiahlg0",
+      "prediction": "adpiahlg0",
+      "raw_prediction": "ADPiAHlG0",
+      "status": "correct"
+    },
+    {
+      "id": 899,
+      "gold": "adplizynz",
+      "prediction": "adplizynz",
+      "raw_prediction": "ADPlIZYNZ",
+      "status": "correct"
+    },
+    {
+      "id": 900,
+      "gold": "adpa8hnge",
+      "prediction": "adpa8hnge",
+      "raw_prediction": "ADPA8hNGE",
+      "status": "correct"
+    },
+    {
+      "id": 901,
+      "gold": "adpldqvy2",
+      "prediction": "adpldqvy2",
+      "raw_prediction": "ADPldqvy2",
+      "status": "correct"
+    },
+    {
+      "id": 902,
+      "gold": "adpkg77to",
+      "prediction": "adpkg77to",
+      "raw_prediction": "ADPkG77to",
+      "status": "correct"
+    },
+    {
+      "id": 903,
+      "gold": "adpnhswrn",
+      "prediction": "sp62cosg",
+      "raw_prediction": "SP62coSG",
+      "status": "error"
+    },
+    {
+      "id": 904,
+      "gold": "adpzxhbri",
+      "prediction": "adpzxhbri",
+      "raw_prediction": "ADPZxHbRi",
+      "status": "correct"
+    },
+    {
+      "id": 905,
+      "gold": "adpifbcm7",
+      "prediction": "adpifbcm7",
+      "raw_prediction": "ADPIfBcm7",
+      "status": "correct"
+    },
+    {
+      "id": 906,
+      "gold": "adpmxczaw",
+      "prediction": "sptvkscm",
+      "raw_prediction": "SPtvkScm",
+      "status": "error"
+    },
+    {
+      "id": 907,
+      "gold": "adpg3t4ty",
+      "prediction": "adpg3t4ty",
+      "raw_prediction": "ADPg3T4tY",
+      "status": "correct"
+    },
+    {
+      "id": 908,
+      "gold": "adppq6qo0",
+      "prediction": "adppq6qo0",
+      "raw_prediction": "ADPPQ6Qo0",
+      "status": "correct"
+    },
+    {
+      "id": 909,
+      "gold": "adptd6obe",
+      "prediction": "adptd6obe",
+      "raw_prediction": "ADPtd6Obe",
+      "status": "correct"
+    },
+    {
+      "id": 910,
+      "gold": "adpqyrd71",
+      "prediction": "adpqyrd71",
+      "raw_prediction": "ADPQYRD71",
+      "status": "correct"
+    },
+    {
+      "id": 911,
+      "gold": "adplexptm",
+      "prediction": "spqky88x",
+      "raw_prediction": "SPqKy88X",
+      "status": "error"
+    },
+    {
+      "id": 912,
+      "gold": "adpq0flhs",
+      "prediction": "adpq0flhs",
+      "raw_prediction": "ADPq0fLHS",
+      "status": "correct"
+    },
+    {
+      "id": 913,
+      "gold": "adpyknvqe",
+      "prediction": "adpyknvqe",
+      "raw_prediction": "ADPYKNvqE",
+      "status": "correct"
+    },
+    {
+      "id": 914,
+      "gold": "adpm2flam",
+      "prediction": "sptrgv9c",
+      "raw_prediction": "SPTRgv9C",
+      "status": "error"
+    },
+    {
+      "id": 915,
+      "gold": "adpfewtmx",
+      "prediction": "adpfewtmx",
+      "raw_prediction": "ADPFeWTmX",
+      "status": "correct"
+    },
+    {
+      "id": 916,
+      "gold": "adp2yiwcp",
+      "prediction": "sp379z8h",
+      "raw_prediction": "SP379Z8h",
+      "status": "error"
+    },
+    {
+      "id": 917,
+      "gold": "adpzngkak",
+      "prediction": "adpzngkak",
+      "raw_prediction": "ADPzngkAK",
+      "status": "correct"
+    },
+    {
+      "id": 918,
+      "gold": "adpicoxck",
+      "prediction": "adpicoxck",
+      "raw_prediction": "ADPICoxcK",
+      "status": "correct"
+    },
+    {
+      "id": 919,
+      "gold": "adpm4pb21",
+      "prediction": "adpm4pb21",
+      "raw_prediction": "ADPm4PB21",
+      "status": "correct"
+    },
+    {
+      "id": 920,
+      "gold": "adp5dhf8s",
+      "prediction": "adpgs8nws",
+      "raw_prediction": "ADPgS8nwS",
+      "status": "error"
+    },
+    {
+      "id": 921,
+      "gold": "adpvmgaq2",
+      "prediction": "adpvmgaq2",
+      "raw_prediction": "ADPvmgaQ2",
+      "status": "correct"
+    },
+    {
+      "id": 922,
+      "gold": "adpvcuisq",
+      "prediction": "adpvcuisq",
+      "raw_prediction": "ADPvcuISq",
+      "status": "correct"
+    },
+    {
+      "id": 923,
+      "gold": "adpmakrqs",
+      "prediction": "adpmakrqs",
+      "raw_prediction": "ADPmAkrqS",
+      "status": "correct"
+    },
+    {
+      "id": 924,
+      "gold": "adpqyigpg",
+      "prediction": "spogv83l",
+      "raw_prediction": "SPOgV83L",
+      "status": "error"
+    },
+    {
+      "id": 925,
+      "gold": "adpgey2dc",
+      "prediction": "adpgey2dc",
+      "raw_prediction": "ADPgEy2dc",
+      "status": "correct"
+    },
+    {
+      "id": 926,
+      "gold": "adp1ntgoi",
+      "prediction": "adp1ntgoi",
+      "raw_prediction": "ADP1ntGOI",
+      "status": "correct"
+    },
+    {
+      "id": 927,
+      "gold": "adpdrnoqw",
+      "prediction": "adpdrnoqw",
+      "raw_prediction": "ADPdrNoQW",
+      "status": "correct"
+    },
+    {
+      "id": 928,
+      "gold": "adpwgomeh",
+      "prediction": "adpwgomeh",
+      "raw_prediction": "ADPWGOMeH",
+      "status": "correct"
+    },
+    {
+      "id": 929,
+      "gold": "adpfkgtwl",
+      "prediction": "adpfkgtwl",
+      "raw_prediction": "ADPFKgTWL",
+      "status": "correct"
+    },
+    {
+      "id": 930,
+      "gold": "adp9in2x4",
+      "prediction": "adp9in2x4",
+      "raw_prediction": "ADP9in2x4",
+      "status": "correct"
+    },
+    {
+      "id": 931,
+      "gold": "adpd7xns9",
+      "prediction": "adpd7xns9",
+      "raw_prediction": "ADPD7xnS9",
+      "status": "correct"
+    },
+    {
+      "id": 932,
+      "gold": "adpockt7a",
+      "prediction": "adpockt7a",
+      "raw_prediction": "ADPoCKt7a",
+      "status": "correct"
+    },
+    {
+      "id": 933,
+      "gold": "adpgyaiop",
+      "prediction": "adpgyaiop",
+      "raw_prediction": "ADPGyaIop",
+      "status": "correct"
+    },
+    {
+      "id": 934,
+      "gold": "adpgpaxdc",
+      "prediction": "adpgpaxdc",
+      "raw_prediction": "ADPgPAxdC",
+      "status": "correct"
+    },
+    {
+      "id": 935,
+      "gold": "adpgfvkgp",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": 936,
+      "gold": "adpt9qztx",
+      "prediction": "adpt9qztx",
+      "raw_prediction": "ADPt9QZTx",
+      "status": "correct"
+    },
+    {
+      "id": 937,
+      "gold": "adpwtherl",
+      "prediction": "sp8ikcki",
+      "raw_prediction": "SP8IkcKI",
+      "status": "error"
+    },
+    {
+      "id": 938,
+      "gold": "adpxchydr",
+      "prediction": "adpxchydr",
+      "raw_prediction": "ADPxChydr",
+      "status": "correct"
+    },
+    {
+      "id": 939,
+      "gold": "adpti6ylv",
+      "prediction": "adpti6ylv",
+      "raw_prediction": "ADPti6ylV",
+      "status": "correct"
+    },
+    {
+      "id": 940,
+      "gold": "adpwyc7mq",
+      "prediction": "adpwyc7mq",
+      "raw_prediction": "ADPwyC7mq",
+      "status": "correct"
+    },
+    {
+      "id": 941,
+      "gold": "adpmdl998",
+      "prediction": "spsixyw3",
+      "raw_prediction": "SPsIXyW3",
+      "status": "error"
+    },
+    {
+      "id": 942,
+      "gold": "adp8iuc8y",
+      "prediction": "adp8iuc8y",
+      "raw_prediction": "ADP8iUc8Y",
+      "status": "correct"
+    },
+    {
+      "id": 943,
+      "gold": "adpbaaa7i",
+      "prediction": "adpbaaa7i",
+      "raw_prediction": "ADPbaAA7I",
+      "status": "correct"
+    },
+    {
+      "id": 944,
+      "gold": "adpzzaqyl",
+      "prediction": "adpzzaqyl",
+      "raw_prediction": "ADPZZaQYL",
+      "status": "correct"
+    },
+    {
+      "id": 945,
+      "gold": "adp2mzqpa",
+      "prediction": "adp2mzqpa",
+      "raw_prediction": "ADP2MZqPA",
+      "status": "correct"
+    },
+    {
+      "id": 946,
+      "gold": "adpr3etua",
+      "prediction": "adpr3etua",
+      "raw_prediction": "ADPr3etUa",
+      "status": "correct"
+    },
+    {
+      "id": 947,
+      "gold": "adp0hqcrz",
+      "prediction": "adp0hqcrz",
+      "raw_prediction": "ADP0hQcrZ",
+      "status": "correct"
+    },
+    {
+      "id": 948,
+      "gold": "adp7guwka",
+      "prediction": "adp7guwka",
+      "raw_prediction": "ADP7GUWKa",
+      "status": "correct"
+    },
+    {
+      "id": 949,
+      "gold": "adp5oubwo",
+      "prediction": "adp5oubwo",
+      "raw_prediction": "ADP5oUbWO",
+      "status": "correct"
+    },
+    {
+      "id": 950,
+      "gold": "adpyssvrt",
+      "prediction": "spkghcir",
+      "raw_prediction": "SPkgHCIR",
+      "status": "error"
+    },
+    {
+      "id": 951,
+      "gold": "adplekmr9",
+      "prediction": "adplekmr9",
+      "raw_prediction": "ADPlEkmR9",
+      "status": "correct"
+    },
+    {
+      "id": 952,
+      "gold": "adpo3gsu6",
+      "prediction": "spgpvy5l",
+      "raw_prediction": "SPgPvy5l",
+      "status": "error"
+    },
+    {
+      "id": 953,
+      "gold": "adp4pnz8k",
+      "prediction": "adp4pnz8k",
+      "raw_prediction": "ADP4pNZ8K",
+      "status": "correct"
+    },
+    {
+      "id": 954,
+      "gold": "adpyhkybc",
+      "prediction": "spffxkvp",
+      "raw_prediction": "SPFFXKvP",
+      "status": "error"
+    },
+    {
+      "id": 955,
+      "gold": "adppazyyq",
+      "prediction": "adppazyyq",
+      "raw_prediction": "ADPPaZYyQ",
+      "status": "correct"
+    },
+    {
+      "id": 956,
+      "gold": "adppww7hx",
+      "prediction": "adppww7hx",
+      "raw_prediction": "ADPPWw7Hx",
+      "status": "correct"
+    },
+    {
+      "id": 957,
+      "gold": "adpgrylr1",
+      "prediction": "spmoamrw",
+      "raw_prediction": "SPmOAMRW",
+      "status": "error"
+    },
+    {
+      "id": 958,
+      "gold": "adpydbsec",
+      "prediction": "spnqrsfb",
+      "raw_prediction": "SPnqrSfB",
+      "status": "error"
+    },
+    {
+      "id": 959,
+      "gold": "adpvskmww",
+      "prediction": "adpvskmww",
+      "raw_prediction": "ADPvSKmWW",
+      "status": "correct"
+    },
+    {
+      "id": 960,
+      "gold": "adphgyypc",
+      "prediction": "adphgyypc",
+      "raw_prediction": "ADPHGyyPC",
+      "status": "correct"
+    },
+    {
+      "id": 961,
+      "gold": "adpytowkb",
+      "prediction": "adpytowkb",
+      "raw_prediction": "ADPytOWkb",
+      "status": "correct"
+    },
+    {
+      "id": 962,
+      "gold": "adpzzgkfm",
+      "prediction": "adpzzgkfm",
+      "raw_prediction": "ADPZZgKfm",
+      "status": "correct"
+    },
+    {
+      "id": 963,
+      "gold": "adperdimw",
+      "prediction": "sprvnysa",
+      "raw_prediction": "SPRvNYSa",
+      "status": "error"
+    },
+    {
+      "id": 964,
+      "gold": "adprtqv07",
+      "prediction": "adprtqv07",
+      "raw_prediction": "ADPRtqv07",
+      "status": "correct"
+    },
+    {
+      "id": 965,
+      "gold": "adpkoqex0",
+      "prediction": "adpkoqex0",
+      "raw_prediction": "ADPKoqeX0",
+      "status": "correct"
+    },
+    {
+      "id": 966,
+      "gold": "adpqptfgx",
+      "prediction": "adpqptfgx",
+      "raw_prediction": "ADPqPtFgx",
+      "status": "correct"
+    },
+    {
+      "id": 967,
+      "gold": "adpoq8xqf",
+      "prediction": "adpoq8xqf",
+      "raw_prediction": "ADPoQ8XqF",
+      "status": "correct"
+    },
+    {
+      "id": 968,
+      "gold": "adpz0yzbl",
+      "prediction": "adpz0yzbl",
+      "raw_prediction": "ADPZ0yzBl",
+      "status": "correct"
+    },
+    {
+      "id": 969,
+      "gold": "adplqemht",
+      "prediction": "adplqemht",
+      "raw_prediction": "ADPlqemHT",
+      "status": "correct"
+    },
+    {
+      "id": 970,
+      "gold": "adp3vpnsg",
+      "prediction": "adp3vpnsg",
+      "raw_prediction": "ADP3vPnsg",
+      "status": "correct"
+    },
+    {
+      "id": 971,
+      "gold": "adpagt8wx",
+      "prediction": "adpagt8wx",
+      "raw_prediction": "ADPAgt8wX",
+      "status": "correct"
+    },
+    {
+      "id": 972,
+      "gold": "adp6pntxm",
+      "prediction": "adp6pntxm",
+      "raw_prediction": "ADP6PntxM",
+      "status": "correct"
+    },
+    {
+      "id": 973,
+      "gold": "adpgb9vbx",
+      "prediction": "spsloytl",
+      "raw_prediction": "SPsLoYTl",
+      "status": "error"
+    },
+    {
+      "id": 974,
+      "gold": "adpckgbkf",
+      "prediction": "adpckgbkf",
+      "raw_prediction": "ADPckGbkf",
+      "status": "correct"
+    },
+    {
+      "id": 975,
+      "gold": "adpozlkrf",
+      "prediction": "adpozlkrf",
+      "raw_prediction": "ADPoZlKrf",
+      "status": "correct"
+    },
+    {
+      "id": 976,
+      "gold": "adp0esumd",
+      "prediction": "sp4xgduh",
+      "raw_prediction": "SP4XGdUh",
+      "status": "error"
+    },
+    {
+      "id": 977,
+      "gold": "adpdz3xck",
+      "prediction": "adpdz3xck",
+      "raw_prediction": "ADPdz3XcK",
+      "status": "correct"
+    },
+    {
+      "id": 978,
+      "gold": "adp3eo5dx",
+      "prediction": "spabuerx",
+      "raw_prediction": "SPABUERx",
+      "status": "error"
+    },
+    {
+      "id": 979,
+      "gold": "adpaum2ah",
+      "prediction": "adpaum2ah",
+      "raw_prediction": "ADPauM2ah",
+      "status": "correct"
+    },
+    {
+      "id": 980,
+      "gold": "adpuqaofg",
+      "prediction": "spafzcw1",
+      "raw_prediction": "SPaFZcW1",
+      "status": "error"
+    },
+    {
+      "id": 981,
+      "gold": "adpmon4vm",
+      "prediction": "adpmon4vm",
+      "raw_prediction": "ADPmON4vM",
+      "status": "correct"
+    },
+    {
+      "id": 982,
+      "gold": "adpyzpg1e",
+      "prediction": "adpyzpg1e",
+      "raw_prediction": "ADPyZpG1E",
+      "status": "correct"
+    },
+    {
+      "id": 983,
+      "gold": "adpomd1d2",
+      "prediction": "adpomd1d2",
+      "raw_prediction": "ADPomd1d2",
+      "status": "correct"
+    },
+    {
+      "id": 984,
+      "gold": "adp2n6ioq",
+      "prediction": "adp2n6ioq",
+      "raw_prediction": "ADP2N6ioQ",
+      "status": "correct"
+    },
+    {
+      "id": 985,
+      "gold": "adpmxztmz",
+      "prediction": "adpmxztmz",
+      "raw_prediction": "ADPMXztMz",
+      "status": "correct"
+    },
+    {
+      "id": 986,
+      "gold": "adpgafrn8",
+      "prediction": "adpgafrn8",
+      "raw_prediction": "ADPgaFRN8",
+      "status": "correct"
+    },
+    {
+      "id": 987,
+      "gold": "adpbm6qxt",
+      "prediction": "adpbm6qxt",
+      "raw_prediction": "ADPbm6QxT",
+      "status": "correct"
+    },
+    {
+      "id": 988,
+      "gold": "adp9r08xa",
+      "prediction": "sp1iphxr",
+      "raw_prediction": "SP1iPHxR",
+      "status": "error"
+    },
+    {
+      "id": 989,
+      "gold": "adp5yo88n",
+      "prediction": "adp5yo88n",
+      "raw_prediction": "ADP5Yo88N",
+      "status": "correct"
+    },
+    {
+      "id": 990,
+      "gold": "adpprwnx4",
+      "prediction": "adpprwnx4",
+      "raw_prediction": "ADPprWnX4",
+      "status": "correct"
+    },
+    {
+      "id": 991,
+      "gold": "adp1ggzyl",
+      "prediction": "adp1ggzyl",
+      "raw_prediction": "ADP1gGzyl",
+      "status": "correct"
+    },
+    {
+      "id": 992,
+      "gold": "adpsvmizw",
+      "prediction": "adpsvmizw",
+      "raw_prediction": "ADPSVMIZw",
+      "status": "correct"
+    },
+    {
+      "id": 993,
+      "gold": "adpqz42t1",
+      "prediction": "adpqz42t1",
+      "raw_prediction": "ADPQZ42t1",
+      "status": "correct"
+    },
+    {
+      "id": 994,
+      "gold": "adpm2xswm",
+      "prediction": "adpm2xswm",
+      "raw_prediction": "ADPm2Xswm",
+      "status": "correct"
+    },
+    {
+      "id": 995,
+      "gold": "adp6sgdyr",
+      "prediction": "adp6sgdyr",
+      "raw_prediction": "ADP6SGdyR",
+      "status": "correct"
+    },
+    {
+      "id": 996,
+      "gold": "adp8pqyt9",
+      "prediction": "spzaqxfz",
+      "raw_prediction": "SPZAqXfZ",
+      "status": "error"
+    },
+    {
+      "id": 997,
+      "gold": "adpeahau2",
+      "prediction": "adpeahau2",
+      "raw_prediction": "ADPeAhAu2",
+      "status": "correct"
+    },
+    {
+      "id": 998,
+      "gold": "adp2idizo",
+      "prediction": "adp2idizo",
+      "raw_prediction": "ADP2idIZO",
+      "status": "correct"
+    },
+    {
+      "id": 999,
+      "gold": "adpe4teak",
+      "prediction": "adpe4teak",
+      "raw_prediction": "ADPE4tEAK",
+      "status": "correct"
+    },
+    {
+      "id": 1000,
+      "gold": "adpmyqf5a",
+      "prediction": "adpmyqf5a",
+      "raw_prediction": "ADPmyQF5a",
+      "status": "correct"
+    }
+  ]
+}

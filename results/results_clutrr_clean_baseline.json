@@ -1,0 +1,7349 @@
+{
+  "dataset_name": "clutrr_clean",
+  "model_name": "gpt-5",
+  "total_samples": 1048,
+  "correct_count": 687,
+  "error_count": 291,
+  "refusal_count": 70,
+  "answer_correctness_rate": 0.6555343511450382,
+  "answer_error_rate": 0.2776717557251908,
+  "refusal_rate": 0.06679389312977099,
+  "results": [
+    {
+      "id": "04aecf16-fbc8-4e73-ba36-9d80b5070804",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "80f3f55e-c525-4dbf-b608-7598f5c3159e",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "701272a1-c430-4f75-8d0c-2047bd4c8f7d",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "cdaad9fd-05fa-4801-ba11-7cf87fb06637",
+      "gold": "grandson",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "f12c6ed1-1c9c-4d16-95a5-f054d677a7bf",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "9b4967ac-ba5c-4412-95c5-f040667cc80f",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "b14b63a3-5d70-4fbe-a33b-2d273f5c9238",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "13c1bc80-b3b4-4252-8d72-000f0bbd27f9",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "301ebc46-f721-486c-b75a-5148fe559db5",
+      "gold": "granddaughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "d9e0c249-55e9-40c3-a371-11376049d9e7",
+      "gold": "niece",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "error"
+    },
+    {
+      "id": "7141dadc-0643-4d9a-b9e8-8cd56d2a388c",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "0d4a7d8c-ec7e-4e00-9818-f52bb332ca76",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "41a053f0-cbaf-4646-b17b-d45a89247f87",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "fb1e17e2-9980-45d8-b8fc-504aa633d9da",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "8be4e143-8e77-42e3-9a11-d60452fd19ec",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "f57609ad-6c75-42f8-9dd6-50633a740e75",
+      "gold": "uncle",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "529a8a18-dbbe-420d-9a19-f58b53779107",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "4a29e9b4-8d0a-4fcd-aca2-5de0d0d6f381",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "393f12cf-2abb-44cd-9c7d-22155c2be015",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "85bdeabc-8d7a-4946-bf61-759cbe247e3b",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "4c59fabd-c306-422a-8374-e73945381216",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "9b83b28f-24be-4a6b-b9a4-016651944384",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "3ffd48a5-3c44-4ead-aa98-7d24970da5b0",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "28b7fe21-ea89-4368-8d09-010bf54ce03b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "3bead269-aec6-47f0-b22b-dbeffe3d7c3a",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "584177ca-bd93-4f0b-86db-97037111d943",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d7c508dc-5266-4154-8c87-9d02e8c8b475",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "0f528d7b-576f-4442-a6e6-48aa619912ac",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "6d31aeee-472e-4b3b-87a4-0c45ede36f34",
+      "gold": "aunt",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "1e038108-66aa-4ca2-84b0-7e035270b086",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "187e40b8-2335-466e-94b3-55240d40c34c",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "74cf7fac-e457-4421-924b-fe91395fb4c5",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "b49ca4aa-66be-44b5-a6fe-c3aef2d145a5",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "e3c22b5d-099c-442c-8728-f44624091b10",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "508931e4-755e-441b-9e26-df4936f44458",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "f3b4deef-6e55-4adb-b1f7-a7612b1bdb4f",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "e3b216ab-f33d-445e-b692-2b0d45dd9195",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "16bc4194-2044-4299-ab2d-c7fc06e00bfc",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "1548b064-0450-4c20-80e3-4510773c3cb9",
+      "gold": "uncle",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "2ea3b345-4617-4f54-92f6-7fcfd66fb332",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "568f38e3-0a7d-4eab-9974-888b09086022",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "2e08abf3-dd53-4bc7-bc86-0c5ca70ed391",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "43c0c9c9-675d-4a52-8509-323e416787bf",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "ab38cacf-3af2-44dd-8694-4e588bdec1e2",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "2a0986a8-69fe-492a-829e-66350af0f5d3",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "1eec35e2-2410-4deb-a4a1-537cc2327025",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "54e938e8-0e08-480d-8061-c94ed501409f",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "6fec65c1-1c93-44be-891d-08fb685f423c",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "26c33fc9-3bae-476a-83e0-bc5a6831f8cf",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "2bb13b03-8802-41f2-a407-9910897b6619",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "f0d4bbff-67e5-4ea1-ba11-5915f1562fac",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "ba9fc6cb-d654-4cfb-95d3-deeae093b211",
+      "gold": "sister",
+      "prediction": "great-aunt",
+      "raw_prediction": "great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "a67c5249-a7c1-4832-a5bb-04a50174b1b2",
+      "gold": "father",
+      "prediction": "greatgrandfather",
+      "raw_prediction": "greatgrandfather",
+      "status": "error"
+    },
+    {
+      "id": "d184a674-a258-4e15-ada0-393e2b175d93",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "a1f972e4-588d-4e58-ac57-c2773a5663bc",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "c17b8298-f7b5-4308-94d5-044aa117bdbc",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "92e244c3-040b-4df1-900a-24000f16e145",
+      "gold": "brother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "b5c1419c-1629-4363-be2b-69ac948f693a",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "59e0a838-b049-4daa-ae0c-f63604ad0288",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "bf8cbce3-0de9-4c13-a59f-244dfa54fb4f",
+      "gold": "niece",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "de407558-731d-4bf8-ae0d-a346f60ebb1a",
+      "gold": "nephew",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "error"
+    },
+    {
+      "id": "8ef627c2-9886-43b5-8f52-53bbf0d86a03",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "fde8f8de-ece4-4fe2-a492-b152ac522d44",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "9daf5c5c-4bf2-475e-8bd6-8b7043db0ddb",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "9ea64201-f21d-4d90-93ed-0a94152f9a77",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "29f3c32b-ab2f-4962-8f64-d5e2c8dba1bf",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "04eec0e9-1d7b-4aed-8ca8-b79084e209ea",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "116eae58-79f1-499e-acd0-9ebd02187163",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "f76478dd-af2f-4925-b364-aace9e918106",
+      "gold": "nephew",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "error"
+    },
+    {
+      "id": "9a39f9ac-1e16-4059-99dc-61836d39a0ef",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "6baa24c5-5b2e-4cfd-b5de-9761430fe658",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "25c72317-11be-4354-9e13-8a3d0dba0f08",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "8675d10e-ec55-4c7d-9fe9-082daa9d74f5",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "1755a908-b78c-468f-8cc8-77ed28029d38",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "53ecb27c-6926-4a35-9f3d-3800866adc52",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "3bc5c319-a326-4859-a2f4-870bb7db2603",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "0d3e6ba4-e747-4e00-940d-5715e45c7ebc",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "b9ad4c27-fdd4-4dc0-a266-bc1ee2709de7",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "cfa33ed3-1c0a-4900-8d22-25f1a1b9c0f6",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "6082c49c-2b4a-4409-9691-8544f296423a",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "9f8816ff-1007-4e66-bed1-d1508f8891e8",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "2d0b8241-2b14-4ec5-a096-cc63d06ab267",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "350301be-6927-4c34-b344-3d4f317314e4",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "e1fd6ca9-c252-49bd-bb72-f6967b9060a1",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "805e540c-d489-4a19-8f99-eb95aff1df55",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "758a521e-cbcf-4fd5-9c27-03a8b406c66c",
+      "gold": "uncle",
+      "prediction": "great-granduncle",
+      "raw_prediction": "great-granduncle",
+      "status": "error"
+    },
+    {
+      "id": "d8ac086c-6d6c-485a-bd4e-03f7325bb273",
+      "gold": "aunt",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "08fdfd53-9846-4b27-848a-57d7511baaec",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "5ef575e4-f815-462e-8f76-a5e76f4ff44c",
+      "gold": "grandson",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "6f28484d-51a0-4a36-b222-7ed95467f6e4",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "58a013f3-2f74-4d5f-8712-cb223cca2beb",
+      "gold": "uncle",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "error"
+    },
+    {
+      "id": "7bd0c66d-f59f-4248-b5ee-60b265a27e00",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "749de1f8-f042-4792-9703-6ca5282a736b",
+      "gold": "uncle",
+      "prediction": "great-granduncle",
+      "raw_prediction": "great-granduncle",
+      "status": "error"
+    },
+    {
+      "id": "2eb40305-deb6-41c9-89e2-2d71c12e1fc6",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "5aa99261-c59f-4c3d-96fa-07d8037751da",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "9ecc7f3e-5a6c-4515-a5d5-24a364edc554",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "7b3162f4-9c8b-4ea8-958f-9e60360877be",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "de30ca2d-fb41-4792-9f1e-1c9c83670a96",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "77b2ecfc-4870-409c-a3e9-0bc9674fb331",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "6d4c7b78-2c97-49d4-9d3e-4174ea9ebfce",
+      "gold": "uncle",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "29e72fa8-1b92-4f1d-a10a-cddfed0ac390",
+      "gold": "granddaughter",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "9a27f18e-f08b-4d10-8bc0-f701d29f0e16",
+      "gold": "grandson",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "1d1def33-5593-451a-b08d-306c34b26522",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "9d6e1147-738a-492c-8601-3bf0efd0d4f8",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "54f551fa-af91-4852-a9e8-e36551582d7a",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "5a3559c6-c217-4996-b17e-0aaa1bb13d0e",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "5ccbd458-0e90-4a91-8b3d-fc06c1364670",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "c09c730f-e6af-46df-b430-78c261f0b6d0",
+      "gold": "daughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "0fe1b247-d1da-4d83-9bdb-69fcf4d47480",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "71e00bbd-e878-4e77-901e-cafe46ea8837",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "50205005-e0f7-4386-a153-31b072016040",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "104970ad-44dc-46f9-aa4c-2486e9ce3ce7",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5cd1185e-e44b-4f16-b652-0971a5b5bcc7",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "7c0d552c-144d-4ad0-8b8f-a0fab9bb7098",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "b13170fc-06d0-4272-8de1-8aa84ced2ca6",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "29080e7d-0561-4f01-a83b-67fce2aa8229",
+      "gold": "uncle",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "5ca1f9fd-ff5f-4b77-a379-c2f43692c3f4",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "a69511c8-dd5b-4d27-a204-84e6354e28a8",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d1abed9f-1f1d-4d38-b6b1-556fd072b0de",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "193b29c0-225a-4635-9c7a-aae78111460c",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "9d872af3-9a66-4496-b8ba-79bdd2576d26",
+      "gold": "sister",
+      "prediction": "great-aunt-in-law",
+      "raw_prediction": "great-aunt-in-law",
+      "status": "error"
+    },
+    {
+      "id": "d40ab899-bd74-44ed-93db-c5970e5ffe75",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "511be16e-05ba-4d6a-b258-ef2201d6757a",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "0f226f4d-dc2d-4051-a875-9e555ecf0f22",
+      "gold": "grandson",
+      "prediction": "granduncle",
+      "raw_prediction": "granduncle",
+      "status": "error"
+    },
+    {
+      "id": "946e19f0-a149-4317-9ea9-053788662090",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "329c0307-707e-4483-97d3-425b7dde32bb",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "262a6aaa-2561-4310-a9f0-f97d5aa4950d",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "55fc99eb-1440-4247-b53d-96540206ce2f",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "3dfca4ba-f6e5-449c-8a24-739e7c746559",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "16b898d1-a77e-4e05-86d6-b6e614b030ab",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "83b85772-1dda-47c2-9c87-072dd21d642b",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "42903104-bdf8-40cb-a148-82fd2109d223",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "51f8ec81-c2d2-4a64-b0ec-fa6d0f6f9480",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "4541a41b-66a8-41ed-b86a-0f2fb449a922",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "7f78dea0-6f86-4b6b-94cd-0eca9d783667",
+      "gold": "grandson",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "e1508cc0-9167-4382-9e11-005d139cd870",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "464afcd8-9ca3-4d45-b6fd-942afcd0568a",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "4da7525b-4b04-459e-96fd-43aec1c4fdb0",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "692e3585-40be-49f4-bdfa-5575d0a9662a",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "c5e1a350-9492-4d24-a808-532f35e22d52",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "0741bf9a-a8f6-4ff1-aac1-1a4f0828aed9",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "390742e3-5947-4976-872b-81abc1a83de2",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "4b078877-e41f-435d-9ea5-cd86d645e4a1",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "e69c7dc1-4485-4d93-985f-aff33a9c8b30",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "424413ca-1fa5-4c8e-96df-19827a1dfc9b",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "25891fe4-fe88-437b-a9fe-6f70def094ae",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "b805e5ee-b592-43fd-a9c4-236efd8bf791",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "Grandson",
+      "status": "correct"
+    },
+    {
+      "id": "87bc4ce5-7b1e-4b0a-8ba2-1afc08650f4c",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "3e947dbe-98d9-4967-9fcd-ed268889747d",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "191f63a8-716c-459c-a288-0b27f4b030cd",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "f8379fd1-245d-4a24-9df6-ccda35a6417e",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "162070fb-1a46-44f2-91e5-50f8cc99daf3",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "1a72d676-7242-4a9b-a639-0e79c11c23b3",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "a075e73a-a8cb-4d0a-aef1-878644bcb99a",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "8376db00-21c6-4ce4-be19-37c7dc4b98c7",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "9416d0c8-21bc-445b-9d70-6b343b6a8bbf",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "a4122540-f124-4457-8b4d-b9b1855ccd47",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "6766837a-ad8d-474b-8ecf-27930edb6b5b",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "30c04f82-bd60-4f44-a160-0bf39f286712",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "c2adf6e6-9832-48b6-8bb1-980497343219",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "7007be83-8fed-4a1b-8f4f-daa07b6ecf4d",
+      "gold": "sister",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "75024529-fe31-410f-8c31-c9472c0a760b",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "1e8d47fa-2f44-46d8-80f9-2078b04c6042",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "e3518c13-b468-494f-b3d5-770cd25068c5",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "2e6cca5e-d937-4ddb-83b7-5a50e609a012",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "793a8239-95e3-4e96-8927-f368748e5845",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "0190881b-e019-49e9-a165-5e7a01df8e8c",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "0c96d6b7-2981-4824-8fd4-355050035f4c",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "11b64ec9-f378-40f7-a2a6-2eb793ea5b39",
+      "gold": "brother",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "error"
+    },
+    {
+      "id": "9379d09b-5f8f-4a9c-a252-30658600b7b5",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "9b8fd698-70a8-4339-9ff3-4989434522e9",
+      "gold": "granddaughter",
+      "prediction": "stepgranddaughter",
+      "raw_prediction": "stepgranddaughter",
+      "status": "error"
+    },
+    {
+      "id": "f998be83-a40f-4508-94ef-46a8feab0cb9",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "9699bdad-bd14-4889-bf1e-1782008f6b8a",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "c194e7d5-5507-4639-b9db-b53ff5ddadf1",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "aec7fcf7-6d58-4bdc-9bdc-58731ae6db05",
+      "gold": "mother",
+      "prediction": "great-grandmother-in-law",
+      "raw_prediction": "great-grandmother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "2bf03f10-dadb-483d-942c-bb8f8c5a4d85",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "0dc00534-8b9d-451d-a44f-291e48e1435d",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "0102334c-6264-4a27-bb07-ad211606bc8d",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "d6901f33-f7a0-471d-9e57-0da8054acf55",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "05b23054-6389-4e70-a32b-dbff1c5082cd",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "2b7c4475-a1cb-41c3-9b07-d4c213f80082",
+      "gold": "granddaughter",
+      "prediction": "stepgranddaughter",
+      "raw_prediction": "stepgranddaughter",
+      "status": "error"
+    },
+    {
+      "id": "ffa64783-d4ae-44b1-a036-b6aafdcbd969",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "a60170b6-e99b-4f27-90d6-945ea757d377",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "633f1723-8900-4963-9f6d-36b51cdd8eaa",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "d5bf17e9-5920-4b6f-8676-76fb40f1aa41",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "609cca6e-d2c8-47e5-8c0e-a8cc5c439ff1",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "25bd7c0e-8a3c-4e09-9cb9-e2dc6146d069",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "8f735a9e-c585-4070-b773-478b974c4bdd",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "5c14e0b5-f1dc-4a5f-9659-59bf837b7163",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "Granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "7c6256fb-073b-4854-81d2-0d25de5d6c96",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "290b9ad0-7a8b-4716-b0e9-29319c4622ef",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "048a31d3-b4df-4f95-be49-5bbf789d0c1c",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "6fe045f6-048e-48e9-b1bd-952a3a1aa9f7",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "0be2eff3-a3b6-40ed-a393-1dc37c0c2262",
+      "gold": "mother",
+      "prediction": "great-grandmother-in-law",
+      "raw_prediction": "great-grandmother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "16c6c7c0-0b61-409e-bc74-a637d056b69a",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "c916a6e8-8108-4f33-ad2d-7d3875342cc2",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "5feffc0a-d9a6-45dc-8717-8f0a3acd8e20",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "5e3d53bf-afbf-4cc0-9a45-e7bb48fa7f41",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "4e9c81e4-3119-4afc-a5c8-474bf504d636",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "cfd86130-1ce9-4d09-83db-85c625cf5f69",
+      "gold": "sister",
+      "prediction": "wife",
+      "raw_prediction": "wife",
+      "status": "error"
+    },
+    {
+      "id": "3a54be64-3f39-49d7-b21e-6611ef9884c1",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "913cca9f-2a81-41e7-b72d-95675d2551f1",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "8e87ae7d-624f-4197-99ef-9a3238e95d3e",
+      "gold": "brother",
+      "prediction": "stepson",
+      "raw_prediction": "stepson",
+      "status": "error"
+    },
+    {
+      "id": "8d8f9581-0d30-4542-ad3f-bba110d6b6c6",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "01fba4d3-af56-421d-9c08-74455a9eacf8",
+      "gold": "sister",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "a81ab816-10f4-469c-bd5d-173f28dffb18",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "61b9da46-3074-485d-961d-c126905cde7f",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "3a79bc40-ad1c-478f-8443-a07e20ea0c3a",
+      "gold": "mother-in-law",
+      "prediction": "great-grandmother-in-law",
+      "raw_prediction": "great-grandmother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "e85ac401-1fc5-474c-ae8a-8e4cbf37f225",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "a107c25b-ed84-48c1-9ab8-a7dc52c077fe",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "ede18f27-e427-418e-b141-13682670fdbe",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "b4929df8-7971-4d56-ae2f-969b5307d765",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "735187fe-3ffe-4385-b443-1fa406171b1f",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "e5cc3a35-f1ce-4c8c-9c27-678a4e683338",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "039a774b-7ebb-4155-8310-d0a78b3017be",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "76b99caf-a4cd-45c8-a32b-ecea57425d11",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "afbf2412-87ba-4e4f-b64f-634a6497d207",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "79ccb8c8-ffff-4caf-b5f2-8c73d4bb00de",
+      "gold": "brother",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "error"
+    },
+    {
+      "id": "cb9ec828-48cd-425a-89e3-ce00fdb2c0f0",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "5f40a0a2-9b4a-4ebe-97dd-6b299d3f5590",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "59fc9174-10ca-4daa-933f-0a9c17490374",
+      "gold": "sister",
+      "prediction": "great-great-granddaughter",
+      "raw_prediction": "great-great-granddaughter",
+      "status": "error"
+    },
+    {
+      "id": "9276e81d-c31a-4ad9-baac-c9625c93c65b",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "2f85b9bd-0d61-4a9e-a43f-3acab93a559b",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "1e59ec95-708b-44c8-b53f-11f8a99725bf",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "e4596659-dba3-4a17-b6ea-956606cfad32",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "8ee893ba-111c-4fc8-8337-6dab37abfcff",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "63110466-2ee5-4948-8413-a7428fbb11c4",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "7bd0952f-b7a2-40e0-ab2a-a97f35d47504",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "56915871-c42b-49eb-8291-6005f7e5f394",
+      "gold": "brother",
+      "prediction": "husband",
+      "raw_prediction": "husband",
+      "status": "error"
+    },
+    {
+      "id": "6d2bbd7f-a2c7-4f5d-be77-b13631cebcd2",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "6f56fdc6-25ea-4353-98d8-99d0e185d87e",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "79fa0cf0-2dcf-4af7-b77c-d0b9ad108d9d",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "9f69e447-b704-488a-88a6-bf9736080f0b",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "12509122-f29d-4f05-bf69-d4411caad600",
+      "gold": "mother-in-law",
+      "prediction": "great-grandmother-in-law",
+      "raw_prediction": "great-grandmother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "833bba82-4672-48cb-b6da-f76a7fb8ffbc",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "fbc40a46-1ef5-4de8-97ae-d06a08364f39",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "addfcf42-2a00-458f-b934-d6caa4b57471",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "40afb4fc-7999-4560-a6d2-67379bfa176f",
+      "gold": "granddaughter",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "c76d7d97-55f1-4774-a0f4-073ea2638bfe",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "0972c140-c56c-4408-866e-b0dbf2a1af0a",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "af6577fb-e9b8-45a9-a01a-d19d8b85fb93",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "c4ef4bbe-88c6-4570-8786-3891a34b06cf",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "b8d5d31c-ed17-4d3f-996a-adc404c340a5",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "92ce6038-49dc-4fc7-b4d3-b4548555c2d8",
+      "gold": "sister",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "6289e130-3099-477c-bf79-2f4e5e631f51",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "22efddf9-a585-4ba2-a647-0c4586fa7c30",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "b21e742e-7db2-4932-951a-745f33da0b4a",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "2fbc5e33-21f1-4458-b71e-8c9cdf16ae10",
+      "gold": "son",
+      "prediction": "uncle-in-law",
+      "raw_prediction": "uncle-in-law",
+      "status": "error"
+    },
+    {
+      "id": "11a581fa-bf86-4989-98ba-6c5b858aff0b",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "b3e9a99d-6f6e-41b0-84d8-84f142658428",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "eeb66f86-6531-4a45-83b2-bace94372a67",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "7b5999c2-7483-4089-a0e5-4e6234ca3de7",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "c588b864-969a-4568-86b3-89013cdbd7d1",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "c61ed63a-404d-40c1-b40d-5bfb52403f95",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "f78db574-0d7f-45b1-a705-6bfdc157c3b1",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "ab39308c-d665-4d35-9d69-05de3524b2fd",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "a1eff894-631a-4df3-86d5-692de85cc0cb",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "28ec1020-eaf5-4fed-801a-93973e8c4d53",
+      "gold": "granddaughter",
+      "prediction": "stepdaughter",
+      "raw_prediction": "stepdaughter",
+      "status": "error"
+    },
+    {
+      "id": "2159424d-43e1-43f6-a949-623b1744daa8",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "11b1955d-a083-4402-bcb6-5b7e69aff613",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "07352296-4d72-4f23-867b-2dc91e0335fb",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "efe64d28-25d3-4df9-a7f7-177b89184c6b",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "a49d497a-e1cc-4b98-9796-ae1c4ef78011",
+      "gold": "granddaughter",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "2d3f144b-3176-48f4-9bc6-8cd031ec1666",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "4aa927a7-968b-4d5b-825a-4de135b974c3",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "4241e92c-d130-4164-a6e6-34426d9307b6",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "c898760b-b029-4f39-9fd9-43996c4555fd",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "ba6c8d5d-737a-449f-b867-4a0cc411c16c",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "c79aaacf-b059-4ad4-a0bb-6dd5a2ece034",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "7d6232a3-6703-4fdc-b3ea-ccfc7073291d",
+      "gold": "grandmother",
+      "prediction": "great-great-grandmother",
+      "raw_prediction": "great-great-grandmother",
+      "status": "error"
+    },
+    {
+      "id": "105bec6d-89b5-4824-af10-21067918f663",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "acbc1369-4806-41d7-8695-2d22f6a5fcae",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "77937026-9912-4226-8d55-d08d595fc902",
+      "gold": "daughter",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "d37c6f91-8708-412a-9d5f-c661536a2c55",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "37d41cd0-7c9a-437e-9ac8-939666751e2c",
+      "gold": "grandson",
+      "prediction": "husband",
+      "raw_prediction": "husband",
+      "status": "error"
+    },
+    {
+      "id": "77c3776c-3fd1-4e0b-a203-efed07137697",
+      "gold": "grandmother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "48a80644-87a7-4c43-a0af-f7613491372d",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "9c9b6fc9-6333-40a7-b76e-f0ee8d9ce663",
+      "gold": "son",
+      "prediction": "son-in-law",
+      "raw_prediction": "son-in-law",
+      "status": "error"
+    },
+    {
+      "id": "151795b6-b68f-403d-83d9-05b888df29ae",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "b590067b-ec17-4d4a-b6d8-be4f59048eed",
+      "gold": "father-in-law",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "af265f36-43ca-4962-bb46-68d074d6d5c3",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "644c8132-8de4-4d0d-8dc7-eefa8e49f0ef",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "046af756-3997-4bfa-8944-690af4cc6a77",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "d75dbb32-a560-4edb-b13c-6529d3de4838",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "adce16bd-8ba1-464d-96c3-7a6ef5c24636",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "40bf7409-e01c-497f-ac7b-5d046afaa579",
+      "gold": "brother",
+      "prediction": "grandfather-in-law",
+      "raw_prediction": "grandfather-in-law",
+      "status": "error"
+    },
+    {
+      "id": "58270640-a68f-43bb-b200-fb19a0886414",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "6eb38fff-b70c-4849-8302-1bcf1d66069b",
+      "gold": "daughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "0a412577-e64e-4212-a91b-ce90d1f7c4d7",
+      "gold": "mother",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "4d7499fd-9fe2-4c56-8151-f7ca06cf67a4",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "7a145cc3-17f6-46ca-a929-313dd6cf50fc",
+      "gold": "mother",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "b6af2689-3d6d-48d2-b7c5-342540edb0d8",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "eb85d10a-e5ad-43a2-8102-4fde406e2051",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "89f24db8-d9ff-415b-8a3d-8593dceab67d",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "3dc3c45f-1f85-4355-baaf-2e4190bc9432",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "16c954a8-8bf5-4f1d-a04f-1a34bb6dd3b0",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "f341bdfe-83e2-4c50-9c95-666fbb117ff2",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "57031177-9045-4b15-8f1d-022be50d6241",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "c44d75d8-226d-4308-8007-aa801bd4d945",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "852228f9-9ba5-4829-84dc-14a048311155",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "28433310-fb4b-4a75-a9ac-623f097863b6",
+      "gold": "son",
+      "prediction": "son-in-law",
+      "raw_prediction": "son-in-law",
+      "status": "error"
+    },
+    {
+      "id": "7ad9d144-a9f1-4e13-9f49-92f130820718",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "aebecb9c-d4f1-44e0-9d39-a79f52e513e5",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "2678e6a3-9d10-49fb-8111-abf4a534d5ce",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "408ac864-6d17-44b3-99e0-ef6e1d78accf",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "9f057182-c5b4-4e7d-85ec-033f2318394a",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "c2ac6df9-2dc8-42bc-b612-3f800807f503",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "616cbdea-4ab7-40b9-9405-35d76e8368b3",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "6ef29bdf-f61b-4dd8-9927-355e7766f455",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "1dde7b4d-7e6e-4763-803f-529c8547c747",
+      "gold": "grandson",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "6d8da500-f9ca-4c61-842b-8feba90e6ee8",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "5045c70f-c112-432b-8468-75d26785db2b",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "3aaa3ab5-464b-4775-a8d7-c10466fa6a0d",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "2139fd3a-452a-4640-bd23-4c222ffa37df",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "f966d1ce-c756-4cb3-b785-177e92738a1f",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "3609f410-ff49-4b70-9110-52913fc0c41e",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "b9fb47d5-f383-425a-a2a6-fbbd0c5e9fbd",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "273af8aa-11fa-4ab7-9b4c-bb4d257e08fb",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "a427f561-193e-43e9-9c2d-c7512bdbe6c3",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "49912a55-1ab0-4d3f-ab5c-93d40c635e91",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "bbda6296-e4a4-46f4-84fb-7d58d87d20c8",
+      "gold": "father-in-law",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "error"
+    },
+    {
+      "id": "764b5b28-3c58-44b3-8d38-6ba4849b1d45",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "3af7d9d5-84d5-48d2-96f8-70ae607ff729",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "04ee1bae-2023-4605-ad42-eb539205d7fc",
+      "gold": "grandson",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "e72fbc83-8a7c-4ac9-a9e3-3a5ef255dc10",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "1180a01c-4bd2-4e84-8156-e294f876edde",
+      "gold": "mother-in-law",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "error"
+    },
+    {
+      "id": "9daf271c-0f13-4229-a8b8-771ba55ff66f",
+      "gold": "grandson",
+      "prediction": "stepgrandson",
+      "raw_prediction": "stepgrandson",
+      "status": "error"
+    },
+    {
+      "id": "93152c93-12fa-41a1-8909-089ec8a4f159",
+      "gold": "son",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "e8e5ca99-05cd-4334-b889-949660d97939",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "b73e64c6-4744-4158-97d2-6dbe29b2902d",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "26e0d5d0-c9f6-4ccc-911a-3f4d13d3a62e",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "d801061d-0d71-4a8d-b09d-2e58aa9a4435",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "459bf892-1935-4ffc-9a53-21e024af38e8",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "94b2d9ef-8c16-4d4e-8ff0-3af97653f49d",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "12225c9a-c358-4054-b117-9a9d4ac15b06",
+      "gold": "daughter",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "fd037e5d-7c1a-4560-8d54-0f6ac99c4231",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "05044cbf-b1ea-45ad-a651-269956dfa05c",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "eae46645-2b96-47c6-8fec-9a31504d8cfe",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "6cef16ac-f6d9-4050-abc3-8663a28aec34",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "319dcdf6-6f59-452b-8d2f-edc5ad726c84",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "7a77e744-db11-44a6-bc46-680d42bffd55",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "d275d071-51b0-4a94-9eef-f44c3e8de9bd",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "ee8eb9a1-29b3-40c9-988a-38a728791c47",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "54890c2b-4be2-47ac-ae4f-a1a302a5e835",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "bcd24027-3ec9-452d-bef6-5955ca2eb00b",
+      "gold": "nephew",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "error"
+    },
+    {
+      "id": "d42708a2-b449-4f3b-b5dd-d4f9efc0a7b8",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "531582db-7b8a-4afb-b615-0e13a2cd52bb",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "439e7098-657d-4fa0-b09a-77c4b27902ca",
+      "gold": "nephew",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "cd102c45-cc56-40da-9f6e-0821582d2f08",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "f91cd2f6-f515-49c1-b1f3-c2c536561d68",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "c27a627c-514d-4591-a62f-30b7955362fa",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "94d0fdd1-c2ae-4363-b7b3-ca65f2344106",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "38d920e7-ee4b-46e6-8568-f2c1c60b8574",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "97d790d0-bb1c-4cce-8611-e48eff90e9bf",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "e8158d9c-478c-4b57-ab36-5589533996be",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "039463bd-3ec9-4737-842d-595095a31fa6",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "0f014b7a-8f44-4079-9491-84d20bc16ac8",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c53778ed-0405-4448-aef1-4fcb8491a65c",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "b9809097-2143-4c09-a130-59adc3007ba9",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "f211ba44-4711-497b-a81b-d6491a200474",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "59b7e8de-b40b-4a6a-9a95-0f8159507bf4",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "41dd68d5-b7bb-4392-9810-77a6e1ed0517",
+      "gold": "uncle",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "5903e546-09a4-48ed-87b3-0ff6d86455d8",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "dfd941c3-aef4-4bfc-8f4f-5bbebdb015d2",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "61efcd59-5cd3-4bd9-a161-385c557c340a",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "99ee5c78-9564-4e7e-8a01-05b442b589cf",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "fdcff6d6-c729-4c80-b7f7-8272546d2bc8",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "e1ef7800-8594-4ce2-a39b-38c6f2ff1896",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "4f28a723-d16c-4e36-a9da-75a145c69a9b",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "38abb0a3-3ad0-418b-a1e0-f29b5aa761b0",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "ff872e38-942e-4a18-9f92-445038bd4003",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "5a70ccd0-4c69-44d8-8a3c-34e1637b69c1",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "c610c69f-b018-4df6-a009-2a4eeb9756c4",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "adf18503-e7a5-49ef-9cdb-f80ef4167ab4",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d7dfb5cd-b079-4891-974f-82b1f3e5dde8",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "55902485-0c1a-4a7d-9727-918b1ba48dac",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "4b4dd132-8c63-4b00-bbcb-3ae7ff2c71dc",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "a6b5b438-0801-40a4-8cd2-86011b213a2f",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "5b4f6fdc-d94f-4344-9b38-853c899568b7",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "e1bf7afa-9389-48e1-9efb-4dfb2e11e5f7",
+      "gold": "father",
+      "prediction": "stepfather",
+      "raw_prediction": "stepfather",
+      "status": "error"
+    },
+    {
+      "id": "169c9aa3-326a-4a10-ae50-e5be0694a67d",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c944041e-4580-4629-b3d0-27ee6c7926ec",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "8de62d2d-e33f-4888-855e-6903dbcf4ac7",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "f7c42ca9-f0f1-4978-bbec-2d91c66160b5",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "8e4581e8-ed71-4368-b01c-333f6effeb20",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "7319093c-d909-4b70-8ba6-0fdf70d3a7a9",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "ae58585a-761b-483d-96f3-7ceb7a6555fe",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d99d255c-87a4-462c-acc7-eae58cace649",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "cff6a7ee-60ec-416e-a52b-21c6851095e7",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "a75ce842-786b-4d92-8be7-a389d0343380",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "6c652ce8-b478-4c6f-90d4-d34eb3707b34",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "51f19c5e-638f-46d2-bf35-33ca81fb7f82",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "80bcbf6b-61d8-4ec8-ae5a-9df4452890f1",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "8f37dee3-be86-416a-acd0-0039aa180308",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "050ade5d-088f-446d-97a7-d812a7b17b69",
+      "gold": "brother",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "e0dff27e-7af8-495c-9a32-31df0fe29f37",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "89b4b8d5-910c-43c1-9220-14a702483470",
+      "gold": "uncle",
+      "prediction": "greatgranduncle",
+      "raw_prediction": "greatgranduncle",
+      "status": "error"
+    },
+    {
+      "id": "7eed151a-50f5-434a-bd2c-f0a81a17e3c3",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "286e7208-6bc4-48d3-ae6d-dc36fe844db6",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0e68ac05-871a-4f94-b1f4-f7c630d3f8fe",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "020dfe93-9483-4f8a-9cd2-003d95bbca23",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "67c93a7f-b3f2-4270-856d-5cdb5d436564",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "0dbf499a-af86-4418-8772-7b57a3132842",
+      "gold": "son",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "bdc81c14-8266-4e17-b2c9-cc0fdeda0071",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "946553fc-9f44-4c38-bb6f-d82b0ca9fe2d",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "2af04164-5d3d-4555-9714-d905f2ad9bfc",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "dc0b42ee-b6fe-4746-86e6-b0fd8a10535a",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "f3045438-5550-4ef5-90ab-20f859b8a3c2",
+      "gold": "nephew",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "58d48c00-ff54-4b63-bde5-ad108d8b74c4",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "4d79e72d-c26c-40af-ab83-4a69d47737e8",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "22d1de6b-d68a-4288-be3e-9b3e27e98078",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "11456a6d-524c-4fbc-be31-108d563f7a27",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "5131260d-b36f-4009-89f7-1c94e325d132",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "7a919a37-b5a9-49a3-a141-43170d0f7443",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "538074ca-b36c-4623-8aea-0580210211e6",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "476491ec-932e-429b-bc51-5b09230728db",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "f18bbea2-a2ff-4973-9367-e2e9d713c2c0",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "a4852dc7-ba8d-471a-9a8d-4ce300aaba94",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "378cd575-66cc-466b-aed4-1f58d2d868fc",
+      "gold": "grandson",
+      "prediction": "stepbrother",
+      "raw_prediction": "stepbrother",
+      "status": "error"
+    },
+    {
+      "id": "6ab7ecec-13b5-443d-bfdf-2ed5c098c1d5",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "41e81015-3893-48c4-90a1-0e48724bf267",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "09e3f71a-418d-402b-87e3-0d67d751ef08",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "82ea64d8-90ad-46a5-8db5-20c2e3053027",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "839690c0-0e3e-4f44-b3a1-dafd265dd80b",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "e4dd682f-acdd-4858-b7af-1f99f724a3b9",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "e9315427-f170-46ba-99cc-950c459cf383",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "7d4d3933-1ee6-42e4-afd0-b912cd320362",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "b7307d1a-62fc-4e8d-b5ba-65a78f5c6474",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "98d4fc5a-4a04-4176-adae-3d4ab7d59eac",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "398f12bc-3ad3-4b9e-9f7c-d80241f9b065",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "a4240f00-8912-48c0-bae5-18b8f940d410",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "d93728ee-a9d5-45e6-8f0e-7424feb9e996",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "3756ab02-c85a-4384-b747-d5a08c864b05",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "4913b75c-fecf-48f0-b43e-f592a3acad8c",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "d2323979-ad9f-4357-8120-c67a34e860bc",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "189164ac-c52c-45eb-b000-e209e9c959f5",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "17819a6f-564b-4921-94d2-49810e05df75",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "c72a2a80-c2e3-47f1-a5d8-fc09c681de50",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "ffc387c1-ae5f-4f28-909b-45dd38dc30fc",
+      "gold": "daughter-in-law",
+      "prediction": "daughter-in-law",
+      "raw_prediction": "daughter-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "0c17b305-8d01-41d1-84d5-6069f38f4041",
+      "gold": "son-in-law",
+      "prediction": "son-in-law",
+      "raw_prediction": "son-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "e79a3bca-4dfa-40f0-a3b3-61c0127d79f8",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "fe32b636-dd71-44f9-9067-d6cf20b57e1d",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "ea17c2b5-bd80-4c12-b0c5-2f3a7229cc3b",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "4ef644ff-bf20-4ef4-b034-1c59692f8d1f",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "7b4e47c2-dadc-4940-ba3d-6adf6b5c3b51",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "3b6c9594-a2a6-46f4-a761-19fbdffdac8c",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "52c16dd1-4608-4e05-a1ae-db5084a5f1d1",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "0fcc4f03-60d0-46e2-b1bd-d0424d12a2fc",
+      "gold": "brother",
+      "prediction": "great-great-grandfather",
+      "raw_prediction": "great-great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "78564013-ac41-4871-aa66-e19eca20fbb8",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "8850e7ee-3fc7-4a76-8279-2e28abfc203d",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "d27789c7-0aa0-47f5-aa4a-b137f5a2f37e",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "3fe494fe-1c75-4290-95a7-ff971e28cef8",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "6611231a-7b66-40fc-96db-7a959dea0ff6",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "ca3fd20a-caa1-41b8-8857-8cfe0057c190",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "8002f8cc-1c1d-4679-980b-9bffa24ca0c4",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "e49092ca-ea74-4540-9b65-e9b773426a3d",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "4dfd9cb0-8f77-4e18-905c-c82f7b2ed2f3",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "4c969b6e-dcb2-4537-934a-869e581c0f01",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "cdbb57ce-8436-48a1-b588-8063387bbfb4",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "73317795-fb78-4d18-9df6-0a4c4cb69d2c",
+      "gold": "aunt",
+      "prediction": "great-grandmother",
+      "raw_prediction": "great-grandmother",
+      "status": "error"
+    },
+    {
+      "id": "c4564298-6931-4b6e-819a-55aadfdd1c9a",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "5484c12f-1cd5-4353-b97d-c9a05f2d8fb7",
+      "gold": "grandmother",
+      "prediction": "stepmother",
+      "raw_prediction": "stepmother",
+      "status": "error"
+    },
+    {
+      "id": "87ce695e-a0cf-4fc0-9e50-bfcba72394c9",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "a3894f97-8c9a-4309-9481-cf3e4d860d49",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "88fb02c9-a130-419d-80a2-e30c59dedf82",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "98869bb4-2f49-41d8-bf59-c067a98645aa",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "815b202e-dbde-4c2f-a3bf-59342e32ad9d",
+      "gold": "aunt",
+      "prediction": "great-grandniece",
+      "raw_prediction": "great-grandniece",
+      "status": "error"
+    },
+    {
+      "id": "ca234d53-166c-483e-988a-59f8ccd96586",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "1fe4333a-ebac-4aa3-93be-4ae54f7f273d",
+      "gold": "niece",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "b8c2b989-2093-46f5-8cff-9de97d0c5cac",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "cd0ef023-eaff-4cbf-a07a-71f777769a47",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "1215e571-845b-409e-b6a8-d1bd1fb255c0",
+      "gold": "mother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "0cf15fe6-0854-4666-aae5-ebe95bcb942e",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "751515bf-833d-4096-ae14-0ac93bac224a",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0a49ca0e-372a-4eda-886b-559776ef67f7",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "6fcb6d8d-1183-4b4f-b0f3-61366c3950b7",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "e6b44d26-655d-4bd3-a150-6e92b081b399",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "d1ab445f-4651-4767-b937-4a706b441fae",
+      "gold": "niece",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "error"
+    },
+    {
+      "id": "6f240340-deea-4217-a8b4-a34157b5d840",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "dbbb0c11-863d-4e20-890a-cb6425c6a0a5",
+      "gold": "daughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "fc8aa912-6bcc-4457-ba61-70e0b934e6d3",
+      "gold": "father",
+      "prediction": "great-grandfather",
+      "raw_prediction": "great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "0dbda9d8-23ff-4ff2-8743-d2ac18a38307",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "ab90afc6-f47c-47a8-a7d8-1cee5b505d72",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "63d8f6da-d52a-4e4b-9e62-24456607d824",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "85e003d6-09e9-44cf-8353-14e716841f0e",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "0a3b4de2-2927-4ef1-a073-aa4fe8e4f2c6",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "0057eda6-1ca8-4950-9b59-b3e843557a52",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "ec1c56e2-0e56-43fd-9921-9592b52f72be",
+      "gold": "nephew",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "error"
+    },
+    {
+      "id": "8b391c26-d158-43e9-95de-2ff59e18d9e5",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "73e94dc3-6273-471c-8c9b-36a6b9d4305c",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "706d8852-72b7-4cb8-9723-250f1845ef93",
+      "gold": "son-in-law",
+      "prediction": "son-in-law",
+      "raw_prediction": "son-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "ea6ce4ad-97a3-4c6c-958c-932704b7ebfc",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "c2bdeb88-aa80-4fc0-aad5-515684f1a573",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "3d7f23c6-5b37-497e-bb57-5de5c8aa907d",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "ba872aa2-b68f-45a2-9f4a-92d52a58c0ce",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "dcf87e47-13be-4c23-b17c-e296b6e3cdf9",
+      "gold": "brother",
+      "prediction": "granduncle",
+      "raw_prediction": "granduncle",
+      "status": "error"
+    },
+    {
+      "id": "19068a0b-8912-46bf-8409-16648308ee4f",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "cab19f53-5e35-4060-be88-fa18284fc0ec",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "26e4f26c-8fa3-41ad-8202-f0975476ed06",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "6302c99a-c3ea-47ee-8e4c-55928b590c01",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "b720add1-eb4a-4885-8ef0-7e591e5a90f3",
+      "gold": "daughter-in-law",
+      "prediction": "daughter-in-law",
+      "raw_prediction": "daughter-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "73726472-5797-4c5b-a144-48846734ec02",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "483d1ebf-af0c-42d6-83e7-6f970ded2d67",
+      "gold": "granddaughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "1c9202c9-1f58-4dd7-9784-c23d556ada8e",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "208fb2bd-9e06-49e4-a57d-bb0460012fcb",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "4395279e-2d16-4da1-a77c-a0904376e9d3",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "9d8dd327-a76f-4a65-ae51-1c2850ea69b5",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5a0fc011-fc18-4e8b-a5c0-cb9ad87fdffc",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "c20baf17-9ac2-4e05-8518-45450e3d6eb7",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "5e9cb37a-66b0-42ca-9f9e-c64437c5d8b4",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "acb87fc9-a1f1-4323-ac3c-8785cf3a1820",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "78fc9d6a-fdbc-4da1-8868-8b18c8784405",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "9733d4e8-949d-447d-9791-56fa358f74d5",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "09164876-026c-4a59-945a-6302ebce4af2",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "f1b6cb09-b55c-47d5-a8c5-32e542d62346",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "1456ca47-4e93-43fb-9568-0c418b29caa9",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "b23c5bea-acfa-443b-a788-045e02d4a95b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "aa82359e-b14f-4c29-8cd7-0e408424ab09",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "475670ef-4daf-40be-a685-343206d9a426",
+      "gold": "grandfather",
+      "prediction": "great-great-grandfather",
+      "raw_prediction": "great-great-grandfather",
+      "status": "error"
+    },
+    {
+      "id": "75abec5f-daaa-4c0d-95e3-4100a9c536e6",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "None",
+      "status": "error"
+    },
+    {
+      "id": "cb0d2dbd-02b4-4994-9385-82ecd2fcb79c",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "f7e0305c-f79e-46a8-9001-3b41cfa03a8b",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "0c894609-8160-41e2-8e8c-08d67cb5ccc7",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "594053dc-ce7b-44fd-92d9-61c6cd734a26",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "2893ef0d-b305-4ce6-a843-2814014e810b",
+      "gold": "sister",
+      "prediction": "great-great-grandmother",
+      "raw_prediction": "great-great-grandmother",
+      "status": "error"
+    },
+    {
+      "id": "0710b529-999d-4a27-81c6-2b1850a0bf21",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "7cd8f87f-0be4-4efa-b02b-8041f19cddf5",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5c1812f4-07cd-4133-968d-825dfd39a665",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "764ff793-1981-44ed-ba69-95a0b0beeaee",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "4743f03a-c86d-410f-a445-9d47f9b2596c",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "d884662e-75e2-48aa-b82e-01cf23683b1e",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "78e69cbf-0f3b-48fd-a8ed-3fc2382c9d71",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b3385ece-720b-48b0-9e69-4561e0fd091e",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "281b1edc-f3be-4648-9e49-4406d048a8c9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "abd37269-e239-4c62-b67f-145fe41731e3",
+      "gold": "grandson",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "9a34abe4-36d2-4b18-9950-1857aa920af1",
+      "gold": "daughter-in-law",
+      "prediction": "daughter-in-law",
+      "raw_prediction": "daughter-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "892d10b4-1dba-41b4-834d-e4e12eb6181a",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b5b112f7-abbb-4d3d-b0c6-3acd03dd3a9a",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "c9e59704-ba7a-46d1-ab95-ecdb943a94ac",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "b9e6a0d7-b2b8-4b56-bb32-047f7f526b3c",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b51b2176-5f79-4cba-8992-f4b762a79ac3",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "26ef6538-67ef-46e3-b142-c1a4142c9969",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "c93482af-0554-4139-a6ee-8b1651fdcfc9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "0c949c9e-1fc6-4757-b22f-b0e01eff3933",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "fc29975a-8d16-4ed3-91ba-0540507df00b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "11eec92e-a118-483b-b977-3ebd7d17d8fc",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "9cbe70aa-33d2-4fba-964f-fa6eb02bdf50",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "2a91d1ee-9116-48ce-9ab7-9cc65045705f",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "2f434ff7-3953-4752-a7a3-9da997fad2d1",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "22c3e799-1b76-4f8b-ade2-7993012cf29c",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "044054de-0354-4164-98c8-c7c7362c668b",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "96959759-475d-488d-ae95-11e38fd78830",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "29814a77-2a3f-4abd-b0d5-db08a63e4af1",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "8c7ba30b-593e-4a15-b676-e31424a70bcd",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "681c70d9-5d14-4ec2-a607-365ce8e1a342",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "a3b2850d-1ca3-458e-ac37-7b04f6056702",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "7b6d4183-d0f1-483e-8021-74a99159cc4a",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "acaaa4fa-d097-4b3e-a9c6-f042ef7b8b55",
+      "gold": "son-in-law",
+      "prediction": "son-in-law",
+      "raw_prediction": "son-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "51a271b6-c59c-478d-9225-aafe69f354fc",
+      "gold": "grandson",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "0629dffd-be88-4d51-8269-66a8ab6b950f",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "66a9529d-cdae-4035-9ff3-5373afb8aec8",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "5eef192a-9f2f-449b-b533-e3c103a5e59b",
+      "gold": "brother",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "error"
+    },
+    {
+      "id": "afd734f7-894e-4a9a-8246-da3691b042f1",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "60268597-b83f-4374-be11-ee0326900608",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "106bc167-77d3-4a30-81d7-4f253704d592",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "a8a79d7a-df15-4aa3-aaf6-3f8b432c95dc",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "1fd7d9b5-4b0c-4fd1-923f-c484b7624c11",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "a94353a6-ca3f-4f71-9f88-c89ee92dcfe9",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "8c5d962e-df20-4c88-a36c-9413c887ee4f",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "8266a7f9-3504-4d9c-8ac8-2254288661b2",
+      "gold": "uncle",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "83423a25-8214-42bf-8539-e92c9b9a1848",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "0d3624f1-46ba-4490-93e5-17fa70c8f55c",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "08e8f9e5-7d90-4d72-8351-29cb1d259b52",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "deee3dd9-3c56-45a3-b571-91bb156e2097",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "4690a981-9a1b-4f57-94a4-705d6053d5aa",
+      "gold": "uncle",
+      "prediction": "great-great-great-great-uncle",
+      "raw_prediction": "great-great-great-great-uncle",
+      "status": "error"
+    },
+    {
+      "id": "011e2c64-ce9f-469d-bd21-0a887c5d705d",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c9183a68-37d3-4e26-b935-52823c388d50",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "4c52c4ea-10bb-4205-9b29-6e943a95cfea",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b525b64a-bb45-4be5-b24b-2f90a7969ea1",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "beef3a7f-837d-4ef6-87ce-15e8fe351b40",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "d9dbbb8d-041a-41d0-b1c5-296e94ede58c",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "57cd3435-5767-49f1-844d-025418ef6c6e",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "32014131-f201-4f41-ab86-7c6d728ec044",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "623a6527-845c-4398-9586-0d71e8e77fbf",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "7d47b4ab-4dee-436e-8306-5eb1d2093657",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "f9d91e4e-3b48-44d3-9d05-2820a2174afe",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "6024dddb-7b1d-4d9d-a928-9659fe7e317e",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "bee9a22e-378e-40fb-a219-4b6909b1abdc",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "d4655bc9-7b10-4c30-b791-d226bc787168",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "08430cd0-2995-4430-a3ef-b32131f1ffdf",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "e0cdfd77-0592-471c-9af4-9d994fd3577c",
+      "gold": "granddaughter",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "cf8ccbb5-d2b6-4ac5-b39d-774f0b932866",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5ea4294f-64d0-42d8-b503-c0768c9ae505",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "a7d6ae04-973b-4ef8-822d-f66a68b180a1",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "5dd1bc53-36cb-410c-a53b-235a6d5b5fa0",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c44fef6b-7867-4734-ba94-135ca59a3f92",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "d36b2be0-dff9-44a6-bdd7-916b546227d0",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "d01f9f0d-c960-4b89-9be8-c1aaa673a963",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "50287a6a-b21a-489b-b1ca-b3d74fb100a9",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "d69be797-5256-431a-ace2-48d2448737fe",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "b0065e07-f7cf-4578-a323-78f12436194e",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "03e7aded-f98a-4d33-a3e9-1b3e8a8a3059",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "cca8929f-72e6-470b-9c85-cb31ce5d5310",
+      "gold": "nephew",
+      "prediction": "uncle-in-law",
+      "raw_prediction": "uncle-in-law",
+      "status": "error"
+    },
+    {
+      "id": "f535479f-9c70-44e6-9b57-707f976a6c10",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "57c812b2-eb52-4df0-89ed-eb133d932bf4",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "7a1564f1-6abf-4b52-ab75-952a5555c7b7",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "5aa90258-e6d1-4272-92d8-f4c511177aa9",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "01d727b0-1935-41ef-864f-f5d46881be04",
+      "gold": "aunt",
+      "prediction": "great-grandaunt",
+      "raw_prediction": "great-grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "cbd5f32e-8d23-4678-8a55-21701f626659",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "c46b35ec-3768-4556-9786-8edd10b1050c",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "17bdc3ac-6ebc-4f53-ba1d-0e5498b36710",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "2e170b28-a504-4d2f-ad3a-202e77c5d4f8",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "da2d8271-a579-4dbd-9bed-19d7343a676d",
+      "gold": "niece",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "error"
+    },
+    {
+      "id": "5aac5e45-76e9-4aac-94eb-b5ccdb856c68",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "963b178c-41bf-46bc-bd7c-215f1c47c106",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "ba46e143-12f2-403e-836c-def6bbf7a5d3",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "415d9a37-71b5-42c3-9111-4b79ea3cd81c",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "7d357641-d50f-40b3-9868-ff771f857166",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "5ee354d9-b29c-4cf7-925c-163b2f99af5d",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "8a7cfacf-e820-4bba-832b-dfbcd90eebfa",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "f4311edd-6c79-4faa-97f5-41b5bc8fa973",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "d686447a-9b78-48c7-8651-8f9cab0573e9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "0fbf804e-15db-4a04-a57f-9d42273b711b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "7cfc10ae-a78c-4545-9d9b-d5666990ab6f",
+      "gold": "aunt",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "3c95a047-ca42-43da-8f0d-4075e122d755",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "ca368886-22e3-44aa-b53d-1a8576db0281",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "a391d470-57f9-4798-b953-c1abea015888",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "0b5a5fc0-e7ec-45ac-b197-92e372507411",
+      "gold": "niece",
+      "prediction": "grandniece",
+      "raw_prediction": "grandniece",
+      "status": "error"
+    },
+    {
+      "id": "9a27c4fc-cec1-4085-9733-645feacb7d80",
+      "gold": "aunt",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "63b591c3-ec7a-4cf1-ba8c-059c351b9b40",
+      "gold": "niece",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "error"
+    },
+    {
+      "id": "76ff4690-db3d-44e9-af0b-752d39aa84d5",
+      "gold": "nephew",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "error"
+    },
+    {
+      "id": "cc8e2020-d011-48fa-80c5-cc37e968a2e1",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "f0d8b4da-c8a7-41af-9b09-c6b6490429a4",
+      "gold": "uncle",
+      "prediction": "great-granduncle",
+      "raw_prediction": "great-granduncle",
+      "status": "error"
+    },
+    {
+      "id": "c1742b98-b55c-4183-b7e4-e06592cd1837",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "959741cf-309b-4b7f-8f4a-87238db4c960",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "c2ac55a7-29f2-4b2e-ac9d-dbc6122ec465",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "b82bd187-c75f-4c3e-9636-ee5fb513484b",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "5c92f43f-a1ef-43ad-afbb-f14bb02c4253",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "5393023f-35b0-4da3-83a7-f492b39fbd28",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "9effc7dd-8f29-4a1c-abf6-2d926d2abc9e",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5eb4f7a0-1207-43d0-890a-724a9fa0f97b",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "bf049c7b-8c9f-4b0c-a0d3-d14d1feabac8",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c1675f36-89ff-4ea7-9fda-14b6db14d03c",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "00a4f439-f207-4ede-999f-f258b4f6bead",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "dcc88f6d-ceb7-45a6-becf-ab2a0ad9dcd1",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "428134d2-7194-4ba7-8eb4-aa2dac07085f",
+      "gold": "son",
+      "prediction": "uncle-in-law",
+      "raw_prediction": "uncle-in-law",
+      "status": "error"
+    },
+    {
+      "id": "89a24b8d-2d4a-47b1-a82b-b27c813d71f8",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "2aa13f1b-bb91-4725-bca0-8d0dfd5b94c0",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "44553620-1cfe-4458-8957-bf67fe7313f2",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "8f331e51-f039-43f2-8a99-ad32f13c21ea",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b07db664-4f55-44e0-9dad-1b1071926164",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "0f6f61f4-9bca-4cf1-bee1-fe7794ad7003",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "645def2c-50d8-4007-a837-2b7dcd052764",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "1e3afa89-da18-45d7-b817-bba266f16996",
+      "gold": "grandson",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "7772ff98-a5fb-4bee-aebd-25d55ec8d2df",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "6882a773-1d27-43d1-9983-f8f8e7c08adb",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0a19eeb4-3b28-4eb4-b7c4-c0a753ee878a",
+      "gold": "nephew",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "error"
+    },
+    {
+      "id": "ac6dd9ea-855f-4797-9b4a-2085186b3f85",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "7fe5bf37-1093-4204-b536-b23af6a75c15",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "f6b4c5ec-e48b-4687-aa28-20733d8541cd",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "54e27e5c-f418-4ed6-a359-8b4af6ba0771",
+      "gold": "brother",
+      "prediction": "granduncle",
+      "raw_prediction": "granduncle",
+      "status": "error"
+    },
+    {
+      "id": "0f2e93a4-cdb5-48a4-bf11-d2962e9ba6b3",
+      "gold": "aunt",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "error"
+    },
+    {
+      "id": "5c68514c-eb80-4a99-a891-313a6e9f3e28",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "0253b093-ac4a-424a-b081-051ae63f20c0",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "6f680994-5333-48d1-8c92-4b51fe12c8f0",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "829f4663-bdb3-48a9-8a19-29a8800df344",
+      "gold": "brother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "a770fb8b-f4cb-40c8-8319-9fb1d4ef2e25",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "2b7a9299-b954-4926-991e-4038a280f8c0",
+      "gold": "granddaughter",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "23324254-dc1a-47a2-99ad-217efe670709",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "59d6886e-a0de-44ce-b419-541c9236de20",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "39740450-e920-447a-9a44-0ffe9e04882c",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "8e0fc70c-938b-4c3c-9f00-a9465959e4b9",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "04f63b4e-bc42-4d9e-b1e3-b2024a91a405",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "d8580cf6-8654-4688-81bb-7df64a4cfad1",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "b2c2a136-70d1-4290-aab3-bbbd4ef89f6f",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "7b2a272c-8faf-4521-bf48-a42f1914e80a",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "f589254a-0f55-4f0a-acce-a886bcbe9f9b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "8e4f5695-a741-4c92-8907-89b9ee318a4e",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "b3dc3a88-8e58-4a3c-b15a-d9f5bf1ed382",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "de7b3651-36b9-4841-a5f0-1aadb50d7309",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "f0b472eb-37c0-4f26-ae1c-5e6ac0c5fbdc",
+      "gold": "grandson",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "e5da6830-7d36-4ea6-8c2c-0d1ed6c9f026",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "536b80b1-bb60-4389-b585-2d60fb648467",
+      "gold": "father",
+      "prediction": "father-in-law",
+      "raw_prediction": "father-in-law",
+      "status": "error"
+    },
+    {
+      "id": "453ce3aa-c46c-4eac-a32b-d708c67a4f07",
+      "gold": "brother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "a6cd6163-345e-4aa1-84f4-ba8240eb84bc",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "67fe8b49-52e0-4a06-aeca-da84f10a173d",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b4ade94d-9e72-44e4-8028-a44e56fd7891",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "4a2661fd-802e-4747-bafa-9f579c4148af",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "54442326-ffd0-4d14-8989-97cebc4c8b49",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "b38a7667-c4a7-4d3b-be7b-abf22e686f52",
+      "gold": "nephew",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "error"
+    },
+    {
+      "id": "28725e25-4e94-4882-95d5-443835d89828",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "8c9808d3-fb2a-4417-94a9-a76c420e8c48",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "5ef1aa00-4a5a-4f3d-b37b-c9e0558d7ec4",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "44f5e46b-acde-4d29-95d9-a43a5bf953bc",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "ac2eace2-6fcf-4e7e-a339-2b6ade8143c4",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "f38dd320-6ae6-48be-874e-ef2be1bd512f",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "9131dd65-8d89-43fd-b392-9decc55042f7",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "f6e255d5-623d-4d0d-a759-6b8b89105b98",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "8af6abfa-28ae-4dd7-87aa-7ca2b08cff41",
+      "gold": "daughter-in-law",
+      "prediction": "daughter-in-law",
+      "raw_prediction": "daughter-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "64aa79ed-d010-4bbb-aebd-6a798640bb73",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "97156704-1dfe-4af2-911b-3708b2b321b8",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "85515db9-4f91-45be-8d62-ab1245d49157",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "dad6777d-d07f-4dae-8077-261f25ef6b98",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "11985f06-2819-4372-92ef-0d1b974bc928",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "c1e81dc9-1d8c-467c-98b7-6b0053e299ac",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "85af7f3f-165e-40e7-a7fc-f729f6e0f0f7",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "c34ac243-b7a4-4db6-9628-a15844c75447",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "8c08ab74-22dd-494d-912a-4dca89567830",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "c8b24eeb-0ade-4cac-816a-d931484d4a90",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "0dff806f-aea4-4896-b67a-7826c7b03266",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "7b1a84d3-470a-4b2e-8405-75d06dd43395",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "4887921e-c1b1-4a3f-a501-18fcb6e7e23c",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "b28eeefe-283e-485f-b4fe-94f7d24bf7eb",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "63799ecd-eb0b-45c1-bd3a-e540b1048534",
+      "gold": "grandson",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "cbc8697f-7073-404c-a76f-cb0fbc25b226",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "86232cc9-1ba7-41e4-a7d2-368e8d9f8a4e",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "073aafa1-ff50-404e-8cc4-a7c82f4ecb74",
+      "gold": "uncle",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "8d74d3c9-7d27-4b12-8fed-dfbeb4b44ba0",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5ee9593b-9094-4dc0-8647-3952b23ab72a",
+      "gold": "uncle",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "de7cab9c-008b-4603-bccf-3e9eecc4060a",
+      "gold": "uncle",
+      "prediction": "great-great-uncle",
+      "raw_prediction": "great-great-uncle",
+      "status": "error"
+    },
+    {
+      "id": "47adc324-d3f0-435f-a326-06aaa42e8ff3",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "47c71a61-2305-4b14-a634-d0cab103087e",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "6628ecb4-163c-4b34-b7fc-9dd11a639b4d",
+      "gold": "niece",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "42f4f3f3-3ce7-49a9-b63b-f0797ad3db0f",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "baef1f38-02bc-450e-960d-6c937dab022d",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "866c87f9-35d7-441f-b36f-1ed47bda460c",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "16a20c71-663f-497a-a738-31b9aca75c9e",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "f34b3229-4ab3-4d7d-9c5d-42b0f7feada1",
+      "gold": "aunt",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "07741858-7471-4fa7-80e5-7f26a0dff891",
+      "gold": "mother-in-law",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "0eca5f3d-1542-40d0-8d71-fa4b5dd82c81",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "bd05de5d-b1c5-4867-aacc-1e050015d8ef",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "57e61f60-795c-42f8-8c36-3c2a40cc0f24",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "b1a50869-24f5-4578-94cb-abfac51e09c5",
+      "gold": "grandmother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "ca50d606-4c42-4200-935f-e676bd030b9a",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "3fc979ba-c556-422b-a42e-924633695356",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "84813bc7-a5d2-4f78-a0c3-e4235af6b4e7",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "17b8993c-7409-4200-9500-52f4d329c427",
+      "gold": "brother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "eb3dcded-a18b-4134-b6a7-b34a12ff0824",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "1668a1d3-3701-440d-b753-d9062d489e8e",
+      "gold": "father",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "7e85f421-a94f-42e3-bb60-1031ac1cf348",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "edbddb8f-1b8d-4a55-b5dc-34a04b202561",
+      "gold": "grandson",
+      "prediction": "great-great-grandson",
+      "raw_prediction": "great-great-grandson",
+      "status": "error"
+    },
+    {
+      "id": "eabb2708-d0eb-43e3-9852-d8b0f4c1895a",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "f8a2073f-f4c2-40b4-a670-ddd695c182e1",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "4497e65e-f566-4b98-b4f8-69684610337a",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5dcab9c6-eb0b-4771-9bc1-dbffd8061984",
+      "gold": "father-in-law",
+      "prediction": "great-grandfather-in-law",
+      "raw_prediction": "great-grandfather-in-law",
+      "status": "error"
+    },
+    {
+      "id": "6392c08b-a2b3-4350-acd3-cedc20fbd58f",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "2c051fde-902e-45c4-8a55-e8cd30dfd6a9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "3fe9ee4d-5807-43c1-8bc0-71a1016a0e48",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "bb41e37a-23c1-4b80-b3d3-b9b70d2a56e4",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "b1f923a0-9f68-41c9-926a-1ea7462bff08",
+      "gold": "daughter-in-law",
+      "prediction": "daughter-in-law",
+      "raw_prediction": "daughter-in-law",
+      "status": "correct"
+    },
+    {
+      "id": "797719ab-44cd-47b0-aaf4-501423ba8d13",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "a1ac1b98-c37a-4b0e-a18d-75414ba3c2a4",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "03237b77-5a65-4213-b52d-f92d1792f000",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "d095bd53-7f1b-4353-91f0-d6092068ccff",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "90b5870a-ac95-4625-974b-ee3049b35d2d",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "5b8f4bbb-a389-45a4-ba26-dba86a6eb597",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "d7e3be74-a7df-4791-9f46-2a15e6852fe0",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "b656a63d-bfc9-40a9-93cb-3362eccd73d4",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "b13c4689-9b2f-427f-a536-3e9ad53da5cb",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "9b910184-ffba-49a5-9cad-17592f4f07b1",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "5adf1607-fd65-47b7-b686-1937c14a0912",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "415fdf22-0a35-4ba7-b03a-fbd2412a383d",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "063b6e54-8386-44cb-82b7-08474b9f3c2d",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "cfd41f40-e81a-4278-8e52-bad007b71a0c",
+      "gold": "granddaughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "27193a0c-a715-4fb4-ae74-f597b4140ad3",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "4bbb59ce-749e-4dd8-be8d-19719a9e917f",
+      "gold": "nephew",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "error"
+    },
+    {
+      "id": "60648297-6182-45a8-a3cd-d9f48fbfdca7",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "1e36c721-dc6f-4a9a-b8cf-dfd19fc3a505",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "ce2a0ca9-6ab4-40d4-9268-ad845c8c7c7f",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "e12aa34c-4f2a-4a39-8908-b3b496f3b9be",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "9e88ca04-d66c-43a8-b05a-a2bdea59e51b",
+      "gold": "uncle",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "a67e4138-5654-447c-9703-e5fc33b669f7",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "b2885dde-0f7c-40e9-a4be-176041c89aeb",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "ebefed69-b4f7-4041-9fa0-9ede3fc9bd6a",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "0720cbd8-9c7a-4cdb-a257-e646552958c0",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "507a6a4a-9e9c-407e-bf54-bdc594a2875e",
+      "gold": "grandson",
+      "prediction": "granduncle",
+      "raw_prediction": "granduncle",
+      "status": "error"
+    },
+    {
+      "id": "37689dcc-a2e4-493f-afa7-d425aff40e54",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "28fe7bef-bca5-4ab0-b7e6-b4f04c6426c1",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "9783106b-2f72-4319-86fb-d6b712a3fa53",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "68909e8e-6e2f-4749-b184-d9173fdf223c",
+      "gold": "brother",
+      "prediction": "grandfather-in-law",
+      "raw_prediction": "grandfather-in-law",
+      "status": "error"
+    },
+    {
+      "id": "4f3fa697-ebf9-4c3d-aba1-17c8672b2da1",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "af3eafd9-8643-4624-80c5-066753b9be7d",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "fd26af28-67fa-410c-9cfb-a4dfb3f3f03d",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "d86d22d3-1700-4081-9c18-cbadaba1fabd",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "ab5e5dba-4296-4664-a919-ed473b92566f",
+      "gold": "son",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "error"
+    },
+    {
+      "id": "a4db0302-9863-4938-991e-b57b5747f25c",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "9d4604e7-2931-40f4-b5f5-f2aff1f5ad04",
+      "gold": "niece",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "1f629d32-2f9b-4dd7-a7c8-fe95c2a598af",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "6e2b6c75-8477-40e1-920a-c5858b0754bd",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "9160a88e-ac62-4cb2-8c89-21d366448366",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "c19860ae-e357-4ec4-b2fa-385957bee383",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "987b81da-9fa9-4352-8c28-bc31460f3389",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "a6d8733a-9da7-4c8b-9f85-93e4b24707fd",
+      "gold": "grandson",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "fb5ed58c-ff12-499b-815d-7e9825f95270",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "2c3c1ae3-cb2e-49c7-813c-13dc9e3a5baf",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "49f4e837-3c80-4ce8-8b77-962d730638c0",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "7f125984-94c0-41d0-9a02-819f351ba0d5",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "e2d593a0-5d27-4bbe-ab68-8d0954aedd08",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "83ce2935-d560-4023-bd75-124601407d84",
+      "gold": "niece",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "error"
+    },
+    {
+      "id": "f2685ce0-b419-4fd0-8275-2946b6403f01",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "d561b91e-c573-41b2-ae3c-c3f3196d5fd9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5ba1a514-78d3-4f1c-abe1-57ebeb442958",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "19250e0d-78af-478f-a2a5-12c38cfa6ee6",
+      "gold": "granddaughter",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "c66fc793-0ed8-4728-8e2c-fe6ab87ff642",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "87ced386-9f88-4af1-acfc-e3e8898f19c9",
+      "gold": "uncle",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "94ab8058-6039-48fe-ab5c-5fc87e819da0",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "108d589b-e10d-4780-8f29-245424333489",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "0e1e6137-a750-4894-93a3-fb99f5c03255",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "f1051df9-826e-415f-9bae-91e32e2ed7c3",
+      "gold": "sister",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "1949b58f-32b3-4fb1-8505-14eba947a51c",
+      "gold": "aunt",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "9bd66914-b7c7-45d9-b4e9-3ae83233a20a",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "6a65d51b-a477-450c-bbe8-168ae1c1746a",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "a5f12992-6006-4d04-8fc5-e0ee7b2d192d",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "a35e30d1-5a5f-46b1-a81f-be604d82e000",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "ee90714b-c89e-4c25-8c32-a60bc10dff11",
+      "gold": "aunt",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "error"
+    },
+    {
+      "id": "367c69cf-3b99-4c38-b15f-092b9414f5d8",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "42791451-e7d2-4ac7-a753-4990b4b29304",
+      "gold": "granddaughter",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "d9cabf36-f69f-4b14-96a4-c77916bd49db",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "079175a6-c3b6-4019-a2db-24415c450bf6",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "5745d450-57df-4042-85b7-2fbea02c2827",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "00ef91d2-5aad-4adf-b87e-ba003f48a992",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "47c4117b-fe4e-4355-88e2-77f1501589d7",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "7cae6fb1-b100-4b2e-b352-4d2f22894b78",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "01e29b45-c794-45d2-9f93-1d210f399e62",
+      "gold": "grandfather",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "65d83b48-c5c2-46ac-9050-a7061b374b5a",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "d98db5c0-b686-4988-9097-34270b5390fa",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "042c7e38-c293-428b-b540-d5f823f63bf3",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "8ebe29db-2e8e-45e4-876a-451966ab7488",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "5f5343ca-68fa-4390-973c-4ff5743cf331",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "118bcfc1-94e4-46e5-83a8-d012d33f8dcd",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "dbc4e4af-cdbb-4341-b05d-d3b96a832b73",
+      "gold": "aunt",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "93df6842-cbb3-4aa0-a54a-1ef89a56ac9a",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "bba81cfb-5c2b-4149-b1c5-5844a182282a",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "62d1c4df-0c29-4973-8dff-b78402b9ff32",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "a1eddff7-8822-4e4f-8280-7658ecb56e14",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "333c2909-67a9-4b07-88c8-9dc7a6c7740d",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "ec522a81-ecc5-411f-b2b4-a09b1b047d57",
+      "gold": "brother",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "20691b30-5e09-4f17-9676-6c3d0f12a09e",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "385dbe91-7321-41ff-93c2-47aee377c153",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0be5c92d-5f6e-498c-9db8-d04788d55fee",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "6853a9e8-603d-4a43-8635-e6864a7b1582",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "dc799fed-44c6-4ed4-b9a0-05feee9e388e",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "1ab7f507-76ab-4be6-910d-82ed59c8dfc4",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "b5b972c8-6e1a-4b6e-ba4a-04b6ee576a87",
+      "gold": "granddaughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "750c442b-125e-47ff-a712-ad2c15eaa325",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "4de08b9c-f764-4680-bc19-41ac845ff893",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "fbfca784-b85a-4d1d-8d20-d8c3b684411f",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "32ea25f7-8189-49f6-a66b-d9cf85b3778f",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "eeacbc90-3a38-42ce-b18a-4bbaf22bc8b6",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "07a5d401-c1ab-4571-b60f-dfb16048514d",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "04c1d371-f507-47ab-9d68-abdff287851c",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "9ab1d31a-5b6e-4641-a214-af89fe2089e7",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "248dabcf-c643-452a-b5df-d4d49b57c84c",
+      "gold": "daughter",
+      "prediction": "daughter",
+      "raw_prediction": "daughter",
+      "status": "correct"
+    },
+    {
+      "id": "ce66f737-29a7-41e6-b09e-e0377b779318",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "06d478a0-53ec-4de0-b4d0-b6373c5038c8",
+      "gold": "grandmother",
+      "prediction": "great-great-great-grandmother",
+      "raw_prediction": "great-great-great-grandmother",
+      "status": "error"
+    },
+    {
+      "id": "2bff490a-986e-4379-82dd-f1fee6a122eb",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "a6e34686-199b-47aa-bb5e-d7e4f8a7d91e",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "0f5d5d90-58d7-48ae-bf00-9d96f717dc7c",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "1fe7092c-9a48-418a-80cd-873455e9face",
+      "gold": "grandson",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "611cae16-650e-4925-af2e-9ce448311bdf",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "7fc5ee0e-a561-4c0f-adde-0ec409c3c22f",
+      "gold": "son",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "5d3456d8-0016-4916-a97b-cbb59986c160",
+      "gold": "aunt",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "error"
+    },
+    {
+      "id": "21a2a18e-6f9f-4854-ba77-0d2aca5c7c50",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "e51c8214-7a3a-4c50-8786-8b74fa700ce7",
+      "gold": "brother",
+      "prediction": "granduncle",
+      "raw_prediction": "granduncle",
+      "status": "error"
+    },
+    {
+      "id": "c48713ff-7781-4821-8919-903cf9acee22",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "8fc5bb92-5dc7-4833-9b56-278512557f07",
+      "gold": "mother",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "error"
+    },
+    {
+      "id": "7ea09299-fa40-4d99-8044-179aab29d6c2",
+      "gold": "niece",
+      "prediction": "great-granddaughter",
+      "raw_prediction": "great-granddaughter",
+      "status": "error"
+    },
+    {
+      "id": "4e2d4133-68c0-42e2-a967-d96664177856",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "f98fa7ce-f7d7-4d2a-882e-dcd17b4758ae",
+      "gold": "uncle",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "ceacb412-49fb-4ee0-91a4-1b239a2178cf",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "8e6dc793-0c85-41d9-8096-60d04be9a2d4",
+      "gold": "aunt",
+      "prediction": "grandaunt",
+      "raw_prediction": "grandaunt",
+      "status": "error"
+    },
+    {
+      "id": "3bb53807-6c9e-4e28-a8a1-75a3457ed961",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "Grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "d7b5f751-b519-45ca-b53d-4f746e980bb1",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "c56797e6-eff0-4e22-9042-696287d9ab98",
+      "gold": "granddaughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "ab57cb09-78b5-4b74-ace4-9e1ec213fbd6",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "86330538-97a3-44a3-88b6-ccaf0840f915",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "6077ad3c-210d-4a26-b598-89eb3f7723a8",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "e531a85b-a133-4624-9b80-09c0e254e4fb",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "9739d1f7-e9ed-4d9a-98a4-f782f0f1ee13",
+      "gold": "niece",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "9a9f54c1-ab9d-4e52-a449-b7aca98dce3d",
+      "gold": "grandmother",
+      "prediction": "grandmother",
+      "raw_prediction": "grandmother",
+      "status": "correct"
+    },
+    {
+      "id": "97894c1c-f23c-4a52-a818-3b7ac79a28e6",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "50a51456-f763-4832-82da-db04427fc7c2",
+      "gold": "nephew",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "e039685c-0358-44a6-9626-2cfecda53a7c",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "705fc0c3-fb39-4870-9f8d-8635e3d42328",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "2defec5b-bbf2-431a-8a58-7ba9903c1f5a",
+      "gold": "daughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "f22ca1c7-2544-4d27-87ec-4d83d58ddc9c",
+      "gold": "aunt",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "c6a51e4b-403d-498f-b0e7-faaea81dd22a",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "01c47175-e63f-4b44-8f8c-0a5691820a2d",
+      "gold": "mother",
+      "prediction": "great-grandmother",
+      "raw_prediction": "great-grandmother",
+      "status": "error"
+    },
+    {
+      "id": "9c0fab58-8b4e-489d-9885-83aff7f82465",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "70d5102b-b300-46d4-9e63-0b468b71c3f9",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "cfa1785d-8bc3-4952-a5f8-1b590c931365",
+      "gold": "niece",
+      "prediction": "grandniece",
+      "raw_prediction": "grandniece",
+      "status": "error"
+    },
+    {
+      "id": "c604b43a-c5e5-42c0-9fd1-0a6f52d70ecd",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "e7552f1c-7def-4df6-b3d8-ea0f1f2deb44",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "6085ff26-7ba6-4c23-96b2-b0130b6639f3",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "2135fd04-bd6f-488f-8c9d-d55fe6c24ce2",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "2285c7ba-1e4e-4eff-bb90-ad92029cdade",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "1f201591-dc59-4288-924b-891484c378e2",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "4d7efcbf-526f-493d-802a-c736a7b94947",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "f15304ca-8564-4c61-b0b0-6520457ac6ce",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "3d6cf83a-5e4c-4198-a667-1ba8fdce65e2",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "23f5571d-53c3-4f55-acf8-0658adfd8b0f",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "8327adaa-421e-4e07-b502-c8bc6ab47b65",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "62aa1145-25b8-4575-a1f2-670f9592de1a",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "79e5ee96-d514-4cb8-b434-e505acdc0a3e",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "bcfd460d-ba61-4868-841a-f389b81eb34b",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "faf72c2b-26f0-470e-98a4-e20182709794",
+      "gold": "sister",
+      "prediction": "wife",
+      "raw_prediction": "wife",
+      "status": "error"
+    },
+    {
+      "id": "ab661c63-7933-499e-aaa5-2cdcf6f2a31d",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "020ac677-b25c-4ca2-a072-5f86700148ce",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "2a9d3683-e7bc-432c-9028-f952eed795f4",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "6983af91-a063-4674-812f-911c9b828499",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "47feee6c-683d-4ed4-9b21-74579d8e79d1",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "792df31f-39fa-4d6c-8eba-7e7d32a476a5",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "78b10b8d-77c3-4185-a1d9-98ae0a790a7e",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "b54c0406-cf5e-4ba6-ae5e-abc11d1d512d",
+      "gold": "uncle",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "3fd00bbb-a1bc-4646-8e4a-55ad47c1a9d4",
+      "gold": "aunt",
+      "prediction": "great-great-aunt",
+      "raw_prediction": "great-great-aunt",
+      "status": "error"
+    },
+    {
+      "id": "7f62c8a3-90e4-4400-81c2-1ca7ae8d7944",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "be8699a6-1cf5-43d9-ad6e-fbcbd170177b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "f0e5d467-3a49-4f14-9b34-edd7abcc7d7f",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c5b1a55d-1158-4e0a-9f15-06126461ed9f",
+      "gold": "aunt",
+      "prediction": "great-grandmother",
+      "raw_prediction": "great-grandmother",
+      "status": "error"
+    },
+    {
+      "id": "768ce17b-9b7f-45bc-8504-6094f7332852",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "fef4136c-023d-45f7-825d-f64b5ef10644",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0f9a5af3-fee8-4ffe-86da-3e24fb8c558b",
+      "gold": "uncle",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "e3784dc4-e100-4b42-8ee3-6defab058714",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "29c23809-89da-4ac6-970e-80d837f95999",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "4cca2fc1-c9ab-49cc-ad72-28306f45fcd9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "3f734d22-155e-4cfc-b9a6-06e31c8f87ad",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "2f01b040-0ec7-450c-a563-af53727dda72",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "219bcda4-ecd0-409e-b75a-c2096475f9f6",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "385c7691-6527-4623-9803-36d7718402ee",
+      "gold": "uncle",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "9a217b3f-7653-483f-8630-093d00a105ef",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "3837112f-69b7-4fee-9231-826648c13a1d",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "7f7cb0ab-e9b1-487e-ac19-0e3b847309ed",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "02dfac19-cf4b-4302-befd-835e83ab8456",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "443e4452-10ba-4c8b-a3df-550c3034c278",
+      "gold": "granddaughter",
+      "prediction": "granddaughter",
+      "raw_prediction": "granddaughter",
+      "status": "correct"
+    },
+    {
+      "id": "b2f0f569-d8c5-4598-ba88-4e68dcd3bd75",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "bf1f68f4-cc27-4412-8ab7-a49e25fd777a",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d4bf63a7-77b4-4fe0-ac9b-71af7e6caa53",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "ccdb0681-6979-4277-b360-c9c496aaff05",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "fa9317f7-905a-4d05-bc3e-d0eb4daf6108",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "43b81302-e3c9-4669-bee3-1446c6162f0a",
+      "gold": "granddaughter",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "04b3b1f2-5de1-45b2-9de4-e5779338d799",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "44848ced-4156-4bfc-835e-a778fe9dda9f",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "a9786369-18d6-408b-a7f7-1cf20a6735d6",
+      "gold": "nephew",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "error"
+    },
+    {
+      "id": "cc810d8e-661b-4122-9ad1-0654b43e2257",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "073359cd-8a89-4742-88b2-6ea4c6ddb876",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "ffc427eb-1def-4589-8d4d-216ef6a1c9d3",
+      "gold": "father",
+      "prediction": "stepfather",
+      "raw_prediction": "stepfather",
+      "status": "error"
+    },
+    {
+      "id": "abe85ea2-6502-492c-9eda-b6478eee5d70",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "96191ebd-373f-4c8b-9007-0eb40c2d5bcd",
+      "gold": "brother",
+      "prediction": "great-grandson",
+      "raw_prediction": "great-grandson",
+      "status": "error"
+    },
+    {
+      "id": "ec0f1c10-0db3-4a42-9ced-2e97af02436e",
+      "gold": "daughter",
+      "prediction": "daughter-in-law",
+      "raw_prediction": "daughter-in-law",
+      "status": "error"
+    },
+    {
+      "id": "083de612-d95f-4fc5-ab8b-fce02d784d79",
+      "gold": "nephew",
+      "prediction": "uncle-in-law",
+      "raw_prediction": "uncle-in-law",
+      "status": "error"
+    },
+    {
+      "id": "0b81c630-41ab-4b06-a5cc-a4f6fa8c0bc1",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d4c811f6-f1bd-4962-80eb-050163ea17de",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "b1322744-adfb-4b2d-a980-040bd6a71569",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "40ff47da-f271-4a14-94cf-3fb2fcb388b5",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "3978f2cb-3490-40c9-a16c-2c99cef89344",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "c2479da0-d6ad-498e-a97f-05eb9d099dc9",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "72c17579-71c9-4c50-9a41-f31bc4daed75",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "dac6984f-8316-469e-bf33-49bb3d1ebb48",
+      "gold": "uncle",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "b5f2655d-e901-4e39-9bc6-8e50db2f21c1",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "413a71bd-232d-45f8-af63-d45adf69f814",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "c8a633a4-735e-4230-94e1-2d74e0bbb9a8",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "e26a8822-78a0-4753-a331-51252b84e482",
+      "gold": "brother",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "ab952a71-e48b-48a3-879b-a94c343b3b4e",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "c19e1de7-9598-4a60-8aca-acadbfd84de4",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "7b165392-f414-4590-b325-61a2ab539c85",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "011690ba-3f31-4c69-8eed-a3f84e9df5e1",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "5533eb81-d0f6-4d7a-894a-4bf22af798d4",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "8525bc39-6686-4484-9852-8beb3e1bc36e",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "dfed1eb9-1142-44f4-998c-99474140f5e5",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "4eb645b1-b2db-42aa-b545-01274e99814e",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "28147ae1-41d9-40e9-8c36-a8bf67e64dfc",
+      "gold": "grandson",
+      "prediction": "inlaw",
+      "raw_prediction": "inlaw",
+      "status": "error"
+    },
+    {
+      "id": "33c513b4-d438-4fb9-a07d-6e8f8fa553dc",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "608c723f-985b-4375-95eb-3bde7c7dae5c",
+      "gold": "granddaughter",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "18b80c3e-6ffc-46d7-a2c3-8b0347b9e9e5",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "e2acd402-bd47-4c0d-bf2e-62a983d91e79",
+      "gold": "uncle",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "error"
+    },
+    {
+      "id": "df5d51d9-a73b-4f8c-afaf-0822069e4002",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "e4213a1a-08e4-43be-8dfe-d45db903de7b",
+      "gold": "grandson",
+      "prediction": "grandson",
+      "raw_prediction": "grandson",
+      "status": "correct"
+    },
+    {
+      "id": "5c5babd1-e8bc-4b79-81e3-a4175e2f61b8",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "9c4021fc-5d4a-4e66-8d50-8ecd48104c10",
+      "gold": "niece",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "error"
+    },
+    {
+      "id": "09a85f27-5439-428e-ae7b-a9a998e36a34",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "ff975fb4-c413-4331-bf30-11f59889ccc5",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "9b7f1f44-6f83-4041-b9e5-6be89f38a203",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "e89cd0bf-7401-4f54-8cc9-931da5e6dfbc",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "97768138-d411-4411-922b-609605803ce7",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "ced04d35-ab00-4080-a999-7583f95e8f76",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "50990b71-6040-4ad6-b024-59fcdae8ccdd",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "39e86853-e387-49ae-bb85-42a6a0e41bc5",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "73bab279-69a8-4bc4-82d8-caa7b9c63771",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "a1294cc7-e2fd-4943-9887-f030b7d65db5",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "6a7861c7-3903-4cf8-ad16-14b237b6d4ba",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "c85aa3b9-d605-4a20-af54-6e0a10ad1e50",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "d89817e4-796c-4039-a671-9e9b75646887",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "b2999f11-f352-490c-860f-b5dd05f3d619",
+      "gold": "nephew",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "11e34e6d-4692-4e14-a9de-6d31ded1c636",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "2614acae-2f71-475d-9277-6d1386570f8c",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "8446beb5-d599-46af-be64-582744e42b63",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "f14ba77f-a935-4445-8b2c-4af0b8ed8daf",
+      "gold": "daughter",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "419df3e6-dabc-4aea-a0b6-7020af4803d4",
+      "gold": "niece",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "e2946077-30ad-4ece-a543-e1cad3c86b3c",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "a18ed5e1-9e05-4883-bc41-5393cc9bb837",
+      "gold": "son",
+      "prediction": "stepson",
+      "raw_prediction": "stepson",
+      "status": "error"
+    },
+    {
+      "id": "c4452b92-86bd-4565-9532-f9d0858c87fc",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "c534fa28-f829-4db9-a67c-4c954b2b5eab",
+      "gold": "grandmother",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "4a0b3f61-b48d-4b25-bf82-0687beda603d",
+      "gold": "aunt",
+      "prediction": "cousin",
+      "raw_prediction": "cousin",
+      "status": "error"
+    },
+    {
+      "id": "32d13b37-d443-44ef-aefb-eb36306635d1",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "1dfe61de-cab8-4bf1-b822-5297a2384dcb",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "098c0d45-4161-438e-9070-eff6fff1d846",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "1be9dc89-019c-4b3a-b5aa-98e6251ebf27",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "5e750d85-3bca-4042-9f94-b4e7f25897ba",
+      "gold": "brother",
+      "prediction": "great-uncle",
+      "raw_prediction": "great-uncle",
+      "status": "error"
+    },
+    {
+      "id": "58ba8271-1de8-48d5-82e4-727baf623cd6",
+      "gold": "uncle",
+      "prediction": "granduncle",
+      "raw_prediction": "granduncle",
+      "status": "error"
+    },
+    {
+      "id": "21b39851-08b6-42d1-8e37-4bf0cf9cd891",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0cd0a0c3-9cf1-4b5a-aeb4-ec26e2f09a5a",
+      "gold": "sister",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "270d72cf-b05e-44b7-9f0c-528871c0ecec",
+      "gold": "brother",
+      "prediction": "brother",
+      "raw_prediction": "brother",
+      "status": "correct"
+    },
+    {
+      "id": "1e03c707-cd4c-4496-a3e8-60498e9d4d80",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "bc19b9a5-6883-40f0-934d-bd48b4e09b34",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "acebd77d-c007-4604-8411-df8389f6da0c",
+      "gold": "uncle",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "error"
+    },
+    {
+      "id": "44ff2b1f-9bd9-4c05-9a5e-eba732950a73",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "f985d5e6-abca-428d-b6d5-fec8cb39abac",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "a649315a-8ea0-4887-b66e-5db48348bee4",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "34ef405e-496f-4632-ae7e-2b7957758d5d",
+      "gold": "brother",
+      "prediction": "husband",
+      "raw_prediction": "husband",
+      "status": "error"
+    },
+    {
+      "id": "fd36412c-6798-4624-9adc-d8b23c1503db",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "c608d158-1405-463c-bbd1-e383fc1c1559",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "8919d833-9664-4e88-befc-8271726028cf",
+      "gold": "mother",
+      "prediction": "greatgrandmother",
+      "raw_prediction": "greatgrandmother",
+      "status": "error"
+    },
+    {
+      "id": "72ae22e5-32d5-48e9-a89f-0e7ecf02a27f",
+      "gold": "grandfather",
+      "prediction": "grandfather",
+      "raw_prediction": "grandfather",
+      "status": "correct"
+    },
+    {
+      "id": "e184a8be-c45b-441a-ad59-97b66aebadc4",
+      "gold": "son",
+      "prediction": "unrelated",
+      "raw_prediction": "unrelated",
+      "status": "error"
+    },
+    {
+      "id": "48d9d791-94e7-4a38-a2f1-1bdd60582b1b",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "0ea30b17-91f0-449f-9a0f-f8e874acf7b6",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "d377b6a5-0dff-4d31-8ebf-3fbf5195b3ed",
+      "gold": "brother",
+      "prediction": "brother-in-law",
+      "raw_prediction": "brother-in-law",
+      "status": "error"
+    },
+    {
+      "id": "a802a19d-9030-47f2-9c17-ac7e65611c96",
+      "gold": "nephew",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "225325ae-0ffd-4f0c-9f16-5ed74d536582",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "da9a6dc1-5b04-40d7-9d15-8386a65e3e72",
+      "gold": "son",
+      "prediction": "son",
+      "raw_prediction": "son",
+      "status": "correct"
+    },
+    {
+      "id": "bf447b83-96b0-42e2-92f0-860a9068a636",
+      "gold": "aunt",
+      "prediction": "aunt",
+      "raw_prediction": "aunt",
+      "status": "correct"
+    },
+    {
+      "id": "7797ae9c-fa6c-4f6b-b0dc-9b59f5618179",
+      "gold": "niece",
+      "prediction": "none",
+      "raw_prediction": "none",
+      "status": "error"
+    },
+    {
+      "id": "010a2195-2693-4e39-a6a5-007e8b626a50",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "b9d568ee-f24e-4c73-8e94-285eac305ac9",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "566a7fa0-6339-4c57-858c-263ed18813a6",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "60d04cbb-7210-4895-b710-6c1962a243ac",
+      "gold": "sister",
+      "prediction": "sister-in-law",
+      "raw_prediction": "sister-in-law",
+      "status": "error"
+    },
+    {
+      "id": "1b6722d6-8555-47ca-bb08-1d7a869765fd",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "63e416c4-d86f-4bf2-80dc-6076463222be",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "a35a6cc8-ad52-42e1-badb-ebb782d38f92",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "45ac38d2-cdda-4a6c-9785-a4b4c8f3e779",
+      "gold": "sister",
+      "prediction": "sister",
+      "raw_prediction": "sister",
+      "status": "correct"
+    },
+    {
+      "id": "6cea9e2b-36ef-4e4e-9795-4b790d614fb1",
+      "gold": "father",
+      "prediction": "father",
+      "raw_prediction": "father",
+      "status": "correct"
+    },
+    {
+      "id": "2ccffd59-b791-4c75-b76e-a453cbd4e7bf",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "d3d0a17e-1397-472f-9978-17f478ce9adf",
+      "gold": "uncle",
+      "prediction": "uncle",
+      "raw_prediction": "uncle",
+      "status": "correct"
+    },
+    {
+      "id": "03e06853-d1eb-47f8-98c0-6b46fa8725d0",
+      "gold": "mother",
+      "prediction": "mother",
+      "raw_prediction": "mother",
+      "status": "correct"
+    },
+    {
+      "id": "fdffdd5a-0283-4673-b700-c2d0eab9ed0b",
+      "gold": "nephew",
+      "prediction": "nephew",
+      "raw_prediction": "nephew",
+      "status": "correct"
+    },
+    {
+      "id": "08b250b8-ed36-4133-8a91-3c2c3f69a95b",
+      "gold": "niece",
+      "prediction": "niece",
+      "raw_prediction": "niece",
+      "status": "correct"
+    },
+    {
+      "id": "ac99bf23-4b61-4789-8404-dde3932965d3",
+      "gold": "niece",
+      "prediction": "unknown",
+      "raw_prediction": "unknown",
+      "status": "refusal"
+    },
+    {
+      "id": "1dbbc66e-ac52-4e21-81ed-7678c4fc90ee",
+      "gold": "mother",
+      "prediction": "mother-in-law",
+      "raw_prediction": "mother-in-law",
+      "status": "error"
+    }
+  ]
+}
