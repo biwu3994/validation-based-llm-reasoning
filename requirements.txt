@@ -1,0 +1,8 @@
+openai
+pandas
+python-dotenv
+re
+json
+os
+ast
+glob
