@@ -17,7 +17,6 @@ The framework introduces an external validation layer that:
 
 The experiments were conducted using GPT-5 on the NeuLR and CLUTRR reasoning datasets.
 
----
 
 ## Repository Structure
 
@@ -54,7 +53,6 @@ config.env
     Environment configuration file for API access.
 ```
 
----
 
 ## Datasets
 
@@ -65,7 +63,6 @@ This study uses the following datasets:
 
 The datasets are used for research and evaluation purposes.
 
----
 
 ## Environment Setup
 
@@ -81,7 +78,6 @@ Set the OpenAI API key in `config.env`:
 OPENAI_API_KEY=your_api_key
 ```
 
----
 
 ## Running Experiments
 
@@ -97,7 +93,6 @@ Framework-based evaluation:
 python main_framework.py
 ```
 
----
 
 ## Preprocessing
 
@@ -109,7 +104,6 @@ preprocessing/
 
 These scripts convert the original datasets into the processed JSON format used by the framework.
 
----
 
 ## Evaluation and Analysis
 
@@ -126,7 +120,6 @@ This repository accompanies a master’s thesis submitted to Stockholm Universit
 
 The framework focuses on reasoning reliability rather than only answer accuracy. The goal is to reduce unsupported reasoning by introducing explicit validation and controlled refusal behavior.
 
----
 
 ## License
 
